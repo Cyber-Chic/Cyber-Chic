@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🛰️ SYSTEM://[Cyber-Chic]
+> **ACCESSING DATA...** 🟢 [NOMINAL]
 
-<!--
-**Cyber-Chic/Cyber-Chic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**The Moore Signal // Curated by Angela N. Moore**
+*Bridging the gap between digital code and physical reality.*
 
-Here are some ideas to get you started:
+This terminal serves as the central hub for my creative and scientific inquiries—ranging from open-science research to the code-based subsystems of the **Moore Archive**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 ACTIVE DIRECTORIES
+*   **🔭 [RESEARCH]** - Data inquiries and citizen science via **NASA Exoplanet Watch**.
+*   **🧪 [THE ARCHIVE]** - Digital gateway to the physical artifact hunt: [Emaze.me/TMA](https://emaze.me)
+*   **🎮 [EPHEMERA]** - Educational coding projects and digital experiments (Happycat, etc.)
+
+---
+**[ ☕ MISSION SUSTENANCE ]**
+Sponsorships support my full creative ecosystem—from public-facing research and citizen science to the physical art drops of The Moore Archive.
+[**➡️ SUPPORT THE JOURNEY**](YOUR_PAYPAL_URL)
