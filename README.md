@@ -9,7 +9,7 @@ This terminal serves as the central hub for my creative and scientific inquiries
 ### 📁 ACTIVE DIRECTORIES
 *   **🔭 [RESEARCH]** - Data inquiries and citizen science via **NASA Exoplanet Watch**.
 *   **🧪 [THE ARCHIVE]** - Digital gateway to the physical artifact hunt: [Emaze.me/TMA](https://emaze.me/tma)
-*   **🎮 [EPHEMERA]** - Educational coding projects and digital experiments (Happycat, etc.)
+*   **🎮 [EPHEMERA]** - Educational coding projects, digital experiments & [more](https://linktr.ee/angie_moore)! (Happycat, art, etc.)
 
 ---
 **[ ☕ MISSION SUSTENANCE ]**
