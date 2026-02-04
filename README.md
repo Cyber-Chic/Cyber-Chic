@@ -14,4 +14,4 @@ This terminal serves as the central hub for my creative and scientific inquiries
 ---
 **[ ☕ MISSION SUSTENANCE ]**
 Sponsorships support my full creative ecosystem—from public-facing research and citizen science to the physical art drops of The Moore Archive.
-[**➡️ SUPPORT THE JOURNEY**](YOUR_PAYPAL_URL)
+[**➡️ SUPPORT THE JOURNEY**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZEL)
