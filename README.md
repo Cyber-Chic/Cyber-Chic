@@ -4,11 +4,11 @@
 **The Moore Signal // Curated by Angela N. Moore**
 *Bridging the gap between digital code and physical reality.*
 
-This terminal serves as the central hub for my creative and scientific inquiries—ranging from open-science research to the code-based subsystems of the **Moore Archive**.
+This terminal serves as the central hub for my creative and scientific inquiries—ranging from open-science research to the code-based subsystems of **The Moore Archive (TMA)**.
 
 ### 📁 ACTIVE DIRECTORIES
 *   **🔭 [RESEARCH]** - Data inquiries and citizen science via **NASA Exoplanet Watch**.
-*   **🧪 [THE ARCHIVE]** - Digital gateway to the physical artifact hunt: [Emaze.me/TMA](https://emaze.me)
+*   **🧪 [THE ARCHIVE]** - Digital gateway to the physical artifact hunt: [Emaze.me/TMA](https://emaze.me/tma)
 *   **🎮 [EPHEMERA]** - Educational coding projects and digital experiments (Happycat, etc.)
 
 ---
