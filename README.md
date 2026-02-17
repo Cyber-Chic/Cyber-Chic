@@ -7,9 +7,10 @@
 This terminal serves as the central hub for my creative and scientific inquiries—ranging from open-science research to the code-based subsystems of **The Moore Archive (TMA)**.
 
 ### 🛡️ VETTED SIGNALS
-*   **[ANALYTICAL INQUIRY]** – Awarded the **[Milli Award](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)** for innovation in mathematical theory and social-development design.
+*   **[MATHEMATICAL INQUIRY]** – Awarded the **[Milli Award](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)** for innovation in mathematical theory and social-development design.
 *   **[LITERARY ARCHIVE]** – Published poet in **The Literary Yard**, **The Drabble**, and **Rue Scribe**. Author of *A Powerful Giant*. [View Poetry Portfolio](https://angies.poetry.blog)
 *   **[NATIONAL CAMPAIGN]** – Featured in **[The New York Times](https://www.nytimes.com/paidpost/tiaa/on-the-right-track-retirement-ready.html)** for strategic data synthesis and long-term planning.
+*   **[TECHNICAL BRIEF]** – **[The Moore Archive: Digital-Physical Handshake Protocols](https://www.researchgate.net/publication/400799383_The_Moore_Archive_TMA_An_Inquiry_into_Digital-Physical_Handshake_Protocols_and_Geospatial_Signal_Persistence)**. An inquiry into geospatial signal persistence and the "Positive Zero" principle.
 
 ### 📁 ACTIVE DIRECTORIES
 *   **🔭 [RESEARCH]** - Data inquiries and citizen science via **NASA Exoplanet Watch**.
@@ -23,3 +24,4 @@ Sponsorships support my full creative ecosystem—from public-facing research to
 
 ---
 > *I want to live as though I traveled back in time... To this very moment. And take in all the beauty I couldn’t see the first time around.*
+
