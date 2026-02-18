@@ -13,10 +13,10 @@ This terminal serves as the central hub for my creative and scientific inquiries
 *   **[TECHNICAL BRIEF]** – **[TMA: Digital-Physical Handshake Protocols](https://www.researchgate.net/publication/400799383_The_Moore_Archive_TMA_An_Inquiry_into_Digital-Physical_Handshake_Protocols_and_Geospatial_Signal_Persistence)**. An inquiry into geospatial signal persistence and the "Positive Zero" principle.
 
 ### 📁 ACTIVE DIRECTORIES
-*   **🔭 [RESEARCH]** - Data inquiries and citizen science via **NASA Exoplanet Watch**.
-*   **🧪 [THE ARCHIVE]** - Digital gateway to the physical artifact hunt: [Emaze.me/TMA](https://emaze.me/tma)
-*   **💎 [THE COLLECTION]** - Curation of **[Specialized Numismatic Assets]**: [Pretty Coinz](https://github.com/Cyber-Chic/prettycoinz)
-*   **🎮 [EPHEMERA]** - Educational coding projects, digital experiments & [more](https://linktr.ee/angie_moore)!
+*   **🔭 [RESEARCH]** - Data inquiries and citizen science via **NASA:** **[Exoplanet Watch](https://github.com/Cyber-Chic/nasa)**
+*   **🧪 [THE ARCHIVE]** - Digital gateway to the physical artifact hunt: **[Moore Archive](https://github.com/Cyber-Chic/themoorearchive)**
+*   **💎 [THE COLLECTION]** - Curation of **[Specialized Numismatic Assets]**: **[Pretty Coinz](https://github.com/Cyber-Chic/prettycoinz)**
+*   **🎮 [EPHEMERA]** - Educational coding projects, digital experiments & **[more](https://linktr.ee/angie_moore)!**
 
 ---
 
