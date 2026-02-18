@@ -14,7 +14,7 @@ This terminal serves as the central hub for my creative and scientific inquiries
 
 ### 📁 ACTIVE DIRECTORIES
 *   **🔭 [RESEARCH]** - Data inquiries and citizen science via **NASA:** **[Exoplanet Watch](https://github.com/Cyber-Chic/nasa)**
-*   **🧪 [THE ARCHIVE]** - Digital gateway to the physical artifact hunt: **[Moore Archive](https://github.com/Cyber-Chic/themoorearchive)**
+*   **🧪 [THE ARCHIVE]** - Digital gateway to the physical artifact hunt: **[Moore Archive](https://cyber-chic.github.io/themoorearchive/)**
 *   **💎 [THE COLLECTION]** - Curation of **[Specialized Numismatic Assets]**: **[Pretty Coinz](https://github.com/Cyber-Chic/prettycoinz)**
 *   **🎮 [EPHEMERA]** - Educational coding projects, digital experiments & **[more](https://linktr.ee/angie_moore)!**
 
