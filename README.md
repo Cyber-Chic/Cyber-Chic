@@ -18,6 +18,21 @@ This terminal serves as the central hub for my creative and scientific inquiries
 *   **🎮 [EPHEMERA]** - Educational coding projects, digital experiments & [more](https://linktr.ee/angie_moore)!
 
 ---
+
+### [ 🛰️ THE CYBER-CHIC PROTOCOL ]
+> *“To architect a life where data has a soul, and science has a signature.”*
+
+**The Strategic Edge: The Bridge**  
+While others master one language, we translate across many. We don't just solve equations; we find the poetry in the **"Positive Zero."** We don't just map exoplanets; we turn raw data into a physical treasure hunt.
+
+**The Philosophy: Signal Persistence**  
+We are defined by the **Signals** we leave behind. By operating outside traditional institutional silos, we maintain the freedom to be **Recursive, Whimsical, and Unstoppable.** This is not a hobby; it is a specialized inquiry into the nature of human-tethered tracking and geospatial persistence.
+
+**The Goal: The Handshake**  
+To prove that a single **"Nominal Signal"**—persistent, ethical, and creative—can bridge the gap between digital code and the physical earth through a **Cycle of Honor.**
+
+
+---
 **[ ☕ MISSION SUSTENANCE ]**
 Sponsorships support my full creative ecosystem—from public-facing research to the physical art drops of TMA.
 [**➡️ SUPPORT THE JOURNEY**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE)
