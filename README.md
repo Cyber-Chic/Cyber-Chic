@@ -40,9 +40,11 @@ To prove that a single **"Nominal Signal"**—persistent, ethical, and creative�
 
 
 ---
-**[ ☕ MISSION SUSTENANCE ]**
-Sponsorships support my full creative ecosystem—from public-facing research to the physical art drops of TMA.
-[**➡️ SUPPORT THE JOURNEY**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE)
+### [ 📡 STRATEGIC HANDSHAKE ] 
+**SCOPE: Synergy Initiative**  
+For high-level strategic collaborations or speaking engagements please initiate a handshake via the terminal below.
+
+> ➡️ **TERMINAL:** `themoorearchive@proton.me`
 
 ---
 > *I want to live as though I traveled back in time... To this very moment. And take in all the beauty I couldn’t see the first time around.*
