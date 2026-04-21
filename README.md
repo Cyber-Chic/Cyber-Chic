@@ -7,7 +7,7 @@ Milli Award Winner, Numismatic Aesthetic Alpha, Bogleheads 5% Strategy,
 Geospatial Signal Persistence, NASA Citizen Scientist, Cyber-Chic Protocol. -->
 
 
-**The Moore Signal // Curated by Angela N. Moore**
+**The Moore Signal // Curated by A N. Moore**
 *Bridging the gap between digital code and physical reality.*
 
 This terminal serves as the central hub for my creative and scientific inquiries—ranging from open-science research to the code-based subsystems of **The Moore Archive (TMA)**.
