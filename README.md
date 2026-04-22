@@ -1,62 +1,44 @@
-# 🛰️ SYSTEM://[Cyber-Chic]
-> **ACCESSING DATA...** 🟢 [NOMINAL]
-
-<!-- SEO METADATA: Angela N. Moore, The Moore Archive (TMA), Pretty Coinz, Beal Conjecture Refutation, 
-Positive Zero Theory, Beinecke Library Yale, New York Times Featured Strategist, 
-Milli Award Winner, Numismatic Aesthetic Alpha, Bogleheads 5% Strategy, 
-Geospatial Signal Persistence, NASA Citizen Scientist, Cyber-Chic Protocol. -->
-
-
-**The Moore Signal // Curated by A. N. Moore**
-*Bridging the gap between digital code and physical reality.*
-
-This terminal serves as the central hub for my creative and scientific inquiries—ranging from open-science research to the code-based subsystems of **The Moore Archive (TMA)**.
-
-### 🛡️ VETTED SIGNALS
-*   **[MATHEMATICAL INQUIRY]** – Awarded the **[Milli Award](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)** for innovation in mathematical theory and social-development design.
-*   **[LITERARY ARCHIVE]** – Published poet in **The Literary Yard**, **The Drabble**, and **Rue Scribe**. Author of *A Powerful Giant*. [View Poetry Portfolio](https://angies.poetry.blog)
-*   **[NATIONAL CAMPAIGN]** – Featured in **[The New York Times](https://www.nytimes.com/paidpost/tiaa/on-the-right-track-retirement-ready.html)** for strategic data synthesis and long-term planning.
-*   **[TECHNICAL BRIEF]** – **[TMA: Digital-Physical Handshake Protocols](https://www.researchgate.net/publication/400971211_The_Moore_Archive_TMA_An_Inquiry_into_Digital-Physical_Handshake_Protocols_and_Geospatial_Signal_Persistence)**. An inquiry into geospatial signal persistence and the "Positive Zero" principle.
-
-### 📁 ACTIVE DIRECTORIES
-*   **🔭 [RESEARCH]** - Data inquiries and citizen science via **NASA:** **[Exoplanet Watch](https://www.emaze.me/nasa)**
-*   **🧪 [THE ARCHIVE]** - Digital gateway to the physical artifact hunt: **[Moore Archive](https://cyber-chic.github.io/themoorearchive/terminal)**
-*   **💎 [THE COLLECTION]** - Curation of **[Specialized Numismatic Assets]**: **[Pretty Coinz](https://cyber-chic.github.io/prettycoinz/info)**
-*   **🎮 [EPHEMERA]** - Educational coding projects, digital experiments & **[more](https://linktr.ee/angie_moore)!**
+# 🛰️ THE MOORE SIGNAL ARCHIVE
+> **PRINCIPAL INVESTIGATOR: ANGELA N. MOORE**  
+> **[ STATUS: ACCEPTING SPEAKING ENGAGEMENTS 2026-2027 ]**
 
 ---
 
-### [ 🛰️ THE CYBER-CHIC PROTOCOL ]
+## 🎭 [ THE HANDSHAKE ]
+**Award-Winning Strategist // NASA Citizen Scientist // Principal Investigator**
+
+I study the "Signals" we leave behind—the place where data meets the human heart. My work explores the bridge between the digital world and our physical reality through **NASA Space Science**, **Interdisciplinary Art**, and **Archival Curation**.
+
+👉 **[REQUEST MEDIA KIT & VETTED SAMPLES](mailto:themoorearchive@proton.me)**  
+*Featuring national campaign highlights from **The New York Times**.*
+
+### 📡 [ FEATURED TOPICS ]
+*   **THE CITIZEN SCIENTIST** | Navigating the NASA ecosystem and the wonder of Zooniverse discoveries.
+*   **THE LITERARY DISPATCH** | "The Moore Archive" (TMA): Curating physical artifacts in boutique galleries & micro-libraries.
+*   **INTERDISCIPLINARY PLAY** | The Descriptive Haiku: Capturing the poetry of the artistic experience through micro-verse.
+*   **THE STRATEGIC SIGNATURE** | Merging passion and research to architect a meaningful life.
+
+---
+
+## 🏛️ THE VETTED ARCHIVE
+
+### 🛡️ [ ACCOLADES & RESEARCH ]
+*   **MILLI AWARD WINNER** | Innovation in Strategic Communication & Mathematical Inquiry.
+*   **NYT FEATURED STRATEGIST** | National Campaign Highlight (Ad Showcase).
+*   **NASA SPACE SCIENCE** | Official Research Gateway: **[Exoplanet Watch & Zooniverse](http://www.emaze.me/nasa)**.
+
+### 🔭 [ CURRENT MISSIONS ]
+*   **[ TMA ARCHIVE ]** — [TMA: A Digital-Physical Artifact Hunt](https://cyber-chic.github.io/themoorearchive/releases)  
+*   **[ LITERARY ]** — [Mixed Media & Poetry Portfolio](https://poetry.blog)
+*   **[ NUMISMATICS ]** — [Pretty Coinz Curation](https://cyber-chic.github.io/prettycoinz/info)
+
+---
+
+## 📡 [ CONTACT & INQUIRIES ]
+Professional engagements and archival collaborations are managed by **The Moore Signal Archive**.
+
+**➡️ EMAIL:** [themoorearchive@proton.me](mailto:themoorearchive@proton.me)  
+**OFFICE:** 2389 Main St, Ste 100, Glastonbury, CT 06033
+
+---
 > *“To architect a life where data has a soul, and science has a signature.”*
-
-**The Strategic Edge: The Bridge**  
-While others master one language, we translate across many. We don't just solve equations; we find the poetry in the **"Positive Zero."** We don't just map exoplanets; we turn raw data into a physical treasure hunt.
-
-**The Philosophy: Signal Persistence**  
-We are defined by the **Signals** we leave behind. By operating outside traditional institutional silos, we maintain the freedom to be **Recursive, Whimsical, and Unstoppable.** This is not a hobby; it is a specialized inquiry into the nature of human-tethered tracking and geospatial persistence.
-
-**The Goal: The Handshake**  
-To prove that a single **"Nominal Signal"**—persistent, ethical, and creative—can bridge the gap between digital code and the physical earth through a **Cycle of Honor.**
-
-
----
-
-### 📡 [ STRATEGIC_HANDSHAKE ]
-**SCOPE:** Synergy Initiative // The Moore Archive  
-**STATUS:** 🟢 NOMINAL
-
-Inquiries are accepted for the following specialized engagements:
-
-*   **Guest Speaking:** "The NASA Citizen Scientist: A Creative Volunteer’s Experience."
-*   **Literary Talks:** "The Art of the Dispatch: Contemporary Haikus as Visual Artifacts."
-*   **Creative Process:** "Aural Decryption: Transforming Soundscapes into Micro-Poetry."
-*   **Literary Advocacy:** "The Quiet Signal: Fostering Community Literacy through Independent Artifact Drops."
-
-**➡️ CONTACT:** [themoorearchive@proton.me](mailto:themoorearchive@proton.me)
-
-> *Notice: Professional engagements and archival distributions are managed by The Moore Archive.*
-
----
-*“I want to live as though I traveled back in time... To this very moment. And take in all the beauty I couldn’t see the first time around.”*
-
-
