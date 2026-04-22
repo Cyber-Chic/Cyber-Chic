@@ -29,7 +29,7 @@ I study the "Signals" we leave behind—the place where data meets the human hea
 
 ### 🔭 [ CURRENT MISSIONS ]
 *   **[ TMA ARCHIVE ]** — [TMA: A Digital-Physical Artifact Hunt](https://cyber-chic.github.io/themoorearchive/releases)  
-*   **[ LITERARY ]** — [Mixed Media & Poetry Portfolio](https://poetry.blog)
+*   **[ LITERARY ]** — [Mixed Media & Poetry Portfolio](https://angies.poetry.blog)
 *   **[ NUMISMATICS ]** — [Pretty Coinz Curation](https://cyber-chic.github.io/prettycoinz/info)
 
 ---
