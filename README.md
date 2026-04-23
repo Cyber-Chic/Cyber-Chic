@@ -30,7 +30,21 @@ I study the "Signals" we leave behind—the place where data meets the human hea
 
 ## 🏛️ THE VETTED ARCHIVE
 
+<img src="https://github.com/user-attachments/assets/0fede972-9d1f-4ae2-93b7-89f9e529a0a7" width="350" alt="Milli Award Presentation">
+
+<br>
+
+> **EXHIBIT:** *Westfair Milli Award for Innovation // Life as a Human Magazine Feature.*  
+> 
+> **[ DISPATCH: 2026-2027 SCHEDULE ]**  
+> *The Archive is currently accepting inquiries for keynote engagements and interdisciplinary panels. Please coordinate via the Strategic Handshake protocol below.*
+
+<br>
+
+---
+
 ### 🛡️ [ ACCOLADES & RESEARCH ]
+
 *   **MILLI AWARD WINNER** | Innovation in Strategic Communication & Mathematical Inquiry.
 *   **NYT FEATURED STRATEGIST** | National Campaign Highlight (Ad Showcase).
 *   **NASA SPACE SCIENCE** | Official Research Gateway: **[Exoplanet Watch & Zooniverse](http://emaze.me/nasa)**.
