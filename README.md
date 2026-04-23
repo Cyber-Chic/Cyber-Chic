@@ -12,6 +12,14 @@ I study the "Signals" we leave behind—the place where data meets the human hea
 👉 **REQUEST MEDIA KIT & VETTED SAMPLES:** [themoorearchive@proton.me](mailto:themoorearchive@proton.me)  
 *Featuring national campaign highlights from **The New York Times**.*
 
+<p align="center">
+  <img width="800" alt="NYT National Campaign Showcase" src="https://github.com/user-attachments/assets/b0c0777d-e1e1-4ee2-83af-b013611796dc"" style="border: 1px solid #333; border-radius: 2px; padding: 10px; background: #fff;">
+  <br>
+  <strong>[ SIGNAL CAPTURE: NATIONAL CAMPAIGN HIGHLIGHT // THE NEW YORK TIMES ]</strong>
+</p>
+
+
+
 ### 📡 [ FEATURED TOPICS ]
 *   **THE CITIZEN SCIENTIST** | Navigating the NASA ecosystem and the wonder of Zooniverse discoveries.
 *   **THE LITERARY DISPATCH** | "The Moore Archive" (TMA): Curating physical artifacts in boutique galleries & micro-libraries.
