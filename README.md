@@ -63,4 +63,4 @@ Professional engagements and archival collaborations are managed by **The Moore 
 **OFFICE:** 2389 Main St, Ste 100, Glastonbury, CT 06033
 
 ---
-> *“To architect a life where data has a soul, and science has a signature.”*
+> *“I want to live as though I traveled back in time... To this very moment.”
