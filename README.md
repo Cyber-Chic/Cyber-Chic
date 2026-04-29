@@ -1,4 +1,4 @@
-# 🛰️ THE MOORE SIGNAL ARCHIVE
+# 🛰️ THE MOORE SIGNAL ARCHIVE LLC
 > **PRINCIPAL INVESTIGATOR: ANGELA N. MOORE**  
 > **[ STATUS: ACCEPTING SPEAKING ENGAGEMENTS 2026-2027 ]**
 
@@ -63,4 +63,4 @@ Professional engagements and archival collaborations are managed by **The Moore 
 **OFFICE:** 2389 Main St, Ste 100, Glastonbury, CT 06033
 
 ---
-> *“I want to live as though I traveled back in time... To this very moment.”
+> *“I want to live as though I traveled back in time... To this very moment.”*
