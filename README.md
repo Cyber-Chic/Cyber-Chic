@@ -57,7 +57,7 @@ I study the "Signals" we leave behind—the place where data meets the human hea
 ---
 
 ## 📡 [ CONTACT & INQUIRIES ]
-Professional engagements and archival collaborations are managed by **The Moore Signal Archive**.
+Professional engagements and archival collaborations are managed by **The Moore Signal Archive LLC**.
 
 **➡️ EMAIL:** `themoorearchive@proton.me`  
 **OFFICE:** 2389 Main St, Ste 100, Glastonbury, CT 06033
