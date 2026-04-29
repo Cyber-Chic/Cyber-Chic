@@ -1,15 +1,8 @@
-<div align="center">
-
-# 🛰️ THE MOORE SIGNAL ARCHIVE
-**PRINCIPAL INVESTIGATOR: ANGELA N. MOORE**  
-*A Proprietary Research Entity of The Moore Signal Archive LLC*  
-
-**[ STATUS: ACCEPTING SPEAKING ENGAGEMENTS 2026-2027 ]**  
-*“I want to live as though I traveled back in time... To this very moment.”*
+# 🛰️ THE MOORE SIGNAL ARCHIVE LLC
+> **PRINCIPAL INVESTIGATOR: ANGELA N. MOORE**  
+> **[ STATUS: ACCEPTING SPEAKING ENGAGEMENTS 2026-2027 ]**
 
 ---
-</div>
-
 
 ## 🎭 [ THE HANDSHAKE ]
 **Award-Winning Strategist // NASA Citizen Scientist // Principal Investigator**
