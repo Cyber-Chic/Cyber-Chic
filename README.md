@@ -17,15 +17,15 @@
 
 <br>
 
-<table border="0">
+<table border="0" align="center">
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/b0c0777d-e1e1-4ee2-83af-b013611796dc" width="450" alt="NYT National Campaign Showcase">
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b0c0777d-e1e1-4ee2-83af-b013611796dc" width="450" alt="NYT National Campaign Showcase" style="border: 2px solid #222; border-radius: 2px;">
       <br>
       <strong>[ EXHIBIT: NYT NATIONAL CAMPAIGN ]</strong>
     </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/0fede972-9d1f-4ae2-93b7-89f9e529a0a7" width="350" alt="Milli Award Presentation">
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0fede972-9d1f-4ae2-93b7-89f9e529a0a7" width="350" alt="Milli Award Presentation" style="border: 2px solid #222; border-radius: 2px;">
       <br>
       <strong>[ EXHIBIT: WESTFAIR MILLI AWARD ]</strong>
     </td>
@@ -43,11 +43,11 @@
 
 <br>
 
-<p align="center">
-  <img width="600" alt="CT Tech Week Sign" src="https://images.squarespace-cdn.com/content/v1/6646d49e7c433348183a0adc/21bf9640-8b20-4039-8498-d4f8445883de/CTTechWeek2024-15.jpg" style="border: 1px solid #333; border-radius: 4px; padding: 10px; background: #fff;">
+<div align="center">
+  <img width="600" alt="CT Tech Week Sign" src="https://images.squarespace-cdn.com/content/v1/6646d49e7c433348183a0adc/21bf9640-8b20-4039-8498-d4f8445883de/CTTechWeek2024-15.jpg" style="border: 3px solid #222; border-radius: 4px; padding: 5px; background: #fff;">
   <br>
   <strong>[ REGIONAL EVENT: #CTTECHWEEK #INNOVATION ]</strong>
-</p>
+</div>
 
 <br>
 
@@ -96,8 +96,8 @@ Angela N. Moore is a strategist and researcher exploring the "Signals" we leave 
 <br>
 
 ### 🛡️ [ ACCOLADES & RESEARCH ]
-*   **MILLI AWARD WINNER** | Innovation in Strategic Communication & Westfair Business Journals.
-*   **NYT FEATURED STRATEGIST** | National Campaign Highlight as seen in The New York Times.
+*   **MILLI AWARD WINNER** | Innovation in Strategic Communication // Westfair Business Journals.
+*   **NYT FEATURED STRATEGIST** | National Campaign Highlight // The New York Times.
 *   **NASA SPACE SCIENCE** | Official Research Gateway: **[Exoplanet Watch & Zooniverse](http://emaze.me/nasa)**.
 
 <br>
@@ -129,6 +129,9 @@ Professional engagements and archival collaborations are managed by **The Moore 
 <div align="center">
   
 > *“I want to live as though I traveled back in time... To this very moment.”*
+
+</div>
+
 
 </div>
 
