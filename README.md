@@ -1,11 +1,11 @@
 <div align="center">
 
 # 🛰️ THE MOORE SIGNAL ARCHIVE
-**PRINCIPAL INVESTIGATOR: ANGELA N. MOORE** • *THE MOORE SIGNAL ARCHIVE LLC*
+**ANGELA N. MOORE** • *AWARD-WINNING STRATEGIST*
 
 <h3>[ AVAILABLE FOR SPEAKING ENGAGEMENTS ]</h3>
 
-**Angela N. Moore is an award-winning strategist and NASA citizen scientist who bridges the gap between complex data and human storytelling through art and archival research.**
+**The Moore Signal Archive is an interdisciplinary research hub dedicated to exploring a diverse collection of creative inquiries—ranging from NASA exoplanet data to physical archival curation.**
 
 <br>
 
@@ -79,7 +79,7 @@
 
 <br>
 
-Angela N. Moore studies "Signals" we leave behind—the place where data meets the human heart. Her work explores the bridge between the digital world and our physical reality through **NASA Space Science**, **Interdisciplinary Art**, and **Archival Curation**.
+Angela N. Moore studies the "Signals" we leave behind—the place where data meets the human heart. Her work explores the bridge between the digital world and our physical reality through **NASA Space Science**, **Interdisciplinary Art**, and **Archival Curation**.
 
 <br>
 
@@ -91,7 +91,7 @@ Angela N. Moore studies "Signals" we leave behind—the place where data meets t
 *   **THE CITIZEN SCIENTIST** | Navigating the NASA ecosystem and the wonder of Zooniverse discoveries.
 *   **THE LITERARY DISPATCH** | "The Moore Archive" (TMA): Curating physical artifacts in boutique galleries & micro-libraries.
 *   **INTERDISCIPLINARY PLAY** | The Descriptive Haiku: Capturing the poetry of the artistic experience through micro-verse.
-*   **THE STRATEGIC SIGNATURE** | Merging passion and research to architect a meaningful life.
+*   **MOTIVATIONAL SPEECHES** | Merging passion and research to architect a meaningful life.
 
 <br>
 <br>
@@ -136,5 +136,3 @@ Professional engagements and archival collaborations are managed by **The Moore 
 > *“I want to live as though I traveled back in time... To this very moment.”*
 
 </div>
-
-
