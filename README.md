@@ -22,12 +22,12 @@
     <td>
       <img src="https://github.com/user-attachments/assets/b0c0777d-e1e1-4ee2-83af-b013611796dc" width="450" alt="NYT National Campaign Showcase">
       <br>
-      <strong>[ SOURCE: NYT NATIONAL CAMPAIGN ]</strong>
+      <strong>[ EXHIBIT: NYT NATIONAL CAMPAIGN ]</strong>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/0fede972-9d1f-4ae2-93b7-89f9e529a0a7" width="350" alt="Milli Award Presentation">
       <br>
-      <strong>[ SOURCE: WESTFAIR MILLI AWARD ]</strong>
+      <strong>[ EXHIBIT: WESTFAIR MILLI AWARD ]</strong>
     </td>
   </tr>
 </table>
@@ -74,7 +74,7 @@
 
 <br>
 
-Angela N. Moore is a strategist and NASA citizen scientist exploring the "Signals" we leave behind—the intersection where data meets the human heart. Her work bridges the digital world and physical reality through **Space Science**, **Interdisciplinary Art**, and **Archival Curation**.
+Angela N. Moore is a strategist and researcher exploring the "Signals" we leave behind—the intersection where data meets the human heart. Her work bridges the digital world and physical reality through **NASA Space Science**, **Interdisciplinary Art**, and **Archival Curation**.
 
 <br>
 
@@ -96,8 +96,8 @@ Angela N. Moore is a strategist and NASA citizen scientist exploring the "Signal
 <br>
 
 ### 🛡️ [ ACCOLADES & RESEARCH ]
-*   **MILLI AWARD WINNER** | Innovation in Strategic Communication & Mathematical Inquiry.
-*   **NYT FEATURED STRATEGIST** | National Campaign Highlight (Ad Showcase).
+*   **MILLI AWARD WINNER** | Innovation in Strategic Communication & Westfair Business Journals.
+*   **NYT FEATURED STRATEGIST** | National Campaign Highlight as seen in The New York Times.
 *   **NASA SPACE SCIENCE** | Official Research Gateway: **[Exoplanet Watch & Zooniverse](http://emaze.me/nasa)**.
 
 <br>
@@ -131,3 +131,4 @@ Professional engagements and archival collaborations are managed by **The Moore 
 > *“I want to live as though I traveled back in time... To this very moment.”*
 
 </div>
+
