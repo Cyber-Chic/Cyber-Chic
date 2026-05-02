@@ -3,15 +3,13 @@
 # 🛰️ THE MOORE SIGNAL ARCHIVE
 **ANGELA N. MOORE** • *AWARD-WINNING STRATEGIST*
 
-<h3>[ AVAILABLE FOR SPEAKING ENGAGEMENTS ]</h3>
-
 **The Moore Signal Archive is an interdisciplinary research hub dedicated to exploring a diverse collection of creative inquiries—ranging from NASA exoplanet data to physical archival curation.**
 
-<br>
-
-*“I want to live as though I traveled back in time... To this very moment.”*
+<h3>[ AVAILABLE FOR SPEAKING ENGAGEMENTS ]</h3>
 
 <br>
+
+
 <br>
 
 ---
