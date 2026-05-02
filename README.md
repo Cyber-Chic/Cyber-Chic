@@ -4,10 +4,12 @@
 **PRINCIPAL INVESTIGATOR: ANGELA N. MOORE** • *THE MOORE SIGNAL ARCHIVE LLC*
 
 <h3>[ AVAILABLE FOR SPEAKING ENGAGEMENTS ]</h3>
-*“I want to live as though I traveled back in time... To this very moment.”*
+
+**Angela N. Moore is an award-winning strategist and NASA citizen scientist who bridges the gap between complex data and human storytelling through art and archival research.**
 
 <br>
 
+*“I want to live as though I traveled back in time... To this very moment.”*
 
 <br>
 <br>
@@ -134,4 +136,5 @@ Professional engagements and archival collaborations are managed by **The Moore 
 > *“I want to live as though I traveled back in time... To this very moment.”*
 
 </div>
+
 
