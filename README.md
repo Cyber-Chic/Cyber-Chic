@@ -9,9 +9,6 @@
 
 <br>
 
-
-<br>
-
 ---
 
 <br>
@@ -77,7 +74,7 @@
 
 <br>
 
-Angela N. Moore studies the "Signals" we leave behind—the place where data meets the human heart. Her work explores the bridge between the digital world and our physical reality through **NASA Space Science**, **Interdisciplinary Art**, and **Archival Curation**.
+Angela N. Moore is a strategist and NASA citizen scientist exploring the "Signals" we leave behind—the intersection where data meets the human heart. Her work bridges the digital world and physical reality through **Space Science**, **Interdisciplinary Art**, and **Archival Curation**.
 
 <br>
 
