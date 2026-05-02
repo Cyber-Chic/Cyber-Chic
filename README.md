@@ -3,7 +3,7 @@
 # 🛰️ THE MOORE SIGNAL ARCHIVE
 **PRINCIPAL INVESTIGATOR: ANGELA N. MOORE** • *THE MOORE SIGNAL ARCHIVE LLC*
 
-**[ AVAILABLE FOR SPEAKING ENGAGEMENTS  ]**  
+**[ AVAILABLE FOR SPEAKING ENGAGEMENTS ]**  
 *“I want to live as though I traveled back in time... To this very moment.”*
 
 <br>
