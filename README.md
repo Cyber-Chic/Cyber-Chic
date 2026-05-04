@@ -5,7 +5,9 @@
 
 **The Moore Signal Archive is an interdisciplinary research hub dedicated to exploring a diverse collection of creative inquiries—ranging from NASA exoplanet data to physical archival curation.**
 
-<h3>[ AVAILABLE FOR SPEAKING ENGAGEMENTS ]</h3>
+<h3>[ AVAILABLE FOR KEYNOTES & GUEST SPEAKING ]</h3>
+<p style="font-size: 0.75rem; opacity: 0.6; letter-spacing: 0.5px;">Specializing in short-form lightning talks and moderated Q&A.</p>
+
 
 <br>
 
@@ -110,8 +112,6 @@ Angela N. Moore is a strategist and researcher exploring the "Signals" we leave 
 <br>
 <br>
 
----
-
 <br>
 
 ## 📡 [ CONTACT & INQUIRIES ]
@@ -123,15 +123,17 @@ Professional engagements and archival collaborations are managed by **The Moore 
 **OFFICE:** 2389 Main St, Ste 100, Glastonbury, CT 06033
 
 <br>
+
+<p style="font-size: 0.65rem; opacity: 0.4; letter-spacing: 1.5px; line-height: 1.2;">
+  AVAILABILITY: 10-MINUTE LIGHTNING TALKS // 30-MINUTE MODERATED INQUIRIES<br>
+  CONNECT: INQUIRIES ONLY // NO WORKSHOPS AT THIS CYCLE<br>
+  PRIVACY: SECURE DATA TRANSMISSION VIA PROTONMAIL
+</p>
+
+<br>
 <br>
 
----
 <div align="center">
-  
-> *“I want to live as though I traveled back in time... To this very moment.”*
-
-</div>
-
-
+  <p style="opacity: 0.6;"><em>“I want to live as though I traveled back in time... To this very moment.”</em></p>
 </div>
 
