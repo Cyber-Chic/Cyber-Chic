@@ -6,11 +6,10 @@
 **The Moore Signal Archive is an interdisciplinary research hub dedicated to exploring a diverse collection of creative inquiries—ranging from NASA exoplanet data to physical archival curation.**
 
 <div align="center">
-  <a href="#contact" style="text-decoration: none; color: inherit;">
-    <h3 style="cursor: pointer;">[ AVAILABLE FOR KEYNOTES & GUEST SPEAKING ]</h3>
-  </a>
+  <h3>[ AVAILABLE FOR KEYNOTES & GUEST SPEAKING ]</h3>
   <p style="font-size: 0.75rem; opacity: 0.6; letter-spacing: 0.5px;">Specializing in short-form lightning talks and moderated Q&A.</p>
 </div>
+
 
 
 
