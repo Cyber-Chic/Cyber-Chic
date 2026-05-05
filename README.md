@@ -128,9 +128,9 @@ Professional engagements and archival collaborations are managed by **The Moore 
 <br>
 
 <p style="font-size: 0.65rem; opacity: 0.4; letter-spacing: 1.5px; line-height: 1.2;">
-  [AVAILABILITY: 10-MINUTE LIGHTNING TALKS // 30-MINUTE MODERATED INQUIRIES<br>
+  AVAILABILITY: 10-MINUTE LIGHTNING TALKS // 30-MINUTE MODERATED INQUIRIES<br>
   CONNECT: INQUIRIES ONLY // NO WORKSHOPS AT THIS CYCLE<br>
-  PRIVACY: SECURE DATA TRANSMISSION VIA PROTONMAIL]<br>
+  PRIVACY: SECURE DATA TRANSMISSION VIA PROTONMAIL<br>
   <strong>OFFICIAL UPDATE: 2026.05.04</strong>
 </p>
 
