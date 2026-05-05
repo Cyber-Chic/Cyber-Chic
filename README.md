@@ -5,8 +5,13 @@
 
 **The Moore Signal Archive is an interdisciplinary research hub dedicated to exploring a diverse collection of creative inquiries—ranging from NASA exoplanet data to physical archival curation.**
 
-<h3>[ AVAILABLE FOR KEYNOTES & GUEST SPEAKING ]</h3>
-<p style="font-size: 0.75rem; opacity: 0.6; letter-spacing: 0.5px;">Specializing in short-form lightning talks and moderated Q&A.</p>
+<div align="center">
+  <a href="#contact" style="text-decoration: none; color: inherit;">
+    <h3 style="cursor: pointer;">[ AVAILABLE FOR KEYNOTES & GUEST SPEAKING ]</h3>
+  </a>
+  <p style="font-size: 0.75rem; opacity: 0.6; letter-spacing: 0.5px;">Specializing in short-form lightning talks and moderated Q&A.</p>
+</div>
+
 
 
 <br>
@@ -112,9 +117,8 @@ Angela N. Moore is a strategist and researcher exploring the "Signals" we leave 
 <br>
 <br>
 
-<br>
+<h2 id="contact">📡 [ CONTACT & INQUIRIES ]</h2>
 
-## 📡 [ CONTACT & INQUIRIES ]
 Professional engagements and archival collaborations are managed by **The Moore Signal Archive LLC**.
 
 <br>
@@ -127,13 +131,17 @@ Professional engagements and archival collaborations are managed by **The Moore 
 <p style="font-size: 0.65rem; opacity: 0.4; letter-spacing: 1.5px; line-height: 1.2;">
   AVAILABILITY: 10-MINUTE LIGHTNING TALKS // 30-MINUTE MODERATED INQUIRIES<br>
   CONNECT: INQUIRIES ONLY // NO WORKSHOPS AT THIS CYCLE<br>
-  PRIVACY: SECURE DATA TRANSMISSION VIA PROTONMAIL
+  PRIVACY: SECURE DATA TRANSMISSION VIA PROTONMAIL<br>
+  <strong>OFFICIAL UPDATE: 2026.05.04</strong>
 </p>
 
 <br>
 <br>
 
 <div align="center">
-  <p style="opacity: 0.6;"><em>“I want to live as though I traveled back in time... To this very moment.”</em></p>
+  <div style="display: inline-block; padding: 20px; border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; background: rgba(255,255,255,0.02);">
+    <p style="opacity: 0.9; margin: 0; font-size: 1.1rem; letter-spacing: 1px;">
+      <em>“I want to live as though I traveled back in time... To this very moment.”</em>
+    </p>
+  </div>
 </div>
-
