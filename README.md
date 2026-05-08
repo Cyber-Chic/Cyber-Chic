@@ -50,7 +50,7 @@
 <br>
 
 <div align="center">
-  <img width="600" alt="CT Tech Week Sign" src="https://images.squarespace-cdn.com/content/v1/6646d49e7c433348183a0adc/21bf9640-8b20-4039-8498-d4f8445883de/CTTechWeek2024-15.jpg" style="border: 3px solid #222; border-radius: 4px; padding: 5px; background: #fff;">
+  <img width="600" alt="CT Tech Week Sign" src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,background=white,quality=75,width=400,height=400/uploads/sk/3aa5973b-6ab5-475b-9e6f-4958e8c7b567.png" style="border: 3px solid #222; border-radius: 4px; padding: 5px; background: #fff;">
   <br>
   <strong>[ REGIONAL EVENT: #CTTECHWEEK #INNOVATION ]</strong>
 </div>
