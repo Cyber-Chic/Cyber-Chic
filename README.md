@@ -104,7 +104,7 @@ Angela N. Moore is a strategist and researcher exploring the "Signals" we leave 
 ### 🛡️ [ ACCOLADES & RESEARCH ]
 *   **MILLI AWARD WINNER** | Innovation in Strategic Communication // Westfair Business Journals.
 *   **NYT FEATURED STRATEGIST** | National Campaign Highlight // The New York Times.
-*   **NASA SPACE SCIENCE** | Official Research Gateway: **[Exoplanet Watch & Zooniverse](http://emaze.me/nasa)**.
+*   **NASA SPACE SCIENCE** | Public Research Gateway: **[Exoplanet Watch & Zooniverse](http://emaze.me/nasa)**.
 
 <br>
 
