@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🛰️ THE MOORE SIGNAL ARCHIVE
-**ANGELA N. MOORE** • *INTERDISCIPLINARY STRATEGIST & CITIZEN SCIENTIST*
+**ANGELA N. MOORE** • *CREATIVE TECHNOLOGIST*
 
-**The Moore Signal Archive is an independent portfolio and creative studio exploring where open-source technology, NASA citizen science data, and human emotion intersect.**
+**The Moore Signal Archive is a creative studio exploring a diverse collection of creative inquiries—ranging from deep space investigations to the poetry of human perception.**
 
 <h3>[ AVAILABLE FOR LIGHTNING TALKS & PANEL GUESTING ]</h3>
 <p>Specializing in short-form creative tech talks and moderated panel Q&A.</p>
@@ -21,14 +21,14 @@
 <table border="0" align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b0c0777d-e1e1-4ee2-83af-b013611796dc" width="450" alt="NYT National Campaign Showcase" style="border: 2px solid #222; border-radius: 2px;">
+      <img src="https://github.com/user-attachments/assets/b0c0777d-e1e1-4ee2-83af-b013611796dc" width="450" alt="New York Times Campaign Feature" style="border: 2px solid #222; border-radius: 2px;">
       <br>
-      <strong>[ EXHIBIT: NYT NATIONAL AD CAMPAIGN ]</strong>
+      <strong>[ EXHIBIT: NYT National Ad Campaign Feature ]</strong>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/0fede972-9d1f-4ae2-93b7-89f9e529a0a7" width="350" alt="Milli Award Presentation" style="border: 2px solid #222; border-radius: 2px;">
       <br>
-      <strong>[ EXHIBIT: WESTFAIR MILLI AWARD ]</strong>
+      <strong>[ EXHIBIT: Westfair Milli Award ]</strong>
     </td>
   </tr>
 </table>
@@ -41,7 +41,7 @@
 <br>
 
 
-## 🏛️ [ SPOTLIGHT: CT TECH WEEK ]
+## 🏛️ [ REGIONAL EVENT // CT TECH WEEK ]
 
 <br>
 
@@ -51,7 +51,7 @@
 
 <br><br>
 
-### **STATEWIDE SUMMIT FOR TECH INNOVATORS**
+### **CT Tech Week Curation Log**
 **FEATURING: THE MOORE SIGNAL ARCHIVE**  
 
 <br>
@@ -66,12 +66,12 @@
 
 </div>
 
-## 🎭 [ THE FOUNDER ]
-**Creative Strategist // NASA Citizen Scientist // Experiential Designer**
+## 🎭 [ BIOGRAPHY ]
+**Creative Technologist // NASA Citizen Scientist // Independent Researcher**
 
 <br>
 
-Angela N. Moore is a strategist and independent researcher exploring the "Signals" we leave behind—the space where data meets the human heart. Her work bridges the digital world and physical reality through **NASA Space Science**, **Interdisciplinary Art**, and **Interactive Curation**.
+Angela N. Moore is a creative technologist and researcher exploring the "Signals" we leave behind—the space where data meets human perception. Her work bridges the digital world and physical reality through **NASA Space Science**, **Interdisciplinary Art**, and **Interactive Curation**.
 
 <br>
 
@@ -80,18 +80,18 @@ Angela N. Moore is a strategist and independent researcher exploring the "Signal
 <br>
 
 ### 📡 [ FEATURED TOPICS ]
-*   **THE CITIZEN SCIENTIST** | Navigating the public NASA ecosystem and the wonder of Zooniverse crowd-sourced discoveries.
-*   **THE LITERARY DISPATCH** | "The Moore Archive" (TMA): Curating physical artifacts in boutique galleries & micro-libraries.
-*   **INTERDISCIPLINARY PLAY** | The Descriptive Haiku: Capturing the poetry of the artistic experience through micro-verse.
-*   **CREATIVE EXPLORATION** | Merging individual passion projects with open data to architect a meaningful life.
+*   **THE CITIZEN SCIENTIST** | Navigating the public NASA ecosystem and Zooniverse crowd-sourced discoveries.
+*   **THE LITERARY DISPATCH** | "The Moore Archive" (TMA): Placing physical artifacts in galleries & micro-libraries.
+*   **INTERDISCIPLINARY PLAY** | The Descriptive Haiku: Capturing the artistic experience through micro-verse.
+*   **CREATIVE EXPLORATION** | Merging individual projects with open data to build technical workflows.
 
 <br>
 <hr>
 <br>
 
-### 🛡️ [ ACCOLADES & FIELDWORK ]
-*   **MILLI AWARD WINNER** | Innovation in Strategic Communication // Westfair Business Journals.
-*   **NYT PROFILED STRATEGIST** | National Campaign Highlight // Featured Showcase.
+### 🛡️ [ CREDENTIALS & ACCOLADES ]
+*   **WESTFAIR MILLI AWARD** | Recognized for conceptual studies and systemic challenge illustrations.
+*   **NEW YORK TIMES FEATURE** | Spotlighted in a national campaign highlighting lifestyle automation.
 *   **NASA CITIZEN SCIENCE** | Open Data Inquiry: **[Exoplanet Watch & Zooniverse Projects](http://emaze.me/nasa)**.
 
 <br>
@@ -112,7 +112,7 @@ Professional engagements and creative collaborations are managed through **The M
 <br>
 
 **➡️ EMAIL:** `themoorearchive@proton.me`  
-**MAILING:** 2389 Main St, Ste 100, Glastonbury, CT 06033
+**BUSINESS OFFICE:** 2389 Main St, Ste 100, Glastonbury, CT 06033
 
 <br>
 
