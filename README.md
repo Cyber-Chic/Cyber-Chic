@@ -12,28 +12,34 @@
 <hr>
 <br>
 
+<br>
+
 ## 🏛️ [ FEATURED MEDIA ]
 
 <br>
 
 <table border="0" align="center">
   <tr>
-    <td align="center" valign="top">
+    <td align="center">
       <img src="https://github.com/user-attachments/assets/b0c0777d-e1e1-4ee2-83af-b013611796dc" width="450" alt="NYT National Campaign Showcase" style="border: 2px solid #222; border-radius: 2px;">
-      <br><br>
-      <strong>[ EXHIBIT: NYT NATIONAL CAMPAIGN ]</strong>
+      <br>
+      <strong>[ EXHIBIT: NYT NATIONAL AD CAMPAIGN ]</strong>
     </td>
-    <td align="center" valign="top">
+    <td align="center">
       <img src="https://github.com/user-attachments/assets/0fede972-9d1f-4ae2-93b7-89f9e529a0a7" width="350" alt="Milli Award Presentation" style="border: 2px solid #222; border-radius: 2px;">
-      <br><br>
+      <br>
       <strong>[ EXHIBIT: WESTFAIR MILLI AWARD ]</strong>
     </td>
   </tr>
 </table>
 
 <br>
-<hr>
 <br>
+
+---
+
+<br>
+
 
 ## 🏛️ [ SPOTLIGHT: CT TECH WEEK ]
 
