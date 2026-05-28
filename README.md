@@ -78,7 +78,7 @@ Angela N. Moore is a creative technologist and researcher exploring the "Signals
 
 ### 📡 [ FEATURED TOPICS ]
 *   **THE CITIZEN SCIENTIST** | Analyzing data within the public NASA ecosystem and driving Zooniverse crowd-sourced discoveries.
-*   **THE LITERARY DISPATCH** | "The Moore Archive" (TMA): Curating physical artifacts in galleries & micro-libraries.
+*   **THE LITERARY DISPATCH** | "The Moore Archive" (TMA): Curating physical artifacts in micro-galleries & libraries.
 *   **INTERDISCIPLINARY PLAY** | The Descriptive Haiku: Capturing the artistic experience through micro-verse.
 *   **CREATIVE EXPLORATION** | Merging individual projects with open data to build technical workflows.
 
