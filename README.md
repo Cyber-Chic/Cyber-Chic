@@ -5,8 +5,8 @@
 
 **The Moore Signal Archive is a creative studio exploring a diverse collection of creative inquiries—ranging from deep space investigations to the poetry of human perception.**
 
-<h3>[ AVAILABLE FOR LIGHTNING TALKS & PANEL GUESTING ]</h3>
-<p>Specializing in short-form creative tech talks and moderated panel Q&A.</p>
+<h3>[ AVAILABLE FOR LIGHTNING TALKS & PANELS ]</h3>
+<p>Specializing in short-form creative talks and moderated panel Q&A.</p>
 
 <br>
 <hr>
