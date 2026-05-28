@@ -12,8 +12,6 @@
 <hr>
 <br>
 
-<br>
-
 ## 🏛️ [ FEATURED MEDIA ]
 
 <br>
@@ -39,7 +37,6 @@
 ---
 
 <br>
-
 
 ## 🏛️ [ REGIONAL EVENT // CT TECH WEEK ]
 
@@ -80,7 +77,7 @@ Angela N. Moore is a creative technologist and researcher exploring the "Signals
 <br>
 
 ### 📡 [ FEATURED TOPICS ]
-*   **THE CITIZEN SCIENTIST** | Navigating the public NASA ecosystem and Zooniverse crowd-sourced discoveries.
+*   **THE CITIZEN SCIENTIST** | Analyzing data within the public NASA ecosystem and driving Zooniverse crowd-sourced discoveries.
 *   **THE LITERARY DISPATCH** | "The Moore Archive" (TMA): Placing physical artifacts in galleries & micro-libraries.
 *   **INTERDISCIPLINARY PLAY** | The Descriptive Haiku: Capturing the artistic experience through micro-verse.
 *   **CREATIVE EXPLORATION** | Merging individual projects with open data to build technical workflows.
@@ -92,7 +89,7 @@ Angela N. Moore is a creative technologist and researcher exploring the "Signals
 ### 🛡️ [ CREDENTIALS & ACCOLADES ]
 *   **WESTFAIR MILLI AWARD** | Recognized for conceptual studies and systemic challenge illustrations.
 *   **NEW YORK TIMES FEATURE** | Spotlighted in a national campaign highlighting lifestyle automation.
-*   **NASA CITIZEN SCIENCE** | Open Data Inquiry: **[Exoplanet Watch & Zooniverse Projects](http://emaze.me/nasa)**.
+*   **NASA CITIZEN SCIENCE** | Open Data Inquiry: **[Exoplanet Watch & Zooniverse Projects](https://emaze.me)**.
 
 <br>
 
