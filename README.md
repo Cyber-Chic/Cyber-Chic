@@ -114,9 +114,9 @@ Professional curation bookings and creative exhibitions are managed through **Th
 
 ```text
 
-CORE PATCH: 2026.05.30 // RE-ALIGNMENT CONFIG
 INQUIRIES: SECURITY BOUND INBOX VIA PROTONMAIL
-PARAMETERS: Replicas do not include code, signatures, or freehand cartoons.
+CORE PATCH: 2026.05.30 // RE-ALIGNMENT CONFIG
+PARAMETERS: Replicas do not include codes, signatures, or freehand cartoons.
 DISCLAIMER: Open public domain resources; not officially affiliated with NASA.
 
 ```
