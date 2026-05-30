@@ -68,7 +68,7 @@
 
 <br>
 
-Angela N. Moore is a creative technologist and researcher exploring the "Signals" we leave behind—the space where data meets human perception. Her work bridges the digital world and physical reality through **NASA Space Science**, **Interdisciplinary Art**, and **Interactive Curation**.
+Angela N. Moore is a creative technologist and researcher exploring the "Signals" we leave behind—the space where data meets human perception. Her work bridges the digital world and physical reality through **Space Science**, **Interdisciplinary Art**, and **Interactive Curation**.
 
 <br>
 
