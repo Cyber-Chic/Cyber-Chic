@@ -95,7 +95,7 @@ Angela N. Moore is a creative technologist and researcher exploring the "Signals
 ### 🔭 [ PROJECT HIGHLIGHTS ]
 *   **[ TMA ARCHIVE ]** — [TMA: A Digital-Physical Artifact Hunt](https://cyber-chic.github.io/themoorearchive/releases)  
 *   **[ LITERARY ]** — [Mixed Media & Poetry Portfolio](https://angies.poetry.blog)
-*   **[ NUMISMATICS ]** — [Pretty Coinz Curation](https://cyber-chic.github.io/prettycoinz/info)
+*   **[ ARCHIVE HUB ]** — [Official Hub Portal & Exhibition Booking](https://bio.site/mooresignal)
 
 <br>
 <hr>
