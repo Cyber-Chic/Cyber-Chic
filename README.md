@@ -5,8 +5,8 @@
 
 **The Moore Signal Archive is a creative studio exploring a diverse collection of creative inquiries—ranging from deep space investigations to the poetry of human perception.**
 
-<h3>[ AVAILABLE FOR LIGHTNING TALKS & PANELS ]</h3>
-<p>Specializing in short-form talks and moderated panel Q&A.</p>
+<h3>[ THE EXHIBITIONS ]</h3>
+<p>Limited availability interactive exhibits and Q&A sessions.</p>
 
 <br>
 <hr>
@@ -72,15 +72,14 @@ Angela N. Moore is a creative technologist and researcher exploring the "Signals
 
 <br>
 
-👉 **REQUEST SPEAKING ENGAGEMENTS:** [themoorearchive@proton.me](mailto:themoorearchive@proton.me)  
+👉 **REQUEST A PRIVATE EXHIBITION:** [themoorearchive@proton.me](mailto:themoorearchive@proton.me)  
 
 <br>
 
-### 📡 [ FEATURED TOPICS ]
-*   **THE CITIZEN SCIENTIST** | Analyzing data within the public NASA ecosystem and driving Zooniverse crowd-sourced discoveries.
-*   **THE LITERARY DISPATCH** | "The Moore Archive" (TMA): Curating physical artifacts in micro-galleries & libraries.
-*   **INTERDISCIPLINARY PLAY** | The Descriptive Haiku: Capturing the artistic experience through micro-verse.
-*   **CREATIVE EXPLORATION** | Merging individual projects with open data to build technical workflows.
+### 📡 [ FEATURED EXHIBITIONS ]
+*   🪐 **THE DEEP SPACE EXHIBIT** — Public NASA Simulations & Cosmic Haiku Prints.
+*   🌍 **THE MOORE ARCHIVE EXHIBIT (TMA)** — Artifacts Used In Our Global Treasure Hunt.
+*   📡 **THE NEXUS EXHIBIT** — Featured Work Showcasing Both Flagship Initiatives.
 
 <br>
 <hr>
@@ -104,7 +103,7 @@ Angela N. Moore is a creative technologist and researcher exploring the "Signals
 
 <h2 id="contact">📡 [ CONTACT & INQUIRIES ]</h2>
 
-Professional engagements and creative collaborations are managed through **The Moore Signal Archive**.
+Professional curation bookings and creative exhibitions are managed through **The Moore Signal Archive LLC**.
 
 <br>
 
@@ -114,10 +113,12 @@ Professional engagements and creative collaborations are managed through **The M
 <br>
 
 ```text
-AVAILABILITY: 10-MINUTE LIGHTNING TALKS // 30-MINUTE MODERATED INQUIRIES
-CONNECT: INQUIRIES ONLY // NO CURRENT WORKSHOPS
-INQUIRIES: ENCRYPTED INBOX VIA PROTONMAIL
-OFFICIAL UPDATE: 2026.05.27
+
+CORE PATCH: 2026.05.30 // RE-ALIGNMENT CONFIG
+INQUIRIES: SECURITY BOUND INBOX VIA PROTONMAIL
+PARAMETERS: Replicas do not include code, signatures, or freehand cartoons.
+DISCLAIMER: Open public domain resources; not officially affiliated with NASA.
+
 ```
 
 <br>
