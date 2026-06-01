@@ -35,31 +35,44 @@
 <br>
 
 ### 🖼️ [ SPOTLIGHT ]
-**My global treasure hunt, TMA was highlighted as a featured project on the official Free Little Art Galleries platform.**
 
 <br>
 
 <table border="0" align="center">
+  <!-- ROW 1: THE RECTANGULAR GRAPHICS -->
   <tr>
     <td align="center" valign="top" style="padding: 10px;">
       <img src="https://freelittleartgalleries.art/wp-content/uploads/2026/05/Key-Front_TMA-1024x709.jpeg" width="300" height="180" alt="Free Little Art Gallery Node">
       <br>
-      <!-- FIX: Wrapped text in strong tags to match top layout features -->
       <strong>[ EXHIBIT: FRONT // LANDSCAPE ART ]</strong>
     </td>
     <td align="center" valign="top" style="padding: 10px;">
       <img src="https://freelittleartgalleries.art/wp-content/uploads/2026/05/Key-Back_TMA-1024x709.jpeg" width="300" height="180" alt="Custom Curation">
       <br>
-      <!-- FIX: Wrapped text in strong tags to match top layout features -->
       <strong>[ EXHIBIT: BACK // ENGRAVED INSTRUCTIONS ]</strong>
+    </td>
+  </tr>
+  
+  <!-- ROW 2: BALANCED TEXT DESCRIPTION -->
+  <tr>
+    <td colspan="2" align="center" style="padding-top: 25px; padding-bottom: 10px; max-width: 620px;">
+      <p style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; color: #24292e;">
+        <strong>My global treasure hunt, TMA was highlighted as a featured project on the official Free Little Art Galleries platform.</strong>
+      </p>
+    </td>
+  </tr>
+
+  <!-- ROW 3: RE-CENTERED FEATURE LINK GATEWAY -->
+  <tr>
+    <td colspan="2" align="center" style="padding-top: 5px;">
+      <a href="https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/" target="_blank" style="text-decoration: none; color: #0366d6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: bold;">
+        👉 [ FEATURE STORY: FULL ACCESS ONLINE 🌐 ]
+      </a>
     </td>
   </tr>
 </table>
 
 <br>
-
-👉 **[ FEATURE STORY: FULL ACCESS ONLINE 🌐 ](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)**
-
 
 
 
