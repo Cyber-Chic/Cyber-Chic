@@ -6,7 +6,7 @@
 **The Moore Signal Archive is a creative studio exploring a diverse collection of creative inquiries—ranging from deep space investigations to the poetry of human perception.**
 
 <h3>[ THE EXHIBITIONS ]</h3>
-<p>Limited availability interactive exhibits and Q&A sessions.</p>
+<p>Hosting interactive exhibits and Q&A sessions.</p>
 
 <br>
 <hr>
@@ -18,18 +18,50 @@
 
 <table border="0" align="center">
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/b0c0777d-e1e1-4ee2-83af-b013611796dc" width="450" alt="New York Times Campaign Feature" style="border: 2px solid #222; border-radius: 2px;">
+    <td align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/b0c0777d-e1e1-4ee2-83af-b013611796dc" width="400" alt="New York Times Campaign Feature" style="border: 2px solid #222; border-radius: 2px;">
       <br>
       <strong>[ EXHIBIT: NYT National Ad Campaign Feature ]</strong>
     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/0fede972-9d1f-4ae2-93b7-89f9e529a0a7" width="350" alt="Milli Award Presentation" style="border: 2px solid #222; border-radius: 2px;">
+    <td align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/0fede972-9d1f-4ae2-93b7-89f9e529a0a7" width="310" alt="Milli Award Presentation" style="border: 2px solid #222; border-radius: 2px;">
       <br>
       <strong>[ EXHIBIT: Westfair Milli Award ]</strong>
     </td>
   </tr>
 </table>
+
+<br>
+<br>
+
+### 🖼️ [ SPOTLIGHT ]
+**My global treasure hunt, TMA was highlighted as a featured project on the official Free Little Art Galleries platform.**
+
+<br>
+
+<table border="0" align="center">
+  <tr>
+    <td align="center" valign="top" style="padding: 10px;">
+      <img src="https://freelittleartgalleries.art/wp-content/uploads/2026/05/Key-Front_TMA-1024x709.jpeg" width="300" height="180" alt="Free Little Art Gallery Node">
+      <br>
+      <!-- FIX: Wrapped text in strong tags to match top layout features -->
+      <strong>[ EXHIBIT: FRONT // LANDSCAPE ART ]</strong>
+    </td>
+    <td align="center" valign="top" style="padding: 10px;">
+      <img src="https://freelittleartgalleries.art/wp-content/uploads/2026/05/Key-Back_TMA-1024x709.jpeg" width="300" height="180" alt="Custom Curation">
+      <br>
+      <!-- FIX: Wrapped text in strong tags to match top layout features -->
+      <strong>[ EXHIBIT: BACK // ENGRAVED INSTRUCTIONS ]</strong>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+👉 **[ FEATURE STORY: FULL ACCESS ONLINE 🌐 ](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)**
+
+
+
 
 <br>
 <br>
@@ -115,7 +147,7 @@ Professional curation bookings and creative exhibitions are managed through **Th
 ```text
 
 INQUIRIES: SECURITY BOUND INBOX VIA PROTONMAIL
-CORE PATCH: 2026.05.30 // RE-ALIGNMENT CONFIG
+CORE PATCH: 2026.06.01 // RE-ALIGNMENT CONFIG
 PARAMETERS: Replicas do not include codes, signatures, or freehand cartoons.
 DISCLAIMER: Open public domain resources; not officially affiliated with NASA.
 
