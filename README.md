@@ -133,7 +133,7 @@ Angela N. Moore is a creative technologist and researcher exploring the "Signals
 ### 🛡️ [ CREDENTIALS & ACCOLADES ]
 *   **WESTFAIR MILLI AWARD** | Recognized for conceptual studies and impactful, purpose-driven art.
 *   **NEW YORK TIMES FEATURE** | Spotlighted in a national campaign highlighting creative endeavors.
-*   **NASA CITIZEN SCIENCE** | Open Data Inquiry: **[Exoplanet Watch & Zooniverse Projects](https://emaze.me)**.
+*   **NASA CITIZEN SCIENCE** | Open Data Inquiry: **[Exoplanet Watch & Zooniverse Projects](https://emaze.me/nasa)**.
 
 <br>
 
