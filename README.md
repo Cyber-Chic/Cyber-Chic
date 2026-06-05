@@ -3,7 +3,7 @@
 # 🛰️ THE MOORE SIGNAL ARCHIVE
 **ANGELA N. MOORE** • *CREATIVE TECHNOLOGIST*
 
-**The Moore Signal Archive is a creative studio exploring a diverse collection of creative inquiries—ranging from deep space investigations to the poetry of human perception.**
+**The Moore Signal Archive is a creative studio & public speaking company exploring a diverse collection of creative inquiries—ranging from deep space investigations to the poetry of human perception.**
 
 <h3>[ THE EXHIBITIONS ]</h3>
 <p>Hosting interactive exhibits and Q&A sessions.</p>
