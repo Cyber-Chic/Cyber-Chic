@@ -21,12 +21,12 @@
     <td align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/b0c0777d-e1e1-4ee2-83af-b013611796dc" width="400" alt="New York Times Campaign Feature" style="border: 2px solid #222; border-radius: 2px;">
       <br>
-      <strong>[ EXHIBIT: NYT National Ad Campaign Feature ]</strong>
+      <strong>[ SOURCE: NYT National Ad Campaign Feature ]</strong>
     </td>
     <td align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/0fede972-9d1f-4ae2-93b7-89f9e529a0a7" width="310" alt="Milli Award Presentation" style="border: 2px solid #222; border-radius: 2px;">
       <br>
-      <strong>[ EXHIBIT: Westfair Milli Award ]</strong>
+      <strong>[ SOURCE: Westfair Milli Award ]</strong>
     </td>
   </tr>
 </table>
