@@ -35,7 +35,7 @@
 <br>
 
 ### 🖼️ [ SPOTLIGHT ]
-
+**Trackable metallic art print traversing through CT, WA, AR, OK, OH, etc.**
 <br>
 
 <table border="0" align="center">
