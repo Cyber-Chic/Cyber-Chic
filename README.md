@@ -179,10 +179,13 @@ Professional curation bookings and creative exhibitions are managed through **Th
 
 ```text
 
+
 INQUIRIES: SECURITY BOUND INBOX VIA PROTONMAIL
 CORE PATCH: 2026.06.01 // RE-ALIGNMENT CONFIG
 PARAMETERS: Replicas do not include codes, signatures, or freehand cartoons.
 DISCLAIMER: Open public domain resources; not officially affiliated with NASA.
+SAFETY NOTE: Live geolocation mapping and tracking networks are strictly 18+.
+
 
 ```
 
