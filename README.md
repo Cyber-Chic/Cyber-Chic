@@ -142,9 +142,9 @@ Angela N. Moore is a creative technologist and researcher exploring the "Signals
 <br>
 
 ### 📡 [ FEATURED EXHIBITIONS ]
-*   🪐 **THE DEEP SPACE EXHIBIT** — Public NASA Simulations & Cosmic Haiku Prints.
-*   🌍 **THE MOORE ARCHIVE EXHIBIT (TMA)** — Artifacts Used In Our Global Treasure Hunt.
-*   📡 **THE NEXUS EXHIBIT** — Featured Work Showcasing Both Flagship Initiatives.
+*   🌌 **THE SPACE EXHIBIT** — Curated interactive display blending cosmic poetry with live astronomical data.
+*   🪐 **THE COMBINED EXHIBIT** — Premier option pairing the space exhibition with my global treasure hunt.
+*   🔒 **LIMITED AVAILABILITY** — Bookings are highly selective to protect studio focus on active projects.
 
 <br>
 <hr>
