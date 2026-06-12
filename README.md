@@ -22,7 +22,7 @@ The Moore Signal Archive is an independent research studio operating at the inte
 ***
 
 ### 🔭 ARCHIVAL DIRECTORIES
-*   **[ TMA ]** — [Global Art Project](https://github.io)
+*   **[ TMA ]** — [Global Art Project](https://cyber-chic.github.io/themoorearchive/releases)
 *   **[ PORT ]** — [Literary Portfolio](https://angies.poetry.blog)
 *   **[ HUB ]** — [Exhibition Intake](https://bio.site/mooresignal)
 
