@@ -16,9 +16,9 @@ The Moore Signal Archive is an independent research studio operating at the inte
 ***
 
 ### 🔭 ARCHIVAL DIRECTORIES
-*   **[ THE TMA ARCHIVE ]** — [Tactical Artifact Hunt & Active Releases](https://github.io)
-*   **[ LITERARY PORTFOLIO ]** — [Mixed Media & Theoretical Notebooks](https://poetry.blog)
-*   **[ CENTRAL PORTAL ]** — [Studio Hub & Exhibition Intake](https://bio.site)
+*   **[ TMA ]** — [Global Art Project](https://github.io)
+*   **[ PORT ]** — [Literary Portfolio](https://poetry.blog)
+*   **[ HUB ]** — [Exhibition Intake](https://bio.site)
 
 ***
 
