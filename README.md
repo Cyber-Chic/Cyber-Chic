@@ -9,22 +9,22 @@ The Moore Signal Archive is an independent research studio operating at the inte
 ***
 
 ### 🏛️ RECOGNITION
-*   **THE NEW YORK TIMES** — Featured National Ad Campaign Profile 🔗 `[ NYT ]`([link](https://www.nytimes.com/paidpost/tiaa/on-the-right-track-retirement-ready.html))
-*   **MILLI AWARD** — Conferred for Conceptual Innovation 🔗 `[ RECOGNITION ]`([link](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/))
-*   **FREE LITTLE ART GALLERIES** — Official Global Project Spotlight 🔗 `[ FEATURE ]`([link](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/))
+*   **THE NEW YORK TIMES** — Featured National Ad Campaign Profile <sup>[1](https://www.nytimes.com/paidpost/tiaa/on-the-right-track-retirement-ready.html)</sup>
+*   **MILLI AWARD** — Conferred for Conceptual Innovation <sup>[2](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup>
+*   **FREE LITTLE ART GALLERIES** — Official Global Project Spotlight <sup>[3](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup>
 
 ***
 
 ### 🪐 CURATION
-**FLAGSHIP EXHIBITION: CT TECH WEEK** 🔗 `[ ACCESS ]`([link](https://luma.com/q0lm15pz))  
-<small>*↳ Participant Testimonial* 🔗 `[ LINKEDIN ]`([link](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr))</small>
+**FLAGSHIP EXHIBITION: CT TECH WEEK** <sup>[4](https://luma.com/q0lm15pz)</sup>  
+<small>*↳ Participant Testimonial* <sup>[5](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr)</sup></small>
 
 ***
 
 ### 🔭 ARCHIVAL DIRECTORIES
-*   **[ TMA ]** — Global Art Project 🔗 `[ ENTRY ]`([link](https://github.io))
-*   **[ PORT ]** — Literary Portfolio 🔗 `[ ENTRY ]`([link](https://angies.poetry.blog))
-*   **[ HUB ]** — Exhibition Intake 🔗 `[ ENTRY ]`([link](https://bio.site/mooresignal))
+*   **[ TMA ]** — Global Art Project <sup>[6](https://cyber-chic.github.io/themoorearchive/releases)</sup>
+*   **[ PORT ]** — Literary Portfolio <sup>[7](https://angies.poetry.blog)</sup>
+*   **[ HUB ]** — Exhibition Intake <sup>[8](https://bio.site/mooresignal)</sup>
 
 ***
 
