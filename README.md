@@ -9,7 +9,7 @@ The Moore Signal Archive is an independent research studio operating at the inte
 ***
 
 ### 🏛️ RECOGNITION
-*   **THE NEW YORK TIMES** — Featured national campaign profile.
+*   **THE NEW YORK TIMES** — Featured national ad campaign profile.
 *   **MILLI AWARD** — Conferred for conceptual excellence.
 *   **FREE LITTLE ART GALLERIES** — Selected global showcase feature.
 
