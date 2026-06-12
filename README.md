@@ -9,9 +9,9 @@ The Moore Signal Archive is an independent research studio operating at the inte
 ***
 
 ### 🏛️ RECOGNITION
-*   **THE NEW YORK TIMES** — Featured national ad campaign profile.
-*   **MILLI AWARD** — Conferred for conceptual excellence.
-*   **FREE LITTLE ART GALLERIES** — Selected global showcase feature.
+*   **THE NEW YORK TIMES** — [Featured](https://www.nytimes.com/paidpost/tiaa/on-the-right-track-retirement-ready.html) national ad campaign profile.
+*   **MILLI AWARD** — [Conferred](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/) for conceptual Innovation.
+*   **FREE LITTLE ART GALLERIES** —   [Selected](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)  studio showcase feature.
 
 ***
 
