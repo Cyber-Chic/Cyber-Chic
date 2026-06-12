@@ -10,23 +10,29 @@ The Moore Signal Archive is an independent research studio operating at the inte
 
 ### 🏛️ RECOGNITION
 *   **THE NEW YORK TIMES** — Featured national campaign profile.
-*   **WESTFAIR MILLI AWARD** — Conferred for conceptual excellence.
+*   **MILLI AWARD** — Conferred for conceptual excellence.
 *   **FREE LITTLE ART GALLERIES** — Selected global showcase feature.
+
+***
+
+### 🪐 CURATION
+**[ FLAGSHIP EXHIBITION: CT TECH WEEK ](https://luma.com/q0lm15pz)
+<small>*↳ Read Participant [Testimonial](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr)*</small>
 
 ***
 
 ### 🔭 ARCHIVAL DIRECTORIES
 *   **[ TMA ]** — [Global Art Project](https://github.io)
-*   **[ PORT ]** — [Literary Portfolio](https://poetry.blog)
-*   **[ HUB ]** — [Exhibition Intake](https://bio.site)
+*   **[ PORT ]** — [Literary Portfolio](https://angies.poetry.blog)
+*   **[ HUB ]** — [Exhibition Intake](https://bio.site/mooresignal)
 
 ***
 
 ### 📡 SECURE INQUIRIES
-Professional curation requests and structural installations are managed via **The Moore Signal Archive LLC**.
+Professional exhibition bookings are managed via **The Moore Signal Archive LLC**.
 
 *   **CONTACT:** themorearchive@proton.me
-*   **OFFICE:** 2389 Main St, Ste 100, Glastonbury, CT 06033
+*   **BUREAU:** 2389 Main St, Ste 100, Glastonbury, CT 06033
 
 ```text
 LOG: SECURE DISPATCH VIA PROTONMAIL // independent of official NASA affiliation.
