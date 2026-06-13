@@ -31,7 +31,7 @@ The Moore Signal Archive is an independent research studio operating at the inte
 ### 📡 SECURE INQUIRIES
 Professional exhibition bookings are managed via **The Moore Signal Archive LLC**.
 
-*   **CONTACT:** themorearchive@proton.me
+*   **CONTACT:** themoorearchive@proton.me
 *   **BUREAU:** 2389 Main St, Ste 100, Glastonbury, CT 06033
 
 ```text
