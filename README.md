@@ -22,7 +22,7 @@ The Moore Signal Archive is an independent research studio operating at the inte
 ***
 
 ### 🔭 ARCHIVAL DIRECTORIES
-*   **[ PCNZ ]** — PRETTY COINZ: Independent Design Study <sup>[6](https://cyber-chic.github.io/prettycoinz/info)</sup>
+*   **[ PCNZ ]** — PRETTY COINZ: Independent Design Study <sup>[6](https://emaze.me/prettycoinz)</sup>
 *   **[ TMA ]** — Global Art Project <sup>[7](https://cyber-chic.github.io/themoorearchive/releases)</sup>
 *   **[ PORT ]** — Literary Portfolio <sup>[8](https://angies.poetry.blog)</sup>
 *   **[ HUB ]** — Exhibition Intake <sup>[9](https://bio.site/mooresignal)</sup>
