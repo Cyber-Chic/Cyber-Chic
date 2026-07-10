@@ -31,7 +31,7 @@
 
 ### 🌌 LITERARY RELEASES
 *   **THE MOORE ARCHIVE** — Limited-edition archival releases <sup>[1](https://cyber-chic.github.io/themoorearchive/releases)</sup>
-*   **THE COLLECTION** — Standard commercial volumes <sup>[2](https://www.amazon.com/author/angelanmoore)</sup>
+*   **THE COLLECTION** — Standard commercial volumes <sup>[2](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)</sup>
 
 ***
 
