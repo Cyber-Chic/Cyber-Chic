@@ -11,12 +11,8 @@
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="5">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://m.media-amazon.com/images/I/61OAaeOKMqL._AC_UF350,350_QL50_.jpg"<img width="233" height="350" alt="image" src="" 
-/>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://cyber-chic.github.io/themoorearchive/img/Book_Cover.jpeg" alt="The Moore iArchive Visual" width="100%" style="border-radius: 8px;" />
+      <td width="100%" align="center">
+        <img src="https://angies.poetry.blog/wp-content/uploads/2022/08/image.png" alt="The Moore iArchive Visual" width="fill" style="border-radius: 8px;" />
       </td>
     </tr>
   </table>
