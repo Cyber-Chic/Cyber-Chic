@@ -4,7 +4,7 @@
 ***
 
 ### 🛰️ THE STUDIO
-The Moore Signal Archive is an impact-first creative studio that distributes limited-edition books and designs educational projects. 
+The Moore Signal Archive is an impact-first creative studio that distributes limited-edition books and designs educational projects. While unsigned copies are available for purchase worldwide on Amazon, our open archive treats kindness as a priceless currency. The ultimate goal of our global book drops and research projects is to foster a love of learning and encourage a deeply connected community—which is why anyone who engages with our work is warmly requested to pay it forward with a quiet act of kindness.
 
 ***
 
