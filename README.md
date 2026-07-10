@@ -1,16 +1,32 @@
-# THE MOORE SIGNAL ARCHIVE
-**ANGELA N. MOORE** • *CREATIVE TECHNOLOGIST*
-
-***
-
 ### 🛰️ THE STUDIO
-The Moore Signal Archive is an impact-first creative studio distributing limited-edition books and educational projects. Our open archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
+
+<div align="center">
+  <p align="center">
+    <strong>The Moore Signal Archive</strong> is an impact-first creative studio distributing limited-edition books and developing educational projects. Our open archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="5">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://m.media-amazon.com/images/I/61OAaeOKMqL._AC_UF350,350_QL50_.jpg"<img width="233" height="350" alt="image" src="" 
+/>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://cyber-chic.github.io/themoorearchive/img/Book_Cover.jpeg" alt="The Moore iArchive Visual" width="100%" style="border-radius: 8px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ***
 
 ### 🌌 LITERARY RELEASES
-*   **[ AMZN ]** — [Explore the Complete Book Collection on Amazon](https://amazon.com)
-*   **[ LTD ]** — [Trace the Global Treasure Hunt for Limited-Edition Master Volumes](https://github.io)
+*   **[ AMZN ]** — [Explore the Complete Book Collection on Amazon](https://www.amazon.com/author/angelanmoore)
+*   **[ TMA ]** — [Trace the Global Treasure Hunt for Limited-Edition Master Volumes](https://cyber-chic.github.io/themoorearchive/releases)
 
 ***
 
@@ -44,8 +60,3 @@ Professional exhibition bookings are managed via **The Moore Signal Archive LLC*
 ```text
 LOG: SECURE DISPATCH VIA PROTONMAIL // Independent of official NASA affiliation.
 ```
-
-
-```
-
-
