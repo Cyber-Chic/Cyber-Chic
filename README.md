@@ -4,7 +4,13 @@
 ***
 
 ### 🛰️ THE STUDIO
-The Moore Signal Archive is an impact-first creative studio that distributes limited-edition books and designs educational projects. While unsigned copies are available for purchase worldwide on Amazon, our open archive treats kindness as a priceless currency. The ultimate goal of our global book drops and research projects is to foster a love of learning and encourage a deeply connected community—which is why anyone who engages with our work is warmly requested to pay it forward with a quiet act of kindness.
+The Moore Signal Archive is an impact-first creative studio distributing limited-edition books and educational projects. Our open archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
+
+***
+
+### 🌌 LITERARY RELEASES
+*   **[ AMZN ]** — [Explore the Complete Book Collection on Amazon](https://amazon.com)
+*   **[ LTD ]** — [Trace the Global Treasure Hunt for Limited-Edition Master Volumes](https://github.io)
 
 ***
 
@@ -24,7 +30,6 @@ The Moore Signal Archive is an impact-first creative studio that distributes lim
 ### 🔭 ARCHIVAL DIRECTORIES
 *   **[ DSC ]** — DEEP SPACE CAPTURE: Cinematic Exhibition Hub <sup>[6](https://emaze.me/nasa)</sup>
 *   **[ PCNZ ]** — PRETTY COINZ: Independent Design Study <sup>[7](https://emaze.me/prettycoinz)</sup>
-*   **[ TMA ]** — Global Art Project <sup>[8](https://cyber-chic.github.io/themoorearchive/releases)</sup>
 *   **[ PORT ]** — Literary Portfolio <sup>[9](https://angies.poetry.blog)</sup>
 *   **[ HUB ]** — Exhibition Intake <sup>[10](https://bio.site/mooresignal)</sup>
 
@@ -37,5 +42,10 @@ Professional exhibition bookings are managed via **The Moore Signal Archive LLC*
 *   **BUREAU:** 2389 Main St, Ste 100, Glastonbury, CT 06033
 
 ```text
-LOG: SECURE DISPATCH VIA PROTONMAIL // independent of official NASA affiliation.
+LOG: SECURE DISPATCH VIA PROTONMAIL // Independent of official NASA affiliation.
 ```
+
+
+```
+
+
