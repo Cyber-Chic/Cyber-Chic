@@ -8,21 +8,30 @@
 
 <br />
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="5">
-    <tr>
-      <td width="100%" align="center">
-        <img src="https://angies.poetry.blog/wp-content/uploads/2022/08/image.png" alt="The Moore iArchive Visual" width="fill" style="border-radius: 8px;" />
-      </td>
-    </tr>
-  </table>
-</div>
+
+<!-- GitHub Native Side-by-Side Structural Framing -->
+<table border="0" cellpadding="0" cellspacing="5" width="100%">
+  <tr>
+    <!-- Left Column: Master Vertical Image -->
+    <td width="50%" align="center" valign="middle">
+      <img src="https://cyber-chic.github.io/themoorearchive/img/Book_Cover.jpeg" alt="The Moore iArchive Visual Master" width="100%" style="border-radius: 8px; display: block;" />
+    </td>
+    <!-- Right Column: GitHub Styled Comic Frame -->
+    <td width="50%" align="center" valign="middle">
+<blockquote>
+  <p align="center">
+    <img src="https://angies.poetry.blog/wp-content/uploads/2022/08/image.png" alt="The Moore iArchive Comics" width="100%" style="border-radius: 4px; display: block;" />
+  </p>
+</blockquote>
+    </td>
+  </tr>
+</table>
 
 ***
 
 ### 🌌 LITERARY RELEASES
-*   **[ AMZN ]** — [Explore the Complete Book Collection on Amazon](https://www.amazon.com/author/angelanmoore)
-*   **[ TMA ]** — [Trace the Global Treasure Hunt for Limited-Edition Master Volumes](https://cyber-chic.github.io/themoorearchive/releases)
+*   **THE MOORE ARCHIVE** — Limited-edition archival releases <sup>[1](https://cyber-chic.github.io/themoorearchive/releases)</sup>
+*   **THE COLLECTION** — Standard commercial volumes <sup>[2](https://www.amazon.com/author/angelanmoore)</sup>
 
 ***
 
