@@ -4,7 +4,7 @@
 ***
 
 ### 🛰️ THE STUDIO
-The Moore Signal Archive is an independent research studio operating at the intersection of deep space data, conceptual art, and human perception. 
+The Moore Signal Archive is an impact-first creative studio that distributes limited-edition books and designs educational projects. 
 
 ***
 
