@@ -8,20 +8,10 @@
 
 <br />
 
-
-<!-- GitHub Native Side-by-Side Structural Framing -->
-<table border="0" cellpadding="0" cellspacing="5" width="100%">
-  <tr>
-    <!-- Center: GitHub Styled Comic Frame -->
-    <td width="100%" align="center" valign="middle">
-<blockquote>
-  <p align="center">
-    <img src="https://angies.poetry.blog/wp-content/uploads/2022/08/image.png" alt="The Moore iArchive Comics" width="100%" style="border-radius: 4px; display: block;" />
-  </p>
-</blockquote>
-    </td>
-  </tr>
-</table>
+<!-- Native Minimalist Visual Framing -->
+<div align="center">
+  <img src="https://angies.poetry.blog/wp-content/uploads/2022/08/image.png" alt="The Moore iArchive Comics" width="100%" style="border-radius: 6px; max-width: 800px; display: block;" />
+</div>
 
 ***
 
@@ -45,10 +35,10 @@
 ***
 
 ### 🔭 ARCHIVAL DIRECTORIES
-*   **[ DSC ]** — DEEP SPACE CAPTURE: Cinematic Exhibition Hub <sup>[8](https://cyber-chic.github.io/nasa/universe)</sup>
-*   **[ PCNZ ]** — PRETTY COINZ: Independent Design Study <sup>[9](https://emaze.me/prettycoinz)</sup>
-*   **[ PORT ]** — Literary Portfolio <sup>[10](https://angies.poetry.blog)</sup>
-*   **[ HUB ]** — Exhibition Intake <sup>[11](https://bio.site/mooresignal)</sup>
+*   `DSC` **DEEP SPACE CAPTURE** — Cinematic Exhibition Hub <sup>[8](https://cyber-chic.github.io/nasa/universe)</sup>
+*   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[9](https://emaze.me/prettycoinz)</sup>
+*   `PORT` **LITERARY PORTFOLIO** — Creative & Poetic Extensions <sup>[10](https://angies.poetry.blog)</sup>
+*   `HUB` **EXHIBITION INTAKE** — Main Hub & Central Gateway <sup>[11](https://bio.site/mooresignal)</sup>
 
 ***
 
