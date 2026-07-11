@@ -12,12 +12,8 @@
 <!-- GitHub Native Side-by-Side Structural Framing -->
 <table border="0" cellpadding="0" cellspacing="5" width="100%">
   <tr>
-    <!-- Left Column: Master Vertical Image -->
-    <td width="50%" align="center" valign="middle">
-      <img src="https://cyber-chic.github.io/themoorearchive/img/Book_Cover.jpeg" alt="The Moore iArchive Visual Master" width="100%" style="border-radius: 8px; display: block;" />
-    </td>
-    <!-- Right Column: GitHub Styled Comic Frame -->
-    <td width="50%" align="center" valign="middle">
+    <!-- Center: GitHub Styled Comic Frame -->
+    <td width="100%" align="center" valign="middle">
 <blockquote>
   <p align="center">
     <img src="https://angies.poetry.blog/wp-content/uploads/2022/08/image.png" alt="The Moore iArchive Comics" width="100%" style="border-radius: 4px; display: block;" />
