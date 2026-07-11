@@ -35,7 +35,7 @@
 ***
 
 ### 🔭 ARCHIVAL DIRECTORIES
-*   `DSC` **DEEP SPACE CAPTURE** — Cinematic Exhibition Hub <sup>[8](https://cyber-chic.github.io/nasa/universe)</sup>
+*   `DSC` **DEEP SPACE CAPTURE** — Cinematic Exhibition Hub <sup>[8](https://cyber-chic.github.io/cosmos/universe)</sup>
 *   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[9](https://emaze.me/prettycoinz)</sup>
 *   `PORT` **LITERARY PORTFOLIO** — Creative & Poetic Extensions <sup>[10](https://angies.poetry.blog)</sup>
 *   `HUB` **EXHIBITION INTAKE** — Main Hub & Central Gateway <sup>[11](https://bio.site/mooresignal)</sup>
