@@ -22,7 +22,7 @@
 ---
 
 ### 🏛️ RECOGNITION
-*   **THE NEW YORK TIMES** — Featured National Ad Campaign Profile <sup>[3 `[ T-Brand Studio ]`](https://www.youtube.com/watch?v=3yS19NcRQt8)</sup>
+*   **THE NEW YORK TIMES** — Featured National Ad Campaign Profile <sup>[3 `[ T Brand Studio ]`](https://www.youtube.com/watch?v=3yS19NcRQt8)</sup>
 *   **MILLI AWARD** — Conferred for Conceptual Innovation <sup>[4](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup>
 *   **FREE LITTLE ART GALLERIES** — Official Global Project Spotlight <sup>[5](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup>
 
