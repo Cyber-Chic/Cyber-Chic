@@ -1,7 +1,7 @@
 ### 🛰️ THE STUDIO
 
 <div align="center">
-  <p align="center">
+  <p style="margin: 0; max-width: 650px; font-size: 14px; line-height: 1.6;">
     <strong>The Moore Signal Archive</strong> is an impact-first creative studio distributing limited-edition books and developing educational projects. Our open archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
   </p>
 </div>
@@ -10,23 +10,24 @@
 
 <!-- Native Minimalist Visual Framing -->
 <div align="center">
-  <img src="https://angies.poetry.blog/wp-content/uploads/2022/08/image.png" alt="The Moore iArchive Comics" width="100%" style="border-radius: 6px; max-width: 800px; display: block;" />
+  <img src="https://angies.poetry.blog/wp-content/uploads/2022/08/image.png" alt="The Moore iArchive Comics" width="100%" max-width="800" />
 </div>
 
-***
+---
 
 ### 🌌 LITERARY RELEASES
 *   **THE MOORE ARCHIVE** — Limited-edition archival releases <sup>[1](https://cyber-chic.github.io/themoorearchive/releases)</sup>
 *   **THE COLLECTION** — Standard commercial volumes <sup>[2](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)</sup>
 
-***
+---
 
 ### 🏛️ RECOGNITION
-*   **THE NEW YORK TIMES** — Featured National Ad Campaign Profile <sup>[3](https://www.nytimes.com/paidpost/tiaa/on-the-right-track-retirement-ready.html)</sup>
+*   **THE NEW YORK TIMES** — Featured National Ad Campaign Profile <sup>[3 `[ T-Brand Studio ]`](https://www.youtube.com/watch?v=3yS19NcRQt8)</sup>
 *   **MILLI AWARD** — Conferred for Conceptual Innovation <sup>[4](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup>
 *   **FREE LITTLE ART GALLERIES** — Official Global Project Spotlight <sup>[5](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup>
 
-***
+---
+
 
 ### 🪐 CURATION
 **FLAGSHIP EXHIBITION: CT TECH WEEK** <sup>[6](https://luma.com/q0lm15pz)</sup>  
