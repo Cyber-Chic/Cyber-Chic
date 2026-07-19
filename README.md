@@ -30,9 +30,9 @@
 
 ### 🪐 AEROSPACE
 *   **3D Galaxy Visualizer: DEEP SPACE CAPTURE!** <sup>[6](https://cyber-chic.github.io/cosmos/universe)</sup>  
-    *   *↳ Poetic Space Tokens* — Geo Science Experiment <sup>[7](https://coord.info/TBB2WKZ)</sup>  
-    *   *↳ CT TECH WEEK* — Flagship Exhibition Showcase <sup>[8](https://luma.com/q0lm15pz)</sup>  
-    *   *↳ Participant Testimonial* — Presentation Log <sup>[9](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr)</sup>
+<small>↳ Poetic Space Tokens — Geo Science Experiment <sup>[7](https://coord.info/TBB2WKZ)</sup></small>  
+<small>↳ CT TECH WEEK — Flagship Exhibition Showcase <sup>[8](https://luma.com/q0lm15pz)</sup></small>  
+<small>↳ Participant Testimonial — LinkedIn Overview <sup>[9](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr)</sup></small>
 
 ---
 
