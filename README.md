@@ -2,11 +2,12 @@
 
 <div align="center">
   <p style="margin: 0; max-width: 650px; font-size: 14px; line-height: 1.6;">
-    <strong>The Moore Signal Archive</strong> is an impact-first creative studio bridging terrestrial art and cosmic discovery. We develop educational resources, distribute limited-edition books, and launch curated literary works across the globe and into space. This archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
+    <strong>The Moore Signal Archive</strong> is an impact-first creative studio distributing limited-edition books and developing educational projects. Our open archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
   </p>
 </div>
 
 <br />
+
 <!-- Native Minimalist Visual Framing -->
 <div align="center">
   <img src="https://angies.poetry.blog/wp-content/uploads/2022/08/image.png" alt="The Moore iArchive Comics" width="100%" max-width="800" />
