@@ -12,7 +12,7 @@
   </p>
 </div>
 
-<br />
+<br/>
 
 <!-- Native Minimalist Visual Framing -->
 <div align="center">
