@@ -4,7 +4,7 @@
   <p style="margin: 0; max-width: 680px; font-size: 14px; line-height: 1.6; letter-spacing: 0.1px;">
 <div align="center">
   <p style="margin: 0; max-width: 680px; font-size: 14px; line-height: 1.6; letter-spacing: 0.1px;">
-    <strong>The Moore Signal Archive</strong> is an impact-first creative studio donating special-edition books and hosting projects that dispatch art across the globe and into outer space.
+    <strong>The Moore Signal Archive</strong> is an impact-first creative studio donating special-edition books and hosting educational projects such as launching art across the globe and into outer space.
   </p>
 </div>
 <br/>
