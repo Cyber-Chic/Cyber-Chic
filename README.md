@@ -4,10 +4,15 @@
   <p style="margin: 0; max-width: 680px; font-size: 14px; line-height: 1.6; letter-spacing: 0.1px;">
 <div align="center">
   <p style="margin: 0; max-width: 680px; font-size: 14px; line-height: 1.6; letter-spacing: 0.1px;">
-    <strong>The Moore Signal Archive</strong> is an impact-first creative studio donating special-edition books and hosting educational projects such as launching art across the globe and into outer space.
+<div align="center">
+  <p style="margin: 0; max-width: 690px; font-size: 14px; line-height: 1.6; letter-spacing: 0.1px;">
+<div align="center">
+  <p style="margin: 0; max-width: 690px; font-size: 14px; line-height: 1.6; letter-spacing: 0.1px;">
+    <strong>The Moore Signal Archive</strong> is an impact-first creative studio donating special-edition books and hosting educational projects such as launching art across the globe and into outer space. This archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
   </p>
 </div>
-<br/>
+
+<br />
 
 <!-- Native Minimalist Visual Framing -->
 <div align="center">
