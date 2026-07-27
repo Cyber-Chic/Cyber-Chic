@@ -2,7 +2,7 @@
 
 <div align="center">
   <p style="margin: 0; max-width: 650px; font-size: 14px; line-height: 1.6;">
-    <strong>The Moore Signal Archive</strong> is an impact-first creative studio bridging terrestrial art and cosmic discovery. We develop educational resourses, distribute limited-edition books, and launch flagship art projects globally and into space. This archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
+    <strong>The Moore Signal Archive</strong> is an impact-first creative studio bridging terrestrial art and cosmic discovery. We develop educational resources, distribute limited-edition books, and launch curated literary works across the globe and into space. This archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
   </p>
 </div>
 
