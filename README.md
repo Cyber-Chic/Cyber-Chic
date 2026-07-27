@@ -2,7 +2,7 @@
 
 <div align="center">
   <p style="margin: 0; max-width: 650px; font-size: 14.5px; line-height: 1.7; letter-spacing: 0.2px;">
-    <strong>The Moore Signal Archive</strong> is an impact-first creative studio distributing limited-edition books, developing educational projects, and launching art into outer space! Our archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
+    <strong>The Moore Signal Archive</strong> is an impact-first creative studio distributing limited-edition books, developing educational projects, and launching art into  space! Our archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
   </p>
 </div>
 
