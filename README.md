@@ -52,3 +52,4 @@ Professional exhibition bookings are managed via **The Moore Signal Archive LLC*
 ```text
 LOG: SECURE DISPATCH VIA PROTONMAIL // Independent research and conceptual data art.
 ```
+
