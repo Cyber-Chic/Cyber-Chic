@@ -8,7 +8,7 @@
   <p style="margin: 0; max-width: 690px; font-size: 14px; line-height: 1.6; letter-spacing: 0.1px;">
 <div align="center">
   <p style="margin: 0; max-width: 690px; font-size: 14px; line-height: 1.6; letter-spacing: 0.1px;">
-    <strong>The Moore Signal Archive</strong> is an impact-first studio donating books and hosting educational projects such as launching art into space. This archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
+    <strong>The Moore Signal Archive</strong> is an impact-first creative studio donating books and hosting educational projects such as launching art into space. This archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
   </p>
 </div>
 
