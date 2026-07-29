@@ -29,22 +29,22 @@
 ---
 
 ### 🪐 AEROSPACE
-*   **THE MOORE SIGNAL DATASET** — Open-Research Contributions <sup>[13](YOUR_REPO_LINK)</sup><br>
-<small>↳ Observer Hub — Official AAVSO Research Record // MANBA <sup>[14](YOUR_AAVSO_LINK)</sup></small>
+*   **THE MOORE SIGNAL DATASET** — Open-Research Scopes and Contributions <sup>[6](YOUR_REPO_LINK)</sup><br>
+<small>↳ Observer Hub — Official AAVSO Research Record // MANBA <sup>[7](YOUR_AAVSO_LINK)</sup></small>
 
 
 
-*   **3D Galaxy Visualizer: DEEP SPACE CAPTURE!** <sup>[6](https://cyber-chic.github.io/cosmos/universe)</sup><br>
-<small>↳ Poetic Space Tokens — Art Launched into Space <sup>[7](https://coord.info/TBB2WKZ)</sup></small><br>
-<small>↳ CT TECH WEEK — Flagship Exhibition Showcase <sup>[8](https://luma.com/q0lm15pz)</sup></small><br>
-<small>↳ Participant Testimonial — Presentation Log <sup>[9](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr)</sup></small>
+*   **3D Galaxy Visualizer: DEEP SPACE CAPTURE!** <sup>[8](https://cyber-chic.github.io/cosmos/universe)</sup><br>
+<small>↳ Poetic Space Tokens — Art Launched into Space <sup>[9](https://coord.info/TBB2WKZ)</sup></small><br>
+<small>↳ CT TECH WEEK — Flagship Exhibition Showcase <sup>[10](https://luma.com/q0lm15pz)</sup></small><br>
+<small>↳ Participant Testimonial — Presentation Log <sup>[11](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr)</sup></small>
 
 ---
 
 ### 🔭 DIRECTORY HIGHLIGHTS
-*   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[10](https://emaze.me/prettycoinz)</sup>
-*   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[11](https://angies.poetry.blog)</sup>
-*   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[12](https://bio.site/mooresignal)</sup>
+*   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[12](https://emaze.me/prettycoinz)</sup>
+*   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[13](https://angies.poetry.blog)</sup>
+*   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[14](https://bio.site/mooresignal)</sup>
 
 ***
 
