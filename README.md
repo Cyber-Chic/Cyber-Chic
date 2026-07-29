@@ -29,7 +29,7 @@
 ---
 
 ### 🪐 AEROSPACE
-*   **THE MOORE SIGNAL DATASET** — Open-Research Scopes and Contributions <sup>[13](YOUR_REPO_LINK)</sup><br>
+*   **THE MOORE SIGNAL DATASET** — Open-Research Contributions <sup>[13](YOUR_REPO_LINK)</sup><br>
 <small>↳ Observer Hub — Official AAVSO Research Record // MANBA <sup>[14](YOUR_AAVSO_LINK)</sup></small>
 
 
