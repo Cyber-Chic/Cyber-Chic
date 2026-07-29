@@ -29,6 +29,11 @@
 ---
 
 ### 🪐 AEROSPACE
+*   **THE MOORE SIGNAL DATASET** — Open-science repository & EXOTIC pipelines <sup>[13](YOUR_REPO_LINK)</sup><br>
+<small>↳ Observer Hub — Official AAVSO Research Record // MANBA <sup>[14](YOUR_AAVSO_LINK)</sup></small>
+
+
+
 *   **3D Galaxy Visualizer: DEEP SPACE CAPTURE!** <sup>[6](https://cyber-chic.github.io/cosmos/universe)</sup><br>
 <small>↳ Poetic Space Tokens — Art Launched into Space <sup>[7](https://coord.info/TBB2WKZ)</sup></small><br>
 <small>↳ CT TECH WEEK — Flagship Exhibition Showcase <sup>[8](https://luma.com/q0lm15pz)</sup></small><br>
