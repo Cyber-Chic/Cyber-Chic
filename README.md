@@ -38,7 +38,7 @@
 
 ---
 
-🔭 DIRECTORY HIGHLIGHTS
+### 🔭 DIRECTORY HIGHLIGHTS
 *   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[13](https://emaze.me/prettycoinz)</sup>
 *   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[14](https://angies.poetry.blog)</sup>
 *   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[15](https://bio.site/mooresignal)</sup>
