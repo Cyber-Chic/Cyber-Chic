@@ -26,23 +26,8 @@
 *   **MILLI AWARD** — Conferred for Conceptual Innovation <sup>[4](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup>
 *   **FREE LITTLE ART GALLERIES** — Official Global Project Spotlight <sup>[5](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup>
 
----
-
-### 🪐 AEROSPACE
-
-| 🛰️ | Mission Details & Tracks |
-| :---: | :--- |
-| **1** | **THE MOORE SIGNAL DATASET**<br>Research Initiatives.<br><sub>---</sub><br><sub>Observer Hub — Official AAVSO Profile.</sub><br><sub>↳ [LAUNCH DATASET 🚀](https://github.com)</sub> |
-| **2** | **3D GALAXY VISUALIZER**<br>Deep Space Capture Platform.<br><sub>---</sub><br><sub>Interactive 3D Galaxy Map.</sub><br><sub>↳ [LAUNCH VISUALIZER 🚀](https://github.io)</sub> |
-| **3** | **AAVSO REGISTRY**<br>Official celestial citizen science data log.<br><sub>---</sub><br><sub>Verified observer profile code: MANBA.</sub><br><sub>↳ [LAUNCH PROFILE 🚀](https://aavso.org)</sub> |
-| **4** | **POETIC SPACE TOKENS**<br>Art launched into space.<br><sub>---</sub><br><sub>Poetic Space Tokens tracked via geocaching logs.</sub><br><sub>↳ [LAUNCH TOKENS 🚀](https://coord.info)</sub> |
-| **5** | **PHOTON ROCKETS**<br>Solderless 10-second STEM project.<br><sub>---</sub><br><sub>Launches trillions of light photons directly into outer space.</sub><br><sub>↳ [LAUNCH MODULE 🚀](./index.html)</sub> |
-| **6** | **EXHIBITION SHOWCASE**<br>CT Tech Week feature.<br><sub>---</sub><br><sub>Flagship exhibition showcase archives and portal.</sub><br><sub>↳ [LAUNCH SHOWCASE 🚀](https://luma.com)</sub> |
-| **7** | **PRESENTATION LOG**<br>Official presentation log.<br><sub>---</sub><br><sub>Participant testimonial and event records.</sub><br><sub>↳ [LAUNCH LOG 🚀](https://linkedin.com)</sub> |
 
 ---
-
-
 
 ### 🔭 DIRECTORY HIGHLIGHTS
 
@@ -51,6 +36,26 @@
 *   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[15](https://bio.site/mooresignal)</sup>
 
 ***
+
+
+### 🪐 AEROSPACE
+
+| 🛰️ | Mission Details & Tracks |
+| :---: | :--- |
+| **1** | **THE MOORE SIGNAL DATASET** — Research initiatives. `` ↳ [LAUNCH 🚀](https://github.com) |
+| **2** | **3D GALAXY VISUALIZER** — Interactive map. ↳ [LAUNCH 🚀](https://github.io) |
+| **3** | **AAVSO REGISTRY** — AAVSO Profile `MANBA` ↳ [LAUNCH 🚀](https://aavso.org) |
+| **4** | **POETIC SPACE TOKENS** — Art launched into space. ↳ [LAUNCH 🚀](https://coord.info) |
+| **5** | **PHOTON ROCKETS** — Launching photons into space ↳ [LAUNCH 🚀](./index.html) |
+| **6** | **EXHIBITION SHOWCASE** — CT Tech Week Exhibit. ↳ [LAUNCH 🚀](https://luma.com) |
+| **7** | **PRESENTATION LOG** — Recap and Testimonials. ↳ [LAUNCH 🚀](https://linkedin.com) |
+
+---
+
+
+
+
+
 
 ### 📡 SECURE INQUIRIES
 Professional exhibition bookings are managed via **The Moore Signal Archive LLC**.
