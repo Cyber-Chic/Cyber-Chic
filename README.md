@@ -32,10 +32,13 @@
 
 | | |
 | :--- | :--- |
-| **THE MOORE SIGNAL DATASET**<br>Research Initiatives <sup>(https://github.com)</sup><br><small>Observer Hub — Official AAVSO Profile (Username: MANBA) <sup>(https://aavso.org)</sup></small> | **3D GALAXY VISUALIZER**<br>Deep Space Capture Platform <sup>(https://github.io)</sup><br><small>Poetic Space Tokens — Art Launched into Space <sup>(https://coord.info)</sup></small> |
-| **PHOTON ROCKETS**<br>10-Second Solderless STEM Project <sup>(./index.html)</sup><br><small>Educational Module \| Launches Trillions of Light Photons Directly Into Outer Space</small> | **EXHIBITION LOGS**<br>Public Showcases &amp; Panels<br><small>CT Tech Week Feature <sup>(https://luma.com)</sup> \| Participant Presentation Log <sup>(https://linkedin.com)</sup></small> |
+| **THE MOORE SIGNAL DATASET** <br> Global Research Initiatives <br> <sub>Observer Hub — Official AAVSO Profile (MANBA)</sub> <br> [LAUNCH 🚀](https://github.com) | **3D GALAXY VISUALIZER** <br> Deep Space Capture Platform <br> <sub>Poetic Space Tokens — Art Launched into Space</sub> <br> [LAUNCH 🚀](https://github.io) |
+| **PHOTON ROCKETS** <br> 10-Second Solderless STEM Project <br> <sub>Launches Trillions of Light Photons into Space</sub> <br> [LAUNCH 🚀](./index.html) | **EXHIBITION LOGS** <br> CT Tech Week Flagship Feature <br> <sub>Official Participant Presentation Log</sub> <br> [LAUNCH 🚀](https://luma.com) |
 
 ---
+
+
+
 
 ### 🔭 DIRECTORY HIGHLIGHTS
 *   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[13](https://emaze.me/prettycoinz)</sup>
