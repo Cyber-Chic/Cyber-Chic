@@ -32,81 +32,87 @@
 
 <table width="100%">
   <tr>
-    <td bgcolor="#1E293B">
+    <td bgcolor="#1E293B" height="150" style="padding: 16px; vertical-align: top;">
       <strong>📡 THE MOORE SIGNAL DATASET</strong>
-      <br><br>
-      <small>Astrophysics pipeline analysis and primary open-source scientific repository.</small>
-      <br><br>
+      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
+      <small style="color: #94A3B8;">Astrophysics pipeline analysis and primary open-source scientific repository.</small>
+      <br /><br />
+      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
       ↳ <b>[LAUNCH DATASET 🚀](https://github.com)</b>
     </td>
   </tr>
 </table>
 
-<br>
+<br />
 
 <table width="100%">
   <tr>
-    <td bgcolor="#1E293B">
+    <td bgcolor="#0F172A" height="150" style="padding: 16px; vertical-align: top;">
       <strong>🌌 3D GALAXY VISUALIZER</strong>
-      <br><br>
-      <small>Interactive digital cosmos mapping handwritten poetry verses to real astrophysical targets.</small>
-      <br><br>
+      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
+      <small style="color: #94A3B8;">Interactive digital cosmos mapping handwritten poetry verses to real astrophysical targets.</small>
+      <br /><br />
+      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
       ↳ <b>[LAUNCH VISUALIZER 🚀](https://github.io)</b>
     </td>
   </tr>
 </table>
 
-<br>
+<br />
 
 <table width="100%">
   <tr>
-    <td bgcolor="#1E293B">
+    <td bgcolor="#1E293B" height="150" style="padding: 16px; vertical-align: top;">
       <strong>🆔 AAVSO REGISTRY</strong>
-      <br><br>
-      <small>Official celestial citizen science data log. Verified observer profile code: MANBA.</small>
-      <br><br>
+      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
+      <small style="color: #94A3B8;">Official celestial citizen science data log. Verified observer profile code: MANBA.</small>
+      <br /><br />
+      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
       ↳ <b>[LAUNCH PROFILE 🚀](https://aavso.org)</b>
     </td>
   </tr>
 </table>
 
-<br>
+<br />
 
 <table width="100%">
   <tr>
-    <td bgcolor="#1E293B">
+    <td bgcolor="#0F172A" height="150" style="padding: 16px; vertical-align: top;">
       <strong>🪙 POETIC SPACE TOKENS</strong>
-      <br><br>
-      <small>Physical art prints launched into zero-gravity space and tracked via geocaching logs.</small>
-      <br><br>
+      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
+      <small style="color: #94A3B8;">Physical art prints launched into zero-gravity space and tracked via geocaching logs.</small>
+      <br /><br />
+      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
       ↳ <b>[LAUNCH TOKENS 🚀](https://coord.info)</b>
     </td>
   </tr>
 </table>
 
-<br>
+<br />
 
 <table width="100%">
   <tr>
-    <td bgcolor="#1E293B">
+    <td bgcolor="#1E293B" height="150" style="padding: 16px; vertical-align: top;">
       <strong>🚀 PHOTON ROCKETS</strong>
-      <br><br>
-      <small>Solderless 10-second STEM activity launching trillions of light photons directly into orbit.</small>
-      <br><br>
+      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
+      <small style="color: #94A3B8;">Solderless 10-second STEM activity launching trillions of light photons directly into orbit.</small>
+      <br /><br />
+      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
       ↳ <b>[LAUNCH MODULE 🚀](./index.html)</b>
     </td>
   </tr>
 </table>
 
-<br>
+<br />
 
 <table width="100%">
   <tr>
-    <td bgcolor="#1E293B">
+    <td bgcolor="#0F172A" height="150" style="padding: 16px; vertical-align: top;">
       <strong>🎭 EXHIBITION LOGS</strong>
-      <br><br>
-      <small>CT Tech Week flagship exhibition showcase archives and participant presentation logs.</small>
-      <br><br>
+      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
+      <small style="color: #94A3B8;">CT Tech Week flagship exhibition showcase archives and participant presentation logs.</small>
+      <br /><br />
+      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
       ↳ <b>[LAUNCH SHOWCASE 🚀](https://luma.com)</b>
     </td>
   </tr>
