@@ -29,12 +29,11 @@
 ---
 
 ### 🪐 AEROSPACE
-*   **THE MOORE SIGNAL DATASET** — Research Initiatives <sup>[6](https://github.com)</sup>  
-    <small>Observer Hub — Official AAVSO Profile (Username: MANBA) <sup>[7](https://aavso.org)</sup></small>
-*   **3D GALAXY VISUALIZER** — Deep Space Capture Platform <sup>[8](https://github.io)</sup>  
-    <small>Poetic Space Tokens — Art Launched into Space <sup>[9](https://coord.info)</sup> | CT Tech Week Feature <sup>[10](https://luma.com)</sup> | Presentation Log <sup>[11](https://linkedin.com)</sup></small>
-*   **PHOTON ROCKETS** — 10-Second Solderless STEM Project <sup>[12](./index.html)</sup>  
-    <small>Educational Module | Launches Trillions of Light Photons Directly Into Outer Space</small>
+
+| | |
+| :--- | :--- |
+| **THE MOORE SIGNAL DATASET**<br>Research Initiatives <sup>(https://github.com)</sup><br><small>Observer Hub — Official AAVSO Profile (Username: MANBA) <sup>(https://aavso.org)</sup></small> | **3D GALAXY VISUALIZER**<br>Deep Space Capture Platform <sup>(https://github.io)</sup><br><small>Poetic Space Tokens — Art Launched into Space <sup>(https://coord.info)</sup></small> |
+| **PHOTON ROCKETS**<br>10-Second Solderless STEM Project <sup>(./index.html)</sup><br><small>Educational Module \| Launches Trillions of Light Photons Directly Into Outer Space</small> | **EXHIBITION LOGS**<br>Public Showcases &amp; Panels<br><small>CT Tech Week Feature <sup>(https://luma.com)</sup> \| Participant Presentation Log <sup>(https://linkedin.com)</sup></small> |
 
 ---
 
