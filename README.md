@@ -31,31 +31,32 @@
 ---
 
 ### 🪐 AEROSPACE
+*   **3D GALAXY VISUALIZER** —  Interactive space map._ <sup>[6](https://github.io)</sup>
+*   **POETIC SPACE TOKENS** — Artwork launched into space._ <sup>[7](https://coord.info)</sup>
+*   **EXHIBITION SHOWCASE**— _CT Tech Week flagship feature. <sup>[8](https://luma.com)</sup>
 
 <details>
-<summary><b>ACCESS THE SPACE STATION 📡</b></summary>
+<summary><b>📡 ACCESS THE SPACE STATION </b></summary>
 <br />
 
 | 🛰️ | Mission Details & Tracks |
 | :---: | :--- |
 | **1** | [**MOORE SIGNAL RESEARCH**](https://github.com) <sup>🚀</sup> — _Astrophysics Hub._ |
-| **2** | [**3D GALAXY VISUALIZER**](https://github.io) <sup>🚀</sup> — _Interactive space map._ |
-| **3** | [**AAVSO REGISTRY**](https://aavso.org) <sup>🚀</sup> — _View Observer profile_ &bull; `MANBA` |
-| **4** | [**POETIC SPACE TOKENS**](https://coord.info) <sup>🚀</sup> — _Art launched into space._ |
-| **5** | [**PHOTON ROCKETS**](./index.html) <sup>🚀</sup> — _Launch photons into space._ |
-| **6** | [**EXHIBITION SHOWCASE**](https://luma.com) <sup>🚀</sup> — _CT Tech Week feature._ |
-| **7** | [**PRESENTATION LOG**](https://linkedin.com) <sup>🚀</sup> — _Event logs & testimonials._ |
+| **2** | [**AAVSO REGISTRY**](https://aavso.org) <sup>🚀</sup> — _View Observer profile_ &bull; `MANBA` |
+| **3** | [**PHOTON ROCKETS**](./index.html) <sup>🚀</sup> — _Launch photons into space._ |
+| **4** | [**PRESENTATION LOG**](https://linkedin.com) <sup>🚀</sup> — _Event logs & testimonials._ |
 
 </details>
 
 ---
 
 
+
 ### 🔭 DIRECTORY HIGHLIGHTS
 
-*   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[13](https://emaze.me/prettycoinz)</sup>
-*   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[14](https://angies.poetry.blog)</sup>I
-*   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[15](https://bio.site/mooresignal)</sup>
+*   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[9](https://emaze.me/prettycoinz)</sup>
+*   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[10](https://angies.poetry.blog)</sup>I
+*   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[11](https://bio.site/mooresignal)</sup>
 
 ***
 
