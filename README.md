@@ -29,16 +29,16 @@
 ---
 
 ### 🪐 AEROSPACE
-*   **THE MOORE SIGNAL DATASET** — Research Initiatives <sup>[6](https://github.com/Cyber-Chic/cosmos)</sup>  
-    <small>Observer Hub | Official AAVSO Profile & MANBA <sup>[7](https://www.aavso.org/users/angelamoore)</sup></small>
-*   **3D GALAXY VISUALIZER** — Deep Space Capture Platform <sup>[8](https://cyber-chic.github.io/cosmos/universe)</sup>  
-    <small>Poetic Space Tokens <sup>[9](https://coord.info/TBB2WKZ)</sup> | CT Tech Week Feature <sup>[10](https://luma.com/q0lm15pz)</sup> | Presentation Log <sup>[11](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr)</sup></small>
-*   **PHOTON ROCKETS** — Solderless 10-Second STEM Flashlights <sup>[12](./index.html)</sup>  
-    <small>Educational Module | Creative Physics Framework for Elementary Classrooms</small>
+*   **THE MOORE SIGNAL DATASET** — Research Initiatives <sup>[6](https://github.com)</sup>  
+    <small>Observer Hub — Official AAVSO Profile (Username: MANBA) <sup>[7](https://aavso.org)</sup></small>
+*   **3D GALAXY VISUALIZER** — Deep Space Capture Platform <sup>[8](https://github.io)</sup>  
+    <small>Poetic Space Tokens — Art Launched into Space <sup>[9](https://coord.info)</sup> | CT Tech Week Feature <sup>[10](https://luma.com)</sup> | Presentation Log <sup>[11](https://linkedin.com)</sup></small>
+*   **PHOTON ROCKETS** — 10-Second Solderless STEM Project <sup>[12](./index.html)</sup>  
+    <small>Educational Module | Launches Trillions of Light Photons Directly Into Outer Space</small>
 
 ---
 
-### 🔭 DIRECTORY HIGHLIGHTS
+🔭 DIRECTORY HIGHLIGHTS
 *   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[13](https://emaze.me/prettycoinz)</sup>
 *   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[14](https://angies.poetry.blog)</sup>
 *   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[15](https://bio.site/mooresignal)</sup>
