@@ -30,18 +30,41 @@
 
 ### 🪐 AEROSPACE
 
-| Project Component | Mission Data & Launch Track |
-| :--- | :--- |
-| **THE MOORE SIGNAL DATASET** | Astrophysics pipeline analysis and primary open-source scientific repository.<br>↳ [LAUNCH DATASET 🚀](https://github.com) |
-| **3D GALAXY VISUALIZER** | Interactive digital cosmos mapping handwritten poetry verses to real astrophysical targets.<br>↳ [LAUNCH VISUALIZER 🚀](https://github.io) |
-| **AAVSO REGISTRY** | Official celestial citizen science data log. Verified observer profile code: MANBA.<br>↳ [LAUNCH PROFILE 🚀](https://aavso.org) |
-| **POETIC SPACE TOKENS** | Physical art prints launched into zero-gravity space and tracked via geocaching logs.<br>↳ [LAUNCH TOKENS 🚀](https://coord.info) |
-| **PHOTON ROCKETS** | Solderless 10-second STEM activity launching trillions of light photons directly into orbit.<br>↳ [LAUNCH MODULE 🚀](./index.html) |
-| **EXHIBITION LOGS** | CT Tech Week flagship exhibition showcase archives and participant presentation logs.<br>↳ [LAUNCH SHOWCASE 🚀](https://luma.com) |
+| 📡 THE MOORE SIGNAL DATASET |
+| :--- |
+| Astrophysics pipeline analysis and primary open-source scientific repository.<br>↳ [LAUNCH DATASET 🚀](https://github.com) |
+
+<br>
+
+| 🌌 3D GALAXY VISUALIZER |
+| :--- |
+| Interactive digital cosmos mapping handwritten poetry verses to real astrophysical targets.<br>↳ [LAUNCH VISUALIZER 🚀](https://github.io) |
+
+<br>
+
+| 🆔 AAVSO REGISTRY |
+| :--- |
+| Official celestial citizen science data log. Verified observer profile code: MANBA.<br>↳ [LAUNCH PROFILE 🚀](https://aavso.org) |
+
+<br>
+
+| 🪙 POETIC SPACE TOKENS |
+| :--- |
+| Physical art prints launched into zero-gravity space and tracked via geocaching logs.<br>↳ [LAUNCH TOKENS 🚀](https://coord.info) |
+
+<br>
+
+| 🚀 PHOTON ROCKETS |
+| :--- |
+| Solderless 10-second STEM activity launching trillions of light photons directly into orbit.<br>↳ [LAUNCH MODULE 🚀](./index.html) |
+
+<br>
+
+| 🎭 EXHIBITION LOGS |
+| :--- |
+| CT Tech Week flagship exhibition showcase archives and participant presentation logs.<br>↳ [LAUNCH SHOWCASE 🚀](https://luma.com) |
 
 ---
-
-
 
 
 ### 🔭 DIRECTORY HIGHLIGHTS
