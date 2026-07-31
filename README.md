@@ -19,21 +19,24 @@
 *   **THE MOORE ARCHIVE** — Limited-edition archival releases <sup>[1](https://cyber-chic.github.io/themoorearchive/releases)</sup>
 *   **THE COLLECTION** — Standard commercial volumes <sup>[2](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)</sup>
 
+
 ---
 
 ### 🪐 AEROSPACE
 
 | 🛰️ | Mission Details & Tracks |
 | :---: | :--- |
-| **1** | **CITIZEN SCIENCE RESEARCH** — _Astrophysics Hub._ ↳ [LAUNCH 🚀](https://github.com) |
-| **2** | **3D GALAXY VISUALIZER** — _Interactive space map._ ↳ [LAUNCH 🚀](https://github.io) |
-| **3** | **AAVSO REGISTRY** — _View Observer profile_ &bull; `MANBA` ↳ [LAUNCH 🚀](https://aavso.org) |
-| **4** | **POETIC SPACE TOKENS** — _Art launched into space._ ↳ [LAUNCH 🚀](https://coord.info) |
-| **5** | **PHOTON ROCKETS** — _Launch photons into space._ ↳ [LAUNCH 🚀](./index.html) |
-| **6** | **EXHIBITION SHOWCASE** — _CT Tech Week feature._ ↳ [LAUNCH 🚀](https://luma.com) |
-| **7** | **PRESENTATION LOG** — _Event logs & testimonials._ ↳ [LAUNCH 🚀](https://linkedin.com) |
+| **1** | [**THE MOORE SIGNAL DATASET**](https://github.com) <sup>🚀</sup> — _Astrophysics Hub._ |
+| **2** | [**3D GALAXY VISUALIZER**](https://github.io) <sup>🚀</sup> — _Interactive space map._ |
+| **3** | [**AAVSO REGISTRY**](https://aavso.org) <sup>🚀</sup> — _View Observer profile_ &bull; `MANBA` |
+| **4** | [**POETIC SPACE TOKENS**](https://coord.info) <sup>🚀</sup> — _Art launched into space._ |
+| **5** | [**PHOTON ROCKETS**](./index.html) <sup>🚀</sup> — _Launch photons into space._ |
+| **6** | [**EXHIBITION SHOWCASE**](https://luma.com) <sup>🚀</sup> — _CT Tech Week feature._ |
+| **7** | [**PRESENTATION LOG**](https://linkedin.com) <sup>🚀</sup> — _Event logs & testimonials._ |
 
 ---
+
+
 
 
 ### 🏛️ RECOGNITION
