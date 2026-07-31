@@ -36,7 +36,7 @@
 *   **EXHIBITION SHOWCASE**— _CT Tech Week flagship feature. <sup>[8](https://luma.com)</sup>
 
 <details>
-<summary><b>📡 ACCESS THE SPACE STATION </b></summary>
+<summary><b>📡 MISSION CONTROL </b></summary>
 <br />
 
 | 🛰️ | Mission Details & Tracks |
