@@ -30,93 +30,15 @@
 
 ### 🪐 AEROSPACE
 
-<table width="100%">
-  <tr>
-    <td bgcolor="#1E293B" height="150" style="padding: 16px; vertical-align: top;">
-      <strong>📡 THE MOORE SIGNAL DATASET</strong>
-      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
-      <small style="color: #94A3B8;">Astrophysics pipeline analysis and primary open-source scientific repository.</small>
-      <br /><br />
-      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
-      ↳ <b>[LAUNCH DATASET 🚀](https://github.com)</b>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table width="100%">
-  <tr>
-    <td bgcolor="#0F172A" height="150" style="padding: 16px; vertical-align: top;">
-      <strong>🌌 3D GALAXY VISUALIZER</strong>
-      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
-      <small style="color: #94A3B8;">Interactive digital cosmos mapping handwritten poetry verses to real astrophysical targets.</small>
-      <br /><br />
-      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
-      ↳ <b>[LAUNCH VISUALIZER 🚀](https://github.io)</b>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table width="100%">
-  <tr>
-    <td bgcolor="#1E293B" height="150" style="padding: 16px; vertical-align: top;">
-      <strong>🆔 AAVSO REGISTRY</strong>
-      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
-      <small style="color: #94A3B8;">Official celestial citizen science data log. Verified observer profile code: MANBA.</small>
-      <br /><br />
-      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
-      ↳ <b>[LAUNCH PROFILE 🚀](https://aavso.org)</b>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table width="100%">
-  <tr>
-    <td bgcolor="#0F172A" height="150" style="padding: 16px; vertical-align: top;">
-      <strong>🪙 POETIC SPACE TOKENS</strong>
-      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
-      <small style="color: #94A3B8;">Physical art prints launched into zero-gravity space and tracked via geocaching logs.</small>
-      <br /><br />
-      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
-      ↳ <b>[LAUNCH TOKENS 🚀](https://coord.info)</b>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table width="100%">
-  <tr>
-    <td bgcolor="#1E293B" height="150" style="padding: 16px; vertical-align: top;">
-      <strong>🚀 PHOTON ROCKETS</strong>
-      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
-      <small style="color: #94A3B8;">Solderless 10-second STEM activity launching trillions of light photons directly into orbit.</small>
-      <br /><br />
-      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
-      ↳ <b>[LAUNCH MODULE 🚀](./index.html)</b>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table width="100%">
-  <tr>
-    <td bgcolor="#0F172A" height="150" style="padding: 16px; vertical-align: top;">
-      <strong>🎭 EXHIBITION LOGS</strong>
-      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
-      <small style="color: #94A3B8;">CT Tech Week flagship exhibition showcase archives and participant presentation logs.</small>
-      <br /><br />
-      <hr style="border: 0; border-top: 1px solid #334155; margin: 8px 0;" />
-      ↳ <b>[LAUNCH SHOWCASE 🚀](https://luma.com)</b>
-    </td>
-  </tr>
-</table>
+| Project Title | Mission Details & Tracks |
+| :--- | :--- |
+| **📡 THE MOORE SIGNAL DATASET** | Astrophysics pipeline analysis and primary open-source scientific repository.<br>↳ [LAUNCH DATASET 🚀](https://github.com/Cyber-Chic/cosmos) |
+| **🌌 3D GALAXY VISUALIZER** | Interactive digital cosmos mapping handwritten poetry verses to real astrophysical targets.<br>↳ [LAUNCH VISUALIZER 🚀](https://cyber-chic.github.io/cosmos/universe) |
+| **🆔 AAVSO REGISTRY** | Official celestial citizen science data log. Verified observer profile code: MANBA.<br>↳ [LAUNCH PROFILE 🚀](https://www.aavso.org/users/angelamoore) |
+| **🪙 POETIC SPACE TOKENS** | Physical art prints launched into zero-gravity space and tracked via geocaching logs.<br>↳ [LAUNCH TOKENS 🚀](https://coord.info/TBB2WKZ) |
+| **🚀 PHOTON ROCKETS** | Solderless 10-second STEM activity launching trillions of light photons directly into orbit.<br>↳ [LAUNCH MODULE 🚀](./index.html) |
+| **🎭 EXHIBITION SHOWCASE** | CT Tech Week flagship exhibition showcase archives and landing portal.<br>↳ [LAUNCH SHOWCASE 🚀](https://luma.com/q0lm15pz) |
+| **🎬 PRESENTATION LOG** | Official participant presentation records and live event overview updates.<br>↳ [LAUNCH LOG 🚀](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr) |
 
 ---
 
