@@ -31,9 +31,9 @@
 ---
 
 ### 🪐 AEROSPACE
-*   **3D GALAXY VISUALIZER** —  Interactive space map._ <sup>[6](https://github.io)</sup>
-*   **POETIC SPACE TOKENS** — Artwork launched into space._ <sup>[7](https://coord.info)</sup>
-*   **EXHIBITION SHOWCASE**— _CT Tech Week flagship feature. <sup>[8](https://luma.com)</sup>
+*   **3D GALAXY VISUALIZER** —  Interactive space map._ <sup>[6](https://cyber-chic.github.io/cosmos/universe)</sup>
+*   **POETIC SPACE TOKENS** — Artwork launched into space._ <sup>[7](https://coord.info/TBB2WKZ)</sup>
+*   **EXHIBITION SHOWCASE**— _CT Tech Week flagship feature. <sup>[8](https://luma.com/q0lm15pz)</sup>
 
 <details>
 <summary><b>📡 MISSION CONTROL </b></summary>
@@ -41,10 +41,10 @@
 
 | 🛰️ | Mission Details & Tracks |
 | :---: | :--- |
-| **1** | [**MOORE SIGNAL RESEARCH**](https://github.com) <sup>🚀</sup> — _Astrophysics Hub._ |
-| **2** | [**AAVSO REGISTRY**](https://aavso.org) <sup>🚀</sup> — _View Observer profile_ &bull; `MANBA` |
+| **1** | [**MOORE SIGNAL RESEARCH**](https://github.com/Cyber-Chic/cosmos) <sup>🚀</sup> — _Astrophysics Hub._ |
+| **2** | [**AAVSO REGISTRY**](https://www.aavso.org/users/angelamoore) <sup>🚀</sup> — _View Observer profile_ &bull; `MANBA` |
 | **3** | [**PHOTON ROCKETS**](./index.html) <sup>🚀</sup> — _Launch photons into space._ |
-| **4** | [**PRESENTATION LOG**](https://linkedin.com) <sup>🚀</sup> — _Event logs & testimonials._ |
+| **4** | [**PRESENTATION LOG**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr) <sup>🚀</sup> — _Event logs & testimonials._ |
 
 </details>
 
