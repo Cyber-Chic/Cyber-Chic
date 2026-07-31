@@ -31,8 +31,8 @@
 ---
 
 ### 🪐 AEROSPACE
-*   **3D GALAXY VISUALIZER** —  Interactive space map._ <sup>[6](https://cyber-chic.github.io/cosmos/universe)</sup>
-*   **POETIC SPACE TOKENS** — Artwork launched into space._ <sup>[7](https://coord.info/TBB2WKZ)</sup>
+*   **3D GALAXY VISUALIZER** —  Interactive space map.<sup>[6](https://cyber-chic.github.io/cosmos/universe)</sup>
+*   **POETIC SPACE TOKENS** — Artwork launched into space.<sup>[7](https://coord.info/TBB2WKZ)</sup>
 *   **EXHIBITION SHOWCASE**— CT Tech Week flagship feature. <sup>[8](https://luma.com/q0lm15pz)</sup>
 
 <details>
