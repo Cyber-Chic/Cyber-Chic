@@ -30,15 +30,15 @@
 
 ### 🪐 AEROSPACE
 
-| Project Title | Mission Details & Tracks |
-| :--- | :--- |
-| **📡 THE MOORE SIGNAL DATASET** | Astrophysics pipeline analysis and primary open-source scientific repository.<br>↳ [LAUNCH DATASET 🚀](https://github.com/Cyber-Chic/cosmos) |
-| **🌌 3D GALAXY VISUALIZER** | Interactive digital cosmos mapping handwritten poetry verses to real astrophysical targets.<br>↳ [LAUNCH VISUALIZER 🚀](https://cyber-chic.github.io/cosmos/universe) |
-| **🆔 AAVSO REGISTRY** | Official celestial citizen science data log. Verified observer profile code: MANBA.<br>↳ [LAUNCH PROFILE 🚀](https://www.aavso.org/users/angelamoore) |
-| **🪙 POETIC SPACE TOKENS** | Physical art prints launched into zero-gravity space and tracked via geocaching logs.<br>↳ [LAUNCH TOKENS 🚀](https://coord.info/TBB2WKZ) |
-| **🚀 PHOTON ROCKETS** | Solderless 10-second STEM activity launching trillions of light photons directly into orbit.<br>↳ [LAUNCH MODULE 🚀](./index.html) |
-| **🎭 EXHIBITION SHOWCASE** | CT Tech Week flagship exhibition showcase archives and landing portal.<br>↳ [LAUNCH SHOWCASE 🚀](https://luma.com/q0lm15pz) |
-| **🎬 PRESENTATION LOG** | Official participant presentation records and live event overview updates.<br>↳ [LAUNCH LOG 🚀](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr) |
+| 🌌 THE MOORE SIGNAL ARCHIVE |
+| :--- |
+| **THE MOORE SIGNAL DATASET**<br>Astrophysics pipeline analysis and primary open-source scientific repository.<br>---<br>↳ [LAUNCH DATASET 🚀](https://github.com) |
+| **3D GALAXY VISUALIZER**<br>Interactive digital cosmos mapping handwritten poetry verses to real astrophysical targets.<br>---<br>↳ [LAUNCH VISUALIZER 🚀](https://github.io) |
+| **AAVSO REGISTRY**<br>Official celestial citizen science data log. Verified observer profile code: MANBA.<br>---<br>↳ [LAUNCH PROFILE 🚀](https://aavso.org) |
+| **POETIC SPACE TOKENS**<br>Physical art prints launched into zero-gravity space and tracked via geocaching logs.<br>---<br>↳ [LAUNCH TOKENS 🚀](https://coord.info) |
+| **PHOTON ROCKETS**<br>Solderless 10-second STEM activity launching trillions of light photons directly into orbit.<br>---<br>↳ [LAUNCH MODULE 🚀](./index.html) |
+| **EXHIBITION SHOWCASE**<br>CT Tech Week flagship exhibition showcase archives and landing portal.<br>---<br>↳ [LAUNCH SHOWCASE 🚀](https://luma.com) |
+| **PRESENTATION LOG**<br>Official participant presentation records and live event overview updates.<br>---<br>↳ [LAUNCH LOG 🚀](https://linkedin.com) |
 
 ---
 
