@@ -32,8 +32,9 @@
 
 | | |
 | :--- | :--- |
-| **THE MOORE SIGNAL DATASET**<br>📡 Global Research Initiatives<br>↳ [LAUNCH DATASET 🚀](https://github.com)<br>📡 AAVSO Observer Profile (MANBA)<br>↳ [LAUNCH AAVSO 🚀](https://aavso.org) | **3D GALAXY VISUALIZER**<br>🌌 Deep Space Capture Platform<br>↳ [LAUNCH VISUALIZER 🚀](https://github.io)<br>🌌 Poetic Space Tokens — Art In Space<br>↳ [LAUNCH TOKENS 🚀](https://coord.info) |
-| **PHOTON ROCKETS**<br>🚀 10-Second Solderless STEM Project<br>🚀 Launches Light Photons to Space<br>↳ [LAUNCH MODULE 🚀](./index.html) | **EXHIBITION LOGS**<br>🎭 CT Tech Week Flagship Feature<br>↳ [LAUNCH SHOWCASE 🚀](https://luma.com)<br>🎭 Official Presentation Log<br>↳ [LAUNCH LOG 🚀](https://linkedin.com) |
+| **THE MOORE SIGNAL DATASET**<br>📡 Research Initiatives<br>↳ [LAUNCH DATASET 🚀](https://github.com/Cyber-Chic/cosmos) | **3D GALAXY VISUALIZER**<br>🌌 Galaxy Explorer Platform<br>↳ [LAUNCH VISUALIZER 🚀](https://cyber-chic.github.io/cosmos/universe) |
+| **AAVSO REGISTRY**<br>📡 Profile Code: MANBA<br>↳ [LAUNCH PROFILE 🚀](https://www.aavso.org/users/angelamoore) | **POETIC SPACE TOKENS**<br>🌌 Art Prints Launched to Space<br>↳ [LAUNCH TOKENS 🚀](https://coord.info/TBB2WKZ) |
+| **PHOTON ROCKETS**<br>🚀 Solderless STEM Light Project<br>↳ [LAUNCH MODULE 🚀](./index.html) | **EXHIBITION LOGS**<br>🎭 CT Tech Week Feature & Logs<br>↳ [LAUNCH LOGS 🚀](https://luma.com/q0lm15pz) |
 
 ---
 
