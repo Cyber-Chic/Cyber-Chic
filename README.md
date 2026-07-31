@@ -26,7 +26,7 @@
 
 | 🛰️ | Mission Details & Tracks |
 | :---: | :--- |
-| **1** | [**THE MOORE SIGNAL DATASET**](https://github.com) <sup>🚀</sup> — _Astrophysics Hub._ |
+| **1** | [**MOORE SIGNAL RESEARCH**](https://github.com) <sup>🚀</sup> — _Astrophysics Hub._ |
 | **2** | [**3D GALAXY VISUALIZER**](https://github.io) <sup>🚀</sup> — _Interactive space map._ |
 | **3** | [**AAVSO REGISTRY**](https://aavso.org) <sup>🚀</sup> — _View Observer profile_ &bull; `MANBA` |
 | **4** | [**POETIC SPACE TOKENS**](https://coord.info) <sup>🚀</sup> — _Art launched into space._ |
