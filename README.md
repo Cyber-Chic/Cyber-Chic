@@ -32,12 +32,11 @@
 
 | | |
 | :--- | :--- |
-| **THE MOORE SIGNAL DATASET**<br>📡 Research Initiatives<br>↳ [LAUNCH DATASET 🚀](https://github.com/Cyber-Chic/cosmos) | **3D GALAXY VISUALIZER**<br>🌌 Galaxy Explorer Platform<br>↳ [LAUNCH VISUALIZER 🚀](https://cyber-chic.github.io/cosmos/universe) |
-| **AAVSO REGISTRY**<br>📡 Profile Code: MANBA<br>↳ [LAUNCH PROFILE 🚀](https://www.aavso.org/users/angelamoore) | **POETIC SPACE TOKENS**<br>🌌 Art Prints Launched to Space<br>↳ [LAUNCH TOKENS 🚀](https://coord.info/TBB2WKZ) |
-| **PHOTON ROCKETS**<br>🚀 Solderless STEM Light Project<br>↳ [LAUNCH MODULE 🚀](./index.html) | **EXHIBITION LOGS**<br>🎭 CT Tech Week Feature & Logs<br>↳ [LAUNCH LOGS 🚀](https://luma.com/q0lm15pz) |
+| **THE MOORE SIGNAL DATASET**<br><br><small>Astrophysics pipeline analysis and primary open-source scientific repository.</small><br><br>---<br>↳ [LAUNCH DATASET 🚀](https://github.com) | **3D GALAXY VISUALIZER**<br><br><small>Interactive digital cosmos mapping handwritten poetry verses to real targets.</small><br><br>---<br>↳ [LAUNCH VISUALIZER 🚀](https://github.io) |
+| **AAVSO REGISTRY**<br><br><small>Official celestial citizen science data log. Verified observer profile code: MANBA.</small><br><br>---<br>↳ [LAUNCH PROFILE 🚀](https://aavso.org) | **POETIC SPACE TOKENS**<br><br><small>Physical art prints launched into zero-gravity space and tracked via geocaching logs.</small><br><br>---<br>↳ [LAUNCH TOKENS 🚀](https://coord.info) |
+| **PHOTON ROCKETS**<br><br><small>Solderless 10-second STEM activity launching trillions of light photons into orbit.</small><br><br>---<br>↳ [LAUNCH MODULE 🚀](./index.html) | **EXHIBITION LOGS**<br><br><small>CT Tech Week flagship exhibition showcase archives and presentation logs.</small><br><br>---<br>↳ [LAUNCH SHOWCASE 🚀](https://luma.com) |
 
 ---
-
 
 
 
