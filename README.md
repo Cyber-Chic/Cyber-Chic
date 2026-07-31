@@ -32,13 +32,13 @@
 
 | 🛰️ | Mission Details & Tracks |
 | :---: | :--- |
-| **1** | **THE MOORE SIGNAL DATASET**<br>Astrophysics pipeline analysis and primary open-source scientific repository.<br><sub>---</sub><br><sub>↳ [LAUNCH DATASET 🚀](https://github.com)</sub> |
-| **2** | **3D GALAXY VISUALIZER**<br>Interactive digital cosmos mapping handwritten poetry verses to real astrophysical targets.<br><sub>---</sub><br><sub>↳ [LAUNCH VISUALIZER 🚀](https://github.io)</sub> |
-| **3** | **AAVSO REGISTRY**<br>Official celestial citizen science data log. Verified observer profile code: MANBA.<br><sub>---</sub><br><sub>↳ [LAUNCH PROFILE 🚀](https://aavso.org)</sub> |
-| **4** | **POETIC SPACE TOKENS**<br>Physical art prints launched into zero-gravity space and tracked via geocaching logs.<br><sub>---</sub><br><sub>↳ [LAUNCH TOKENS 🚀](https://coord.info)</sub> |
-| **5** | **PHOTON ROCKETS**<br>Solderless 10-second STEM activity launching trillions of light photons directly into orbit.<br><sub>---</sub><br><sub>↳ [LAUNCH MODULE 🚀](./index.html)</sub> |
-| **6** | **EXHIBITION SHOWCASE**<br>CT Tech Week flagship exhibition showcase archives and landing portal.<br><sub>---</sub><br><sub>↳ [LAUNCH SHOWCASE 🚀](https://luma.com)</sub> |
-| **7** | **PRESENTATION LOG**<br>Official participant presentation records and live event overview updates.<br><sub>---</sub><br><sub>↳ [LAUNCH LOG 🚀](https://linkedin.com)</sub> |
+| **1** | **THE MOORE SIGNAL DATASET**<br>Research Initiatives.<br><sub>---</sub><br><sub>Observer Hub — Official AAVSO Profile.</sub><br><sub>↳ [LAUNCH DATASET 🚀](https://github.com)</sub> |
+| **2** | **3D GALAXY VISUALIZER**<br>Deep Space Capture Platform.<br><sub>---</sub><br><sub>Interactive 3D Galaxy Map.</sub><br><sub>↳ [LAUNCH VISUALIZER 🚀](https://github.io)</sub> |
+| **3** | **AAVSO REGISTRY**<br>Official celestial citizen science data log.<br><sub>---</sub><br><sub>Verified observer profile code: MANBA.</sub><br><sub>↳ [LAUNCH PROFILE 🚀](https://aavso.org)</sub> |
+| **4** | **POETIC SPACE TOKENS**<br>Art launched into space.<br><sub>---</sub><br><sub>Poetic Space Tokens tracked via geocaching logs.</sub><br><sub>↳ [LAUNCH TOKENS 🚀](https://coord.info)</sub> |
+| **5** | **PHOTON ROCKETS**<br>Solderless 10-second STEM project.<br><sub>---</sub><br><sub>Launches trillions of light photons directly into outer space.</sub><br><sub>↳ [LAUNCH MODULE 🚀](./index.html)</sub> |
+| **6** | **EXHIBITION SHOWCASE**<br>CT Tech Week feature.<br><sub>---</sub><br><sub>Flagship exhibition showcase archives and portal.</sub><br><sub>↳ [LAUNCH SHOWCASE 🚀](https://luma.com)</sub> |
+| **7** | **PRESENTATION LOG**<br>Official presentation log.<br><sub>---</sub><br><sub>Participant testimonial and event records.</sub><br><sub>↳ [LAUNCH LOG 🚀](https://linkedin.com)</sub> |
 
 ---
 
