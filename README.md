@@ -42,15 +42,16 @@
 
 | 🛰️ | Mission Details & Tracks |
 | :---: | :--- |
-| **1** | **THE MOORE SIGNAL DATASET** — Research initiatives. `` ↳ [LAUNCH 🚀](https://github.com) |
-| **2** | **3D GALAXY VISUALIZER** — Interactive map. ↳ [LAUNCH 🚀](https://github.io) |
-| **3** | **AAVSO REGISTRY** — AAVSO Profile `MANBA` ↳ [LAUNCH 🚀](https://aavso.org) |
+| **1** | **THE MOORE SIGNAL DATASET** — Astrophysics Lab. ↳ [LAUNCH 🚀](https://github.com) |
+| **2** | **3D GALAXY VISUALIZER** — Interactive space map. ↳ [LAUNCH 🚀](https://github.io) |
+| **3** | **AAVSO REGISTRY** — Observer profile - ID `MANBA` ↳ [LAUNCH 🚀](https://aavso.org) |
 | **4** | **POETIC SPACE TOKENS** — Art launched into space. ↳ [LAUNCH 🚀](https://coord.info) |
-| **5** | **PHOTON ROCKETS** — Launching photons into space ↳ [LAUNCH 🚀](./index.html) |
-| **6** | **EXHIBITION SHOWCASE** — CT Tech Week Exhibit. ↳ [LAUNCH 🚀](https://luma.com) |
-| **7** | **PRESENTATION LOG** — Recap and Testimonials. ↳ [LAUNCH 🚀](https://linkedin.com) |
+| **5** | **PHOTON ROCKETS** — Launch photons into space. ↳ [LAUNCH 🚀](./index.html) |
+| **6** | **EXHIBITION SHOWCASE** — CT Tech Week feature. ↳ [LAUNCH 🚀](https://luma.com) |
+| **7** | **PRESENTATION LOG** — Event logs & testimonials. ↳ [LAUNCH 🚀](https://linkedin.com) |
 
 ---
+
 
 
 
