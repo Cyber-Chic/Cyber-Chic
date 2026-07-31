@@ -16,8 +16,8 @@
 ---
 
 ### 🌌 LITERARY RELEASES
-*   **THE MOORE ARCHIVE** — Limited-edition archival releases <sup>[1](https://cyber-chic.github.io/themoorearchive/releases)</sup>
-*   **THE COLLECTION** — Standard commercial volumes <sup>[2](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)</sup>
+*   **THE MOORE ARCHIVE** — Limited-Edition Archival Releases <sup>[1](https://cyber-chic.github.io/themoorearchive/releases)</sup>
+*   **THE COLLECTION** — Standard Commercial Volumes <sup>[2](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)</sup>
 
 ---
 
@@ -31,9 +31,9 @@
 ---
 
 ### 🪐 AEROSPACE
-*   **3D GALAXY VISUALIZER** —  Interactive space map.<sup>[6](https://cyber-chic.github.io/cosmos/universe)</sup>
-*   **POETIC SPACE TOKENS** — Artwork launched into space.<sup>[7](https://coord.info/TBB2WKZ)</sup>
-*   **EXHIBITION SHOWCASE**— CT Tech Week flagship feature. <sup>[8](https://luma.com/q0lm15pz)</sup>
+*   **3D GALAXY VISUALIZER** —  The Interactive Cosmic Map.<sup>[6](https://cyber-chic.github.io/cosmos/universe)</sup>
+*   **POETIC SPACE TOKENS** — Artwork Launched Into Space.<sup>[7](https://coord.info/TBB2WKZ)</sup>
+*   **EXHIBITION SHOWCASE**— CT Tech Week Flagship Event. <sup>[8](https://luma.com/q0lm15pz)</sup>
 
 <details>
 <summary><b>📡 MISSION CONTROL </b></summary>
@@ -42,9 +42,9 @@
 | 🛰️ | Mission Details & Tracks |
 | :---: | :--- |
 | **1** | [**MOORE SIGNAL RESEARCH**](https://github.com/Cyber-Chic/cosmos) <sup>🚀</sup> — _Astrophysics Hub._ |
-| **2** | [**AAVSO REGISTRY**](https://www.aavso.org/users/angelamoore) <sup>🚀</sup> — _View Observer profile_ &bull; `MANBA` |
-| **3** | [**PHOTON ROCKETS**](./index.html) <sup>🚀</sup> — _Launch photons into space._ |
-| **4** | [**EXHIBIT RECEPTION**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr) <sup>🚀</sup> — _CT Tech Week evaluation._ |
+| **2** | [**AAVSO REGISTRY**](https://www.aavso.org/users/angelamoore) <sup>🚀</sup> — _View Observer Profile_ &bull; `MANBA` |
+| **3** | [**PHOTON ROCKETS**](./index.html) <sup>🚀</sup> — _Launch Photons Into Space._ |
+| **4** | [**EXHIBIT RECEPTION**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr) <sup>🚀</sup> — _CT Tech Week Evaluation._ |
 
 </details>
 
