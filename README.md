@@ -30,11 +30,14 @@
 
 ### 🪐 AEROSPACE
 
-| | |
+| Project Component | Mission Data & Launch Track |
 | :--- | :--- |
-| **THE MOORE SIGNAL DATASET**<br><br><small>Astrophysics pipeline analysis and primary open-source scientific repository.</small><br><br>---<br>↳ [LAUNCH DATASET 🚀](https://github.com) | **3D GALAXY VISUALIZER**<br><br><small>Interactive digital cosmos mapping handwritten poetry verses to real targets.</small><br><br>---<br>↳ [LAUNCH VISUALIZER 🚀](https://github.io) |
-| **AAVSO REGISTRY**<br><br><small>Official celestial citizen science data log. Verified observer profile code: MANBA.</small><br><br>---<br>↳ [LAUNCH PROFILE 🚀](https://aavso.org) | **POETIC SPACE TOKENS**<br><br><small>Physical art prints launched into zero-gravity space and tracked via geocaching logs.</small><br><br>---<br>↳ [LAUNCH TOKENS 🚀](https://coord.info) |
-| **PHOTON ROCKETS**<br><br><small>Solderless 10-second STEM activity launching trillions of light photons into orbit.</small><br><br>---<br>↳ [LAUNCH MODULE 🚀](./index.html) | **EXHIBITION LOGS**<br><br><small>CT Tech Week flagship exhibition showcase archives and presentation logs.</small><br><br>---<br>↳ [LAUNCH SHOWCASE 🚀](https://luma.com) |
+| **THE MOORE SIGNAL DATASET** | Astrophysics pipeline analysis and primary open-source scientific repository.<br>↳ [LAUNCH DATASET 🚀](https://github.com) |
+| **3D GALAXY VISUALIZER** | Interactive digital cosmos mapping handwritten poetry verses to real astrophysical targets.<br>↳ [LAUNCH VISUALIZER 🚀](https://github.io) |
+| **AAVSO REGISTRY** | Official celestial citizen science data log. Verified observer profile code: MANBA.<br>↳ [LAUNCH PROFILE 🚀](https://aavso.org) |
+| **POETIC SPACE TOKENS** | Physical art prints launched into zero-gravity space and tracked via geocaching logs.<br>↳ [LAUNCH TOKENS 🚀](https://coord.info) |
+| **PHOTON ROCKETS** | Solderless 10-second STEM activity launching trillions of light photons directly into orbit.<br>↳ [LAUNCH MODULE 🚀](./index.html) |
+| **EXHIBITION LOGS** | CT Tech Week flagship exhibition showcase archives and participant presentation logs.<br>↳ [LAUNCH SHOWCASE 🚀](https://luma.com) |
 
 ---
 
