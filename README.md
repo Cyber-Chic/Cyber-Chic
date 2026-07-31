@@ -30,7 +30,7 @@
 
 ### 🪐 AEROSPACE
 
-<div style="max-width: 600px;">
+<div style="max-width: 450px; margin: 0 auto;">
 
 | 🌌 THE MOORE SIGNAL ARCHIVE |
 | :--- |
@@ -45,6 +45,7 @@
 </div>
 
 ---
+
 
 ### 🔭 DIRECTORY HIGHLIGHTS
 
