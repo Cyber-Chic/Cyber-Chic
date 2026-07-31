@@ -30,25 +30,27 @@
 
 ### 🪐 AEROSPACE
 
-<div style="max-width: 500px;">
+<div style="max-width: 450px;">
 
 | 🛰️ | Mission Details & Tracks |
 | :---: | :--- |
-| <br><br>**1**<br><br> | **THE MOORE SIGNAL DATASET**<br><small>Astrophysics pipeline analysis and primary scientific repository.</small><br>---<br>↳ [LAUNCH DATASET 🚀](https://github.com) |
-| <br><br>**2**<br><br> | **3D GALAXY VISUALIZER**<br><small>Interactive digital cosmos mapping poetry to celestial targets.</small><br>---<br>↳ [LAUNCH VISUALIZER 🚀](https://github.io) |
-| <br><br>**3**<br><br> | **AAVSO REGISTRY**<br><small>Official citizen science data log. Verified profile code: MANBA.</small><br>---<br>↳ [LAUNCH PROFILE 🚀](https://aavso.org) |
-| <br><br>**4**<br><br> | **POETIC SPACE TOKENS**<br><small>Physical art prints launched into space and tracked via geocaching.</small><br>---<br>↳ [LAUNCH TOKENS 🚀](https://coord.info) |
-| <br><br>**5**<br><br> | **PHOTON ROCKETS**<br><small>Solderless 10-second STEM activity launching light photons to orbit.</small><br>---<br>↳ [LAUNCH MODULE 🚀](./index.html) |
-| <br><br>**6**<br><br> | **EXHIBITION SHOWCASE**<br><small>CT Tech Week flagship exhibition showcase archives and portal.</small><br>---<br>↳ [LAUNCH SHOWCASE 🚀](https://luma.com) |
-| <br><br>**7**<br><br> | **PRESENTATION LOG**<br><small>Official participant presentation records and live event updates.</small><br>---<br>↳ [LAUNCH LOG 🚀](https://linkedin.com) |
+| <br>**1**<br><br> | **THE MOORE SIGNAL DATASET**<br><small>Astrophysics pipeline analysis and primary scientific repository.</small><br>---<br>↳ [LAUNCH DATASET 🚀](https://github.com) |
+| <br>**2**<br><br> | **3D GALAXY VISUALIZER**<br><small>Interactive digital cosmos mapping poetry to celestial targets.</small><br>---<br>↳ [LAUNCH VISUALIZER 🚀](https://github.io) |
+| <br>**3**<br><br> | **AAVSO REGISTRY**<br><small>Official citizen science data log. Verified profile code: MANBA.</small><br>---<br>↳ [LAUNCH PROFILE 🚀](https://aavso.org) |
+| <br>**4**<br><br> | **POETIC SPACE TOKENS**<br><small>Physical art prints launched into space and tracked via geocaching.</small><br>---<br>↳ [LAUNCH TOKENS 🚀](https://coord.info) |
+| <br>**5**<br><br> | **PHOTON ROCKETS**<br><small>Solderless 10-second STEM activity launching light photons to orbit.</small><br>---<br>↳ [LAUNCH MODULE 🚀](./index.html) |
+| <br>**6**<br><br> | **EXHIBITION SHOWCASE**<br><small>CT Tech Week flagship exhibition showcase archives and portal.</small><br>---<br>↳ [LAUNCH SHOWCASE 🚀](https://luma.com) |
+| <br>**7**<br><br> | **PRESENTATION LOG**<br><small>Official participant presentation records and live event updates.</small><br>---<br>↳ [LAUNCH LOG 🚀](https://linkedin.com) |
 
 </div>
 
 ---
+
+
 ### 🔭 DIRECTORY HIGHLIGHTS
 
 *   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[13](https://emaze.me/prettycoinz)</sup>
-*   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[14](https://angies.poetry.blog)</sup>
+*   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[14](https://angies.poetry.blog)</sup>I
 *   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[15](https://bio.site/mooresignal)</sup>
 
 ***
