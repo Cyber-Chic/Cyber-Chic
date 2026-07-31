@@ -32,10 +32,11 @@
 
 | | |
 | :--- | :--- |
-| **THE MOORE SIGNAL DATASET** <br> Global Research Initiatives <br> <sub>Observer Hub — Official AAVSO Profile (MANBA)</sub> <br> [LAUNCH 🚀](https://github.com) | **3D GALAXY VISUALIZER** <br> Deep Space Capture Platform <br> <sub>Poetic Space Tokens — Art Launched into Space</sub> <br> [LAUNCH 🚀](https://github.io) |
-| **PHOTON ROCKETS** <br> 10-Second Solderless STEM Project <br> <sub>Launches Trillions of Light Photons into Space</sub> <br> [LAUNCH 🚀](./index.html) | **EXHIBITION LOGS** <br> CT Tech Week Flagship Feature <br> <sub>Official Participant Presentation Log</sub> <br> [LAUNCH 🚀](https://luma.com) |
+| **THE MOORE SIGNAL DATASET**<br>📡 Global Research Initiatives<br>↳ [LAUNCH DATASET 🚀](https://github.com)<br>📡 AAVSO Observer Profile (MANBA)<br>↳ [LAUNCH AAVSO 🚀](https://aavso.org) | **3D GALAXY VISUALIZER**<br>🌌 Deep Space Capture Platform<br>↳ [LAUNCH VISUALIZER 🚀](https://github.io)<br>🌌 Poetic Space Tokens — Art In Space<br>↳ [LAUNCH TOKENS 🚀](https://coord.info) |
+| **PHOTON ROCKETS**<br>🚀 10-Second Solderless STEM Project<br>🚀 Launches Light Photons to Space<br>↳ [LAUNCH MODULE 🚀](./index.html) | **EXHIBITION LOGS**<br>🎭 CT Tech Week Flagship Feature<br>↳ [LAUNCH SHOWCASE 🚀](https://luma.com)<br>🎭 Official Presentation Log<br>↳ [LAUNCH LOG 🚀](https://linkedin.com) |
 
 ---
+
 
 
 
