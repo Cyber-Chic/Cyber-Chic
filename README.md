@@ -21,6 +21,21 @@
 
 ---
 
+### 🪐 AEROSPACE
+
+| 🛰️ | Mission Details & Tracks |
+| :---: | :--- |
+| **1** | **CITIZEN SCIENCE RESEARCH** — _Astrophysics Hub._ ↳ [LAUNCH 🚀](https://github.com) |
+| **2** | **3D GALAXY VISUALIZER** — _Interactive space map._ ↳ [LAUNCH 🚀](https://github.io) |
+| **3** | **AAVSO REGISTRY** — _View Observer profile_ &bull; `MANBA` ↳ [LAUNCH 🚀](https://aavso.org) |
+| **4** | **POETIC SPACE TOKENS** — _Art launched into space._ ↳ [LAUNCH 🚀](https://coord.info) |
+| **5** | **PHOTON ROCKETS** — _Launch photons into space._ ↳ [LAUNCH 🚀](./index.html) |
+| **6** | **EXHIBITION SHOWCASE** — _CT Tech Week feature._ ↳ [LAUNCH 🚀](https://luma.com) |
+| **7** | **PRESENTATION LOG** — _Event logs & testimonials._ ↳ [LAUNCH 🚀](https://linkedin.com) |
+
+---
+
+
 ### 🏛️ RECOGNITION
 *   **THE NEW YORK TIMES** — Featured National Ad Campaign Profile <sup>[3 `[ T Brand Studio ]`](https://www.youtube.com/watch?v=3yS19NcRQt8)</sup>
 *   **MILLI AWARD** — Conferred for Conceptual Innovation <sup>[4](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup>
@@ -38,19 +53,6 @@
 ***
 
 
-### 🪐 AEROSPACE
-
-| 🛰️ | Mission Details & Tracks |
-| :---: | :--- |
-| **1** | **CITIZEN SCIENCE RESEARCH** — _Astrophysics Hub._ ↳ [LAUNCH 🚀](https://github.com) |
-| **2** | **3D GALAXY VISUALIZER** — _Interactive space map._ ↳ [LAUNCH 🚀](https://github.io) |
-| **3** | **AAVSO REGISTRY** — _View Observer profile_ &bull; `MANBA` ↳ [LAUNCH 🚀](https://aavso.org) |
-| **4** | **POETIC SPACE TOKENS** — _Art launched into space._ ↳ [LAUNCH 🚀](https://coord.info) |
-| **5** | **PHOTON ROCKETS** — _Launch photons into space._ ↳ [LAUNCH 🚀](./index.html) |
-| **6** | **EXHIBITION SHOWCASE** — _CT Tech Week feature._ ↳ [LAUNCH 🚀](https://luma.com) |
-| **7** | **PRESENTATION LOG** — _Event logs & testimonials._ ↳ [LAUNCH 🚀](https://linkedin.com) |
-
----
 
 
 
