@@ -30,44 +30,91 @@
 
 ### 🪐 AEROSPACE
 
-| 📡 THE MOORE SIGNAL DATASET |
-| :--- |
-| Astrophysics pipeline analysis and primary open-source scientific repository.<br>↳ [LAUNCH DATASET 🚀](https://github.com) |
+<table width="100%">
+  <tr>
+    <td bgcolor="#1E293B">
+      <strong>📡 THE MOORE SIGNAL DATASET</strong>
+      <br><br>
+      <small>Astrophysics pipeline analysis and primary open-source scientific repository.</small>
+      <br><br>
+      ↳ <b>[LAUNCH DATASET 🚀](https://github.com)</b>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-| 🌌 3D GALAXY VISUALIZER |
-| :--- |
-| Interactive digital cosmos mapping handwritten poetry verses to real astrophysical targets.<br>↳ [LAUNCH VISUALIZER 🚀](https://github.io) |
+<table width="100%">
+  <tr>
+    <td bgcolor="#1E293B">
+      <strong>🌌 3D GALAXY VISUALIZER</strong>
+      <br><br>
+      <small>Interactive digital cosmos mapping handwritten poetry verses to real astrophysical targets.</small>
+      <br><br>
+      ↳ <b>[LAUNCH VISUALIZER 🚀](https://github.io)</b>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-| 🆔 AAVSO REGISTRY |
-| :--- |
-| Official celestial citizen science data log. Verified observer profile code: MANBA.<br>↳ [LAUNCH PROFILE 🚀](https://aavso.org) |
+<table width="100%">
+  <tr>
+    <td bgcolor="#1E293B">
+      <strong>🆔 AAVSO REGISTRY</strong>
+      <br><br>
+      <small>Official celestial citizen science data log. Verified observer profile code: MANBA.</small>
+      <br><br>
+      ↳ <b>[LAUNCH PROFILE 🚀](https://aavso.org)</b>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-| 🪙 POETIC SPACE TOKENS |
-| :--- |
-| Physical art prints launched into zero-gravity space and tracked via geocaching logs.<br>↳ [LAUNCH TOKENS 🚀](https://coord.info) |
+<table width="100%">
+  <tr>
+    <td bgcolor="#1E293B">
+      <strong>🪙 POETIC SPACE TOKENS</strong>
+      <br><br>
+      <small>Physical art prints launched into zero-gravity space and tracked via geocaching logs.</small>
+      <br><br>
+      ↳ <b>[LAUNCH TOKENS 🚀](https://coord.info)</b>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-| 🚀 PHOTON ROCKETS |
-| :--- |
-| Solderless 10-second STEM activity launching trillions of light photons directly into orbit.<br>↳ [LAUNCH MODULE 🚀](./index.html) |
+<table width="100%">
+  <tr>
+    <td bgcolor="#1E293B">
+      <strong>🚀 PHOTON ROCKETS</strong>
+      <br><br>
+      <small>Solderless 10-second STEM activity launching trillions of light photons directly into orbit.</small>
+      <br><br>
+      ↳ <b>[LAUNCH MODULE 🚀](./index.html)</b>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-| 🎭 EXHIBITION LOGS |
-| :--- |
-| CT Tech Week flagship exhibition showcase archives and participant presentation logs.<br>↳ [LAUNCH SHOWCASE 🚀](https://luma.com) |
+<table width="100%">
+  <tr>
+    <td bgcolor="#1E293B">
+      <strong>🎭 EXHIBITION LOGS</strong>
+      <br><br>
+      <small>CT Tech Week flagship exhibition showcase archives and participant presentation logs.</small>
+      <br><br>
+      ↳ <b>[LAUNCH SHOWCASE 🚀](https://luma.com)</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
 
-### 🔭 DIRECTORY HIGHLIGHTS
 *   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[13](https://emaze.me/prettycoinz)</sup>
 *   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[14](https://angies.poetry.blog)</sup>
 *   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[15](https://bio.site/mooresignal)</sup>
