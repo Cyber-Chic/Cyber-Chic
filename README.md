@@ -19,6 +19,7 @@
 *   **CONCEPTUAL MATHEMATICS** — The project’s core philosophy stems from an ambitious attempt to disprove **Beal’s Conjecture**—a million-dollar math equation that has remained unsolved for decades. By analyzing the concept of "positive zero" to challenge the equation, the findings were presented at the 19th annual CMC3 conference and at MathFest in Washington, D.C., celebrating the 100th anniversary of the Mathematical Association of America.
 *   **FOUNDER RECOGNITION** — This mathematical journey earned our founder regional distinction and the Westfair Milli Award for Innovation, serving as the ultimate creative catalyst for launching hidden waves of kindness globally.
 *   **APPLIED LITERACY** — Bridging academic mathematics with real-world applications, the studio curates open introductory financial literacy learning tracks. Our founder and core philosophy were featured in a national *New York Times* advertising campaign, highlighting how passive investments can unlock the freedom and time required to relentlessly pursue creative passions. *(Note: Content is a community resource guide for independent study; not formal financial advice).*
+</br>
 </div>
 </details>
 
