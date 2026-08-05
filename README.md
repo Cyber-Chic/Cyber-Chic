@@ -8,6 +8,23 @@
 
 <br />
 
+<details>
+<summary><b>📖 FRAMEWORK: THE POSITIVE ZERO PRINCIPLE (Click to expand)</b></summary>
+<br />
+<div align="left" style="padding: 0 15px; font-size: 14px; line-height: 1.6; border-left: 2px solid #30363d;">
+
+*   **THE MISSION** — **The Moore Signal Archive** is an impact-first studio and book distributor dedicated to designing transformative educational projects. While commercial book releases generate revenue, the primary mission is to foster positive community impact.
+*   **TRANSFORMATIVE PROJECTS** — The studio's signature project is a global treasure hunt where literary works are hidden across the earth and launched into space. Grounded in a "positive zero" methodology, the project invites anyone who interacts with the hidden books to commit a quiet act of kindness. This innovative initiative was spotlighted at the Ely Center for Contemporary Art during the CT Tech Week exhibition and is currently featured on the Free Little Art Galleries website.
+*   **PHOTON ROCKETS** — We design beginner-friendly, hyper-visual STEM lessons like the *10-Second Space-Only Photon Rocket*. This project proves you can build a literal deep-space engine out of basic household materials—swapping explosive fuel for trillions of light particles that blast out of a nozzle to create authentic momentum under Newton's Third Law. When pointed at the night sky, your active light beam punches through Earth's atmosphere, passing the Moon in 1.3 seconds to travel through the stars forever.
+*   **CONCEPTUAL MATHEMATICS** — The project’s core philosophy stems from an ambitious attempt to disprove **Beal’s Conjecture**—a million-dollar math equation that has remained unsolved for decades. By analyzing the concept of "positive zero" to challenge the equation, the findings were presented at the 19th annual CMC3 conference and at MathFest in Washington, D.C., celebrating the 100th anniversary of the Mathematical Association of America.
+*   **GLOBAL CATALYST** — This work earned regional distinction and a Milli Award, serving as the ultimate catalyst for launching hidden waves of kindness globally.
+*   **APPLIED LITERACY** — Bridging academic mathematics with real-world applications, the studio champions financial literacy. This philosophy was featured in a national *New York Times* advertising campaign, highlighting how passive investments can unlock the freedom and time required to relentlessly pursue creative passions.
+
+</div>
+</details>
+
+<br />
+
 <!-- Native Minimalist Visual Framing -->
 <div align="center">
   <img src="https://angies.poetry.blog/wp-content/uploads/2022/08/image.png" alt="The Moore iArchive Comics" width="100%" max-width="800" />
