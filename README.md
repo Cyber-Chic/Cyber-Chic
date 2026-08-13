@@ -59,7 +59,7 @@
 | :---: | :--- |
 | **1** | [**MOORE SIGNAL RESEARCH**](https://github.com/Cyber-Chic/cosmos) <sup>🚀</sup> — _Astrophysics Hub._ |
 | **2** | [**AAVSO REGISTRY**](https://www.aavso.org/users/angelamoore) <sup>🚀</sup> — _View Observer Profile_ &bull; `MANBA` |
-| **3** | [**PHOTON ENGINES**](https://cyber-chic.github.io/cosmos/rockets) <sup>🚀</sup> — _Launch Photons Into Space._ |
+| **3** | [**PHOTON ENGINES**](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md) <sup>🚀</sup> — _Launch Photons Into Space._ |
 | **4** | [**EXHIBIT RECEPTION**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr) <sup>🚀</sup> — _CT Tech Week Evaluation._ |
 
 </details>
