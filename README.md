@@ -41,15 +41,16 @@
 ### 🏛️ RECOGNITION
 *   **THE NEW YORK TIMES** — Featured National Ad Campaign Profile <sup>[3 `[ T Brand Studio ]`](https://www.youtube.com/watch?v=3yS19NcRQt8)</sup>
 *   **MILLI AWARD** — Conferred for Conceptual Innovation <sup>[4](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup>
-*   **FREE LITTLE ART GALLERIES** — Official Global Project Spotlight <sup>[5](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup>
+*   **ART EXHIBITION**— CT Tech Week Flagship Event. <sup>[5](https://luma.com/q0lm15pz)</sup>
+*   **FREE LITTLE ART GALLERIES** — Official Global Project Spotlight <sup>[6](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup>
 
 
 ---
 
 ### 🪐 AEROSPACE
-*   **3D GALAXY VISUALIZER** —  The Interactive Cosmic Map.<sup>[6](https://cyber-chic.github.io/cosmos/universe)</sup>
-*   **POETIC SPACE TOKENS** — Artwork Launched Into Space.<sup>[7](https://coord.info/TBB2WKZ)</sup>
-*   **EXHIBITION SHOWCASE**— CT Tech Week Flagship Event. <sup>[8](https://luma.com/q0lm15pz)</sup>
+*   **3D GALAXY VISUALIZER** —  The Interactive Cosmic Map.<sup>[7](https://cyber-chic.github.io/cosmos/universe)</sup>
+*   **POETIC SPACE TOKENS** — Artwork Launched Into Space.<sup>[8](https://coord.info/TBB2WKZ)</sup>
+*   **PHOTON ENGINES** — Blast Photons Into Cosmic Voids.<sup>[9](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)</sup>
 
 <details>
 <summary><b>📡 MISSION CONTROL </b></summary>
@@ -59,8 +60,7 @@
 | :---: | :--- |
 | **1** | [**MOORE SIGNAL RESEARCH**](https://github.com/Cyber-Chic/cosmos) <sup>🚀</sup> — _Astrophysics Hub._ |
 | **2** | [**AAVSO REGISTRY**](https://www.aavso.org/users/angelamoore) <sup>🚀</sup> — _View Observer Profile_ &bull; `MANBA` |
-| **3** | [**PHOTON ENGINES**](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md) <sup>🚀</sup> — _Launch Photons Into Space._ |
-| **4** | [**EXHIBIT RECEPTION**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr) <sup>🚀</sup> — _CT Tech Week Evaluation._ |
+| **3** | [**EXHIBIT RECEPTION**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr) <sup>🚀</sup> — _CT Tech Week Evaluation._ |
 
 </details>
 
@@ -70,9 +70,9 @@
 
 ### 🔭 DIRECTORY HIGHLIGHTS
 
-*   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[9](https://emaze.me/prettycoinz)</sup>
-*   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[10](https://angies.poetry.blog)</sup>I
-*   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[11](https://bio.site/mooresignal)</sup>
+*   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[10](https://emaze.me/prettycoinz)</sup>
+*   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[11](https://angies.poetry.blog)</sup>I
+*   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[12](https://bio.site/mooresignal)</sup>
 
 ***
 
