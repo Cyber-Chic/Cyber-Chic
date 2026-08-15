@@ -47,7 +47,7 @@
 
 ### 🪐 AEROSPACE
 *   **3D GALAXY VISUALIZER** —  The Interactive Cosmic Map.<sup>[7](https://cyber-chic.github.io/cosmos/universe)</sup>
-*   **POETIC SPACE TOKENS** — Artwork Launched Into Space.<sup>[8](https://coord.info/TBB2WKZ)</sup>
+*   **ORBITAL PAYLOAD SERIES** — Artwork Launched Into Space.<sup>[8](https://coord.info/TBB2WKZ)</sup>
 *   **PHOTON ENGINES** — STEM Space Lessons on Light Propulsion.<sup>[9](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)</sup>
 
 <details>
@@ -69,7 +69,7 @@
 ### 🔭 DIRECTORY HIGHLIGHTS
 
 *   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[10](https://emaze.me/prettycoinz)</sup>
-*   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[11](https://angies.poetry.blog)</sup>I
+*   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[11](https://angies.poetry.blog)</sup>
 *   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[12](https://bio.site/mooresignal)</sup>
 
 ***
