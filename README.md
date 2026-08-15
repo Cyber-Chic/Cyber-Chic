@@ -47,7 +47,7 @@
 
 ### 🪐 AEROSPACE
 *   **3D GALAXY VISUALIZER** —  The Interactive Cosmic Map.<sup>[7](https://cyber-chic.github.io/cosmos/universe)</sup>
-*   **ORBITAL PAYLOADS** — Artwork Launched Into Space.<sup>[8](https://coord.info/TBB2WKZ)</sup>
+*   **ORBITAL PAYLOAD SERIES** — Artwork Launched Into Space.<sup>[8](https://coord.info/TBB2WKZ)</sup>
 *   **PHOTON ENGINES** — STEM Space Lessons on Light Propulsion.<sup>[9](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)</sup>
 
 <details>
