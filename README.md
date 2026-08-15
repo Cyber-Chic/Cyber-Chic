@@ -48,7 +48,7 @@
 ### 🪐 AEROSPACE
 *   **3D GALAXY VISUALIZER** —  The Interactive Cosmic Map.<sup>[7](https://cyber-chic.github.io/cosmos/universe)</sup>
 *   **POETIC SPACE TOKENS** — Artwork Launched Into Space.<sup>[8](https://coord.info/TBB2WKZ)</sup>
-*   **PHOTON ENGINES** — Blast Photons Into Cosmic Voids.<sup>[9](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)</sup>
+*   **PHOTON ENGINES** — STEM Space Lessons on Light Propulsion.<sup>[9](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)</sup>
 
 <details>
 <summary><b>📡 MISSION CONTROL </b></summary>
