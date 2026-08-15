@@ -41,8 +41,10 @@
 ### 🏛️ RECOGNITION
 *   **THE NEW YORK TIMES** — Featured National Ad Campaign Profile <sup>[3 `[ T Brand Studio ]`](https://www.youtube.com/watch?v=3yS19NcRQt8)</sup>
 *   **MILLI AWARD** — Conferred for Conceptual Innovation <sup>[4](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup>
-*   **ART EXHIBITION**— CT Tech Week Flagship Event. <sup>[5](https://luma.com/q0lm15pz)</sup>
-*   **FREE LITTLE ART GALLERIES** — Official Global Project Spotlight <sup>[6](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup>
+### 🏛️ RECOGNITION
+*   **THE NEW YORK TIMES** — Featured National Ad Campaign Profile <sup>[3 `[ T Brand Studio ]`](https://www.youtube.com/watch?v=3yS19NcRQt8)</sup>
+*   **MILLI AWARD** — Conferred for Conceptual Innovation <sup>[4](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup>
+*   **GALLERY EXHIBITIONS** — CT Tech Week Feature & Free Little Art Galleries Spotlight <sup>[5](https://luma.com/q0lm15pz) [6](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup>
 
 
 ---
