@@ -44,6 +44,7 @@
 *   **EXHIBITIONS & RELEASES** — CT Tech Week Feature <sup>[\[5\]](https://luma.com/q0lm15pz)</sup> & FLAG Spotlight <sup>[\[6\]](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup>
 
 
+
 ---
 
 ### 🪐 AEROSPACE
