@@ -40,14 +40,14 @@
 ### 🏛️ RECOGNITION
 
 *   <sup>[\[4\]](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup> **MILLI AWARD** — Conferred for Conceptual Innovation
-*   <sup>[\[5\]](https://www.youtube.com/watch?v=3yS19NcRQt8)</sup> **THE NEW YORK TIMES** — Featured National Ad Campaign<sup>`[ T Brand Studio ]`</sup>
+*   <sup>[\[5\]](https://www.youtube.com/watch?v=3yS19NcRQt8)</sup> **THE NEW YORK TIMES** — Featured National Ad Campaign `[ T Brand Studio ]`
 *   <sup>[\[6\]](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup> **MEDIA COVERAGE** — Free Little Art Galleries Spotlight
 
 ---
 
 ### 🪐 AEROSPACE
 
-*   <sup>[\[7\]](https://cyber-chic.github.io/cosmos/universe)</sup> **3D GALAXY VISUALIZER** — The Interactive Cosmic Map.
+*   <sup>[\[7\]](https://cyber-chic.github.io/cosmos/universe)</sup> **3D GALAXY VISUALIZER** — Interactive Map & Cosmic Verses
 *   <sup>[\[8\]](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)</sup> **PHOTON ENGINES** — STEM Space Lessons on Light Propulsion
 *   <sup>[\[9\]](https://luma.com/q0lm15pz)</sup> **CT TECH WEEK** — Exhibition @ Ely Center for Contemporary Art
 
@@ -67,9 +67,9 @@
 
 ### 🔭 DIRECTORY HIGHLIGHTS
 
-*   <sup>[\[10\]](https://emaze.me/prettycoinz)</sup> **PRETTY COINZ** — Independent Design Study 
-*   <sup>[\[11\]](https://angies.poetry.blog)</sup> **LITERARY PORTFOLIO** — Published Work &amp; More 
-*   <sup>[\[12\]](https://bio.site/mooresignal)</sup> **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal
+*   <sup>[\[10\]](https://emaze.me/prettycoinz)</sup> **PRETTY COINZ** — Currency Based Study on Aesthetic Value
+*   <sup>[\[11\]](https://angies.poetry.blog)</sup> **LITERARY PORTFOLIO** — Creative Hub & Published Pieces
+*   <sup>[\[12\]](https://bio.site/mooresignal)</sup> **EXHIBITION INTAKE** — Unified Gateway & Booking Portal
 
 ***
 
