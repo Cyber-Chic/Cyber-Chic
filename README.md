@@ -40,8 +40,9 @@
 ### 🏛️ RECOGNITION
 
 *   **MILLI AWARD** — Conferred for Conceptual Innovation <sup>[\[3\]](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup>
-*   **EXHIBITIONS & RELEASES** — CT Tech Week Feature <sup>[\[4\]](https://luma.com/q0lm15pz)</sup> & FLAG Spotlight <sup>[\[5\]](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup>
-*   **THE NEW YORK TIMES** — Featured National Ad Campaign Profile <sup>[\[6\]](https://www.youtube.com/watch?v=3yS19NcRQt8) `[ T Brand Studio ]`</sup>
+*   **THE NEW YORK TIMES** — Featured National Ad Campaign Profile <sup>[\[4\]](https://www.youtube.com/watch?v=3yS19NcRQt8) `[ T Brand Studio ]`</sup>
+*   **EXHIBITIONS & RELEASES** — CT Tech Week Feature <sup>[\[5\]](https://luma.com/q0lm15pz)</sup> & FLAG Spotlight <sup>[\[6\]](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup>
+
 
 ---
 
