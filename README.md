@@ -33,7 +33,7 @@
 
 *   <sup>[\[1\]](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)</sup> **THE COLLECTION** — Standard Commercial Volumes
 *   <sup>[\[2\]](https://cyber-chic.github.io/themoorearchive/releases)</sup> **THE MOORE ARCHIVE** — Limited-Edition Archival Releases
-*   <sup>[\[3\]](https://coord.info/TBB2WKZ)</sup> **ORBITAL PAYLOAD** — Poetry Artifacts Launched Into Space
+*   <sup>[\[3\]](https://coord.info/TBB2WKZ)</sup> **ORBITAL PAYLOAD** — Poetry Installations Launched Into Space
 
 ---
 
