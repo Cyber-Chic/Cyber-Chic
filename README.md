@@ -32,23 +32,23 @@
 ---
 
 ### 🌌 LITERARY RELEASES
-*   **THE MOORE ARCHIVE** — Limited-Edition Archival Releases <sup>[1](https://cyber-chic.github.io/themoorearchive/releases)</sup>
-*   **THE COLLECTION** — Standard Commercial Volumes <sup>[2](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)</sup>
+*   **THE MOORE ARCHIVE** — Limited-Edition Archival Releases <sup>[\[1\]](https://cyber-chic.github.io/themoorearchive/releases)</sup>
+*   **THE COLLECTION** — Standard Commercial Volumes <sup>[\[2\]](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)</sup>
 
 ---
 
 ### 🏛️ RECOGNITION
 
-*   **MILLI AWARD** — Conferred for Conceptual Innovation <sup>[3](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup>
-*   **EXHIBITIONS & RELEASES** — CT Tech Week Feature <sup>[4](https://luma.com/q0lm15pz)</sup> & FLAG Spotlight <sup>[5](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup>
-*   **THE NEW YORK TIMES** — Featured National Ad Campaign Profile <sup>[6 `[ T Brand Studio ]`](https://www.youtube.com/watch?v=3yS19NcRQt8)</sup>
+*   **MILLI AWARD** — Conferred for Conceptual Innovation <sup>[\[3\]](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup>
+*   **EXHIBITIONS & RELEASES** — CT Tech Week Feature <sup>[\[4\]](https://luma.com/q0lm15pz)</sup> & FLAG Spotlight <sup>[\[5\]](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup>
+*   **THE NEW YORK TIMES** — Featured National Ad Campaign Profile <sup>[\[6\]](https://www.youtube.com/watch?v=3yS19NcRQt8) `[ T Brand Studio ]`</sup>
 
 ---
 
 ### 🪐 AEROSPACE
-*   **3D GALAXY VISUALIZER** —  The Interactive Cosmic Map.<sup>[7](https://cyber-chic.github.io/cosmos/universe)</sup>
-*   **ORBITAL PAYLOAD SERIES** — Artwork Launched Into Space.<sup>[8](https://coord.info/TBB2WKZ)</sup>
-*   **PHOTON ENGINES** — STEM Space Lessons on Light Propulsion.<sup>[9](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)</sup>
+*   **3D GALAXY VISUALIZER** —  The Interactive Cosmic Map. <sup>[\[7\]](https://cyber-chic.github.io/cosmos/universe)</sup>
+*   **ORBITAL PAYLOAD SERIES** — Artwork Launched Into Space. <sup>[\[8\]](https://coord.info/TBB2WKZ)</sup>
+*   **PHOTON ENGINES** — STEM Space Lessons on Light Propulsion. <sup>[\[9\]](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)</sup>
 
 <details>
 <summary><b>📡 MISSION CONTROL </b></summary>
@@ -68,9 +68,9 @@
 
 ### 🔭 DIRECTORY HIGHLIGHTS
 
-*   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[10](https://emaze.me/prettycoinz)</sup>
-*   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[11](https://angies.poetry.blog)</sup>
-*   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[12](https://bio.site/mooresignal)</sup>
+*   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[\[10\]](https://emaze.me/prettycoinz)</sup>
+*   `PORT` **LITERARY PORTFOLIO** — Creative &amp; Poetic Extensions <sup>[\[11\]](https://angies.poetry.blog)</sup>
+*   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[\[12\]](https://bio.site/mooresignal)</sup>
 
 ***
 
