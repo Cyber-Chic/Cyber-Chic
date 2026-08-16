@@ -47,7 +47,7 @@
 
 ### 🪐 AEROSPACE
 
-*   <sup>[\[7\]](https://cyber-chic.github.io/cosmos/universe)</sup> **3D GALAXY VISUALIZER** — Interactive Map & Cosmic Verses
+*   <sup>[\[7\]](https://cyber-chic.github.io/cosmos/universe)</sup> **3D GALAXY VISUALIZER** — Stylized Universe & Cosmic Poems
 *   <sup>[\[8\]](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)</sup> **PHOTON ENGINES** — STEM Space Lessons on Light Propulsion
 *   <sup>[\[9\]](https://luma.com/q0lm15pz)</sup> **CT TECH WEEK** — Exhibition @ Ely Center for Contemporary Art
 
