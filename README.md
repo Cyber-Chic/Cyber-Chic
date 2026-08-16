@@ -47,9 +47,9 @@
 
 ### 🪐 AEROSPACE
 
-*   <sup>[\[7\]](https://cyber-chic.github.io/cosmos/universe)</sup> **GALAXY VISUALIZER** — Interactive 3D Cosmic Mapping Matrix
-*   <sup>[\[8\]](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)</sup> **PHOTON ENGINES** — Open STEM Courseware on Light Propulsion
-*   <sup>[\[9\]](https://luma.com/q0lm15pz)</sup> **CT TECH WEEK** — Session Exhibition @ Ely Center for Contemporary Art
+*   <sup>[\[7\]](https://cyber-chic.github.io/cosmos/universe)</sup> **3D GALAXY VISUALIZER** — The Interactive Cosmic Map.
+*   <sup>[\[8\]](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)</sup> **PHOTON ENGINES** — STEM Space Lessons on Light Propulsion
+*   <sup>[\[9\]](https://luma.com/q0lm15pz)</sup> **CT TECH WEEK** — Exhibition @ Ely Center for Contemporary Art
 
 <details>
 <summary><b>📡 MISSION CONTROL </b></summary>
