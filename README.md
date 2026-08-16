@@ -67,9 +67,9 @@
 
 ### 🔭 DIRECTORY HIGHLIGHTS
 
-*   `PCNZ` **PRETTY COINZ** — Independent Design Study <sup>[\[10\]](https://emaze.me/prettycoinz)</sup>
-*   `PORT` **LITERARY PORTFOLIO** — Published Works &amp; More <sup>[\[11\]](https://angies.poetry.blog)</sup>
-*   `HUB` **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal <sup>[\[12\]](https://bio.site/mooresignal)</sup>
+*   <sup>[\[10\]](https://emaze.me/prettycoinz)</sup> **PRETTY COINZ** — Independent Design Study 
+*   <sup>[\[11\]](https://angies.poetry.blog)</sup> **LITERARY PORTFOLIO** — Published Work &amp; More 
+*   <sup>[\[12\]](https://bio.site/mooresignal)</sup> **EXHIBITION INTAKE** — Main Hub &amp; Booking Portal
 
 ***
 
