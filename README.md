@@ -40,7 +40,7 @@
 ### 🏛️ RECOGNITION
 
 *   <sup>[\[4\]](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup> **MILLI AWARD** — Conferred for Conceptual Innovation
-*   <sup>[\[5\]](https://www.youtube.com/watch?v=3yS19NcRQt8)</sup> **THE NEW YORK TIMES** — Featured National Ad Campaign `[ T Brand Studio ]`
+*   <sup>[\[5\]](https://www.youtube.com/watch?v=3yS19NcRQt8)</sup> **THE NEW YORK TIMES** — Featured National Ad Campaign<sup>`[ T Brand Studio ]`</sup>
 *   <sup>[\[6\]](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup> **MEDIA RELEASE** — Free Little Art Galleries Spotlight
 
 ---
