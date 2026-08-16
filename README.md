@@ -24,7 +24,7 @@
 
 <!-- Native Minimalist Visual Framing -->
 <div align="center">
-  <img src="https://angies.poetry.blog/wp-content/uploads/2022/08/image.png" alt="The Moore iArchive Comics" width="100%" style="max-width:800px;" />
+  <img src="https://angies.poetry.blog/wp-content/uploads/2022/08/image.png" alt="The Moore iArchive Comics" width="100%" max-width="800" />
 </div>
 
 ---
@@ -82,4 +82,3 @@ Professional exhibition bookings are managed via **The Moore Signal Archive LLC*
 ```text
 LOG: SECURE DISPATCH VIA PROTONMAIL // Independent research and conceptual data art.
 ```
-
