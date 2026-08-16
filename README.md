@@ -60,8 +60,11 @@
 | **1** | [**MOORE SIGNAL RESEARCH**](https://github.com/Cyber-Chic/cosmos) <sup>🚀</sup> | _Astrophysics Data Hub_ |
 | **2** | [**AAVSO REGISTRY**](https://www.aavso.org/users/angelamoore) <sup>🚀</sup> | _Observer Profile_ &bull; `MANBA` |
 | **3** | [**EXHIBIT RECEPTION**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr) <sup>🚀</sup> | _CT Tech Week Evaluation_ |
+| **4** | [**CITIZEN SCIENCE HUB**](https://zooniverse.org) <sup>🚀</sup> | _Verified Records_ &bull; `4,000+` |
+
 
 </details>
+
 
 ---
 
