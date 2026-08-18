@@ -53,7 +53,6 @@
 
 <details>
 <summary><b>📡 MISSION CONTROL </b></summary>
-<br />
 
 | 🛰️ | Operational System Track | Project Status |
 | :---: | :--- | :--- |
@@ -61,8 +60,8 @@
 | **2** | [**CITIZEN SCIENCE AUDIT**](https://www.zooniverse.org/users/Zooniverse-Volunteer/favorites) <sup>🚀</sup> | _Verified Records_ &bull; `500+` |
 | **3** | [**EXHIBIT RECEPTION**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr) <sup>🚀</sup> | _CT Tech Week Evaluation_ |
 | **4** | [**AAVSO REGISTRY**](https://www.aavso.org/users/angelamoore) <sup>🚀</sup> | _Observer Profile_ &bull; `MANBA` |
-
 </details>
+
 
 
 ---
