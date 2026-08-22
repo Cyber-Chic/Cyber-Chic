@@ -1,20 +1,14 @@
-# Hi there! I'm an Author and Contemporary Artist 🌌📚
-
-Welcome to my profile. By day, I handle and preserve literature within a rare book library. By night, I channel astrophysics data into independent contemporary art, poetry, and open educational initiatives. In particular, my flagship work bridges the gap between literary preservation and citizen science. Currently, select custom artifacts are slated for orbital spaceflight alongside independent art drops destined for domestic and international Free Little Art Galleries.
-
----
-
 ### 🛰️ THE STUDIO
 
 <div align="center">
 
 <h4>🌌 CURRENT PROJECTS & FOUNDER HIGHLIGHTS</h4>
 
- |  [🚀 **1000+ Scientific Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Trackable Artifacts & Space Travel**](https://www.geocaching.com/track/details.aspx?tracker=TBB8P4T) | [📰 **Featured in NYT T Brand Studio**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
-| :--- | :--- | :--- |
+| | | |
+| :---: | :---: | :---: |
+| [🚀 **~1K Scientific Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Trackable Artifacts & Space Travel**](https://www.geocaching.com/track/details.aspx?tracker=TBB8P4T) | [📰 **Featured in NYT T Brand Studio**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
 
 <br />
-
 
   <p style="margin: 0; max-width: 650px; font-size: 14px; line-height: 1.6; color: #8b949e;">
     <strong>The Moore Signal Archive</strong> is an impact-first creative studio distributing limited-edition books and developing educational projects. Our open archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
@@ -22,6 +16,7 @@ Welcome to my profile. By day, I handle and preserve literature within a rare bo
 </div>
 
 <br />
+
 
 <details>
 <summary><b>📖 FRAMEWORK: THE POSITIVE ZERO PRINCIPLE (Click to expand)</b></summary>
