@@ -2,17 +2,16 @@
 
 <div align="center">
 
-<h4>🌌 CURRENT PROJECTS & FOUNDER HIGHLIGHTS</h4> 
+<h4>🌌 CURRENT PROJECTS & FOUNDER HIGHLIGHTS</h4>
 
-  <p>
-    🚀 <b><a href="https://www.zooniverse.org/groups/2959875?start_date=2026-08-16">500+ Scientific Contributions</a></b> 
-    &nbsp;&bull;&nbsp; 
-    🪐 <b><a href="https://www.geocaching.com/track/details.aspx?tracker=TBB8P4T">Trackable Artifacts & Space Travel</a></b> 
-    &nbsp;&bull;&nbsp; 
-    📰 <b><a href="https://www.youtube.com/watch?v=3yS19NcRQt8">Featured in NYT T Brand Studio</a></b>
-  </p>
+<p align="center">
+  <span style="white-space: nowrap;">🚀 <b><a href="https://www.zooniverse.org/groups/2959875?start_date=2026-08-16">500+ Scientific Contributions</a></b> &nbsp;&bull;&nbsp;</span> 
+  <span style="white-space: nowrap;">🪐 <b><a href="https://www.geocaching.com/track/details.aspx?tracker=TBB8P4T">Trackable Artifacts & Space Travel</a></b> &nbsp;&bull;&nbsp;</span> 
+  <span style="white-space: nowrap;">📰 <b><a href="https://www.youtube.com/watch?v=3yS19NcRQt8">Featured in NYT T Brand Studio</a></b></span>
+</p>
 
-  <br />
+<br />
+
 
   <p style="margin: 0; max-width: 650px; font-size: 14px; line-height: 1.6; color: #8b949e;">
     <strong>The Moore Signal Archive</strong> is an impact-first creative studio distributing limited-edition books and developing educational projects. Our open archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
