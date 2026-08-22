@@ -4,11 +4,9 @@
 
 <h4>🌌 CURRENT PROJECTS & FOUNDER HIGHLIGHTS</h4>
 
-<p align="center">
-  <span style="white-space: nowrap;"> <b><a href="https://www.zooniverse.org/groups/2959875?start_date=2026-08-16">🚀 500+ Scientific Contributions</a></b> &nbsp;&bull;&nbsp;</span> 
-  <span style="white-space: nowrap;"> <b><a href="https://www.geocaching.com/track/details.aspx?tracker=TBB8P4T">🪐 Trackable Artifacts & Space Travel</a></b> &nbsp;&bull;&nbsp;</span> 
-  <span style="white-space: nowrap;"> <b><a href="https://www.youtube.com/watch?v=3yS19NcRQt8">📰 Featured in NYT T Brand Studio</a></b></span>
-</p>
+| | | |
+| :---: | :---: | :---: |
+| [🚀 **500+ Scientific Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Trackable Artifacts & Space Travel**](https://www.geocaching.com/track/details.aspx?tracker=TBB8P4T) | [📰 **Featured in NYT T Brand Studio**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
 
 <br />
 
