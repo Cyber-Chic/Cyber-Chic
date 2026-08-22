@@ -12,7 +12,7 @@ Welcome to my profile. By day, I handle and preserve literature within a rare bo
 
 | | | |
 | :---: | :---: | :---: |
-| [🚀 **500+ Scientific Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Trackable Artifacts & Space Travel**](https://www.geocaching.com/track/details.aspx?tracker=TBB8P4T) | [📰 **Featured in NYT T Brand Studio**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
+| [🚀 **1000+ Scientific Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Trackable Artifacts & Space Travel**](https://www.geocaching.com/track/details.aspx?tracker=TBB8P4T) | [📰 **Featured in NYT T Brand Studio**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
 
 <br />
 
