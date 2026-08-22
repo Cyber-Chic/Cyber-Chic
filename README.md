@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h4>✨ FEATURED INITIATIVES & HISTORY</h4>
+<h4>🌌 CURRENT PROJECTS & FOUNDER HIGHLIGHTS</h4> 
 
   <p>
     🚀 <b><a href="https://www.zooniverse.org/groups/2959875?start_date=2026-08-16">500+ Scientific Contributions</a></b> 
