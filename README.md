@@ -38,6 +38,8 @@ Welcome to my profile. By day, I handle and preserve literature within a rare bo
 </div>
 </details>
 
+<br />
+
 
 <!-- Native Minimalist Visual Framing -->
 <div align="center">
