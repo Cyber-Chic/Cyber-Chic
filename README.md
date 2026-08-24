@@ -1,6 +1,6 @@
 # Hi there! I'm an Author and Contemporary Artist 🌌📚
 
-Welcome to my profile. By day, I handle and preserve literature within a rare book library. By night, I channel astrophysics data into independent contemporary art, poetry, and open educational initiatives. In particular, my flagship work bridges the gap between literary preservation and citizen science. Currently, select custom artifacts are slated for orbital spaceflight alongside independent art drops destined for domestic and international Free Little Art Galleries.
+Welcome to my profile. By day, I handle and preserve literature within a rare book library. By night, I channel astrophysics data into independent contemporary art, poetry, and open educational initiatives. In particular, my flagship work bridges the gap between literary preservation and citizen science. Currently, select poetry artifacts are slated for spaceflight, while independent art drops are destined for domestic and international Free Little Art Galleries.
 
 ---
 
