@@ -1,8 +1,9 @@
 # Hi there! I'm an Author and Contemporary Artist 🌌📚
 
-Welcome to my profile. By day, I handle and preserve literature within a rare book library. By night, I channel astrophysics data into independent contemporary art, poetry, and open educational initiatives. In particular, my flagship work bridges the gap between literary preservation and citizen science. Currently, select poetry artifacts are slated for spaceflight, while independent art drops are destined for domestic and international Free Little Art Galleries.
+Welcome to my profile. By day, I handle and preserve literature within a rare book library. By night, I direct **The Moore Signal Archive LLC**—my conceptual space travel enterprise and creative studio. Driven by a niche philosophy that treats kindness as currency, I channel astrophysics data into independent contemporary art, custom 3D visualizations, and open STEM initiatives. Bridging the gap between literary preservation and citizen science, I am currently slating select poetry artifacts for suborbital spaceflight. Meanwhile, independent art drops are destined for domestic and international Free Little Art Galleries.
 
 ---
+
 
 ### 🛰️ THE STUDIO
 
