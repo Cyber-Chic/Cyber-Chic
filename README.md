@@ -4,7 +4,7 @@
 
 Welcome to my profile. By day, I handle and preserve literature within a rare book library. By night, I direct **The Moore Signal Archive LLC**—my creative studio operating on a community impact model. While standard editions of my books are available for collectors to purchase, the enterprise is primarily focused on its ethical footprint and cultivating real-world kindness.
 
-Driven by an avant-garde philosophy that treats kindness as currency, I run this archive as a conceptual space travel enterprise. I send my literary works into space both physically and digitally, develop open educational resources across multiple disciplines, and host a global treasure hunt for my artwork on Earth. Ultimately, I invite anyone who interacts with the archive to trade a quiet act of kindness for permanent ownership.
+Driven by an avant-garde philosophy that treats kindness as currency, I run this archive as a conceptual space travel enterprise and art studio. I send my literary works into space both physically and digitally, develop open educational resources across multiple disciplines, and host a global treasure hunt for my artwork on Earth. Ultimately, I invite anyone who interacts with the archive to trade a quiet act of kindness for permanent ownership.
 
 
 ---
