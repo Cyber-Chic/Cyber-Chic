@@ -9,10 +9,6 @@ Driven by an avant-garde philosophy that treats kindness as currency, I run this
 
 ---
 
-
-
-
-
 ### 🛰️ THE STUDIO
 
 <div align="center">
@@ -26,7 +22,7 @@ Driven by an avant-garde philosophy that treats kindness as currency, I run this
 <br />
 
   <p style="margin: 0; max-width: 650px; font-size: 14px; line-height: 1.6; color: #8b949e;">
-    <strong>Inside the Archive:</strong> The links  above provide a direct look into my favorite snapshots. You can explore the open science projects I contribute to, track my traveling art pieces & watch my national MINI-DOC feature. Below you can access additional archival resources!
+    <strong>Inside the Archive:</strong> The links above provide a direct look into my favorite snapshots. You can explore the open science projects I contribute to, track my traveling art pieces & watch my national MINI-DOC feature. Below you can access additional archival resources!
   </p>
 </div>
 
