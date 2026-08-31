@@ -26,7 +26,7 @@ Driven by an avant-garde philosophy that treats kindness as currency, I run this
 <br />
 
   <p style="margin: 0; max-width: 650px; font-size: 14px; line-height: 1.6; color: #8b949e;">
-    <strong>The Moore Signal Archive</strong> is an impact-first creative studio distributing limited-edition books and developing educational projects. Our open archive treats kindness as currency; please pay your engagement forward with a quiet act of kindness.
+    <strong>Inside the Archive:</strong> The links  below provide a direct look into my favorite highlights. You can explore the open science projects I contribute to, track my traveling art pieces, watch my national MINI-DOC feature, and view my additional resources!
   </p>
 </div>
 
