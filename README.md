@@ -99,7 +99,7 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 | :---: | :--- | :--- |
 | **1** | [**MOORE SIGNAL RESEARCH**](https://github.com/Cyber-Chic/cosmos) <sup>🚀</sup> | _Astrophysics Data Hub_ |
 | **2** | [**SCIENCE OBSERVATIONS**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16)<sup>🚀</sup> | _Verified Records_ &bull; `Logs` |
-| **3** | [**BUBBLEGUM FINANCE**](https://cyber-chic.github.io/bubblegumfinance/) <sup>🚀</sup> | _Educational Media Curation_ |
+| **3** | [**BUBBLEGUM FINANCE INDEX**](https://cyber-chic.github.io/bubblegumfinance/) <sup>🚀</sup> | _Educational Media Curation_ |
 | **4** | [**EXHIBIT RECEPTION**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr) <sup>🚀</sup> | _CT Tech Week Evaluation_ |
 | **5** | [**AAVSO REGISTRY**](https://www.aavso.org/users/angelamoore) <sup>🚀</sup> | _Observer Profile_ &bull; `MANBA` |
 </details>
