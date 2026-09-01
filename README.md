@@ -1,4 +1,4 @@
-# Hi there! I'm an Author, Artist & Social Entrepreneur 🌌📚
+# Hi there! I'm an Artist & Social Entrepreneur 🌌📚
 
 **Bridging the gap between literary preservation and citizen science.**
 
