@@ -44,7 +44,7 @@ Driven by an avant-garde philosophy that treats kindness as currency, I run this
 
 
 
-*   **CREATIVE STEM DESIGN** — I design beginner-friendly, hyper-visual lessons focused on foundational physics, including a cosmic time capsule and a custom solar lightsail project. 
+*   **CREATIVE STEM DESIGN** — I design beginner-friendly science lessons focused on foundational physics, including a cosmic time capsule and a custom solar lightsail project. 
     
     My flagship lesson, the *10-Second Space-Only Photon Rocket*, challenges students to build active rocket models using household materials to explore the laws of light propulsion and velocity limits. 
 *   **3D GALAXY VISUALIZER** — For digital demonstrations, my lessons utilize a custom canvas where my poems—written about real cosmic phenomena—are procedurally mapped into a simulated celestial environment. The code generates an active backdrop of flickering stars to evoke the feeling of tracking cosmic targets. 
