@@ -51,7 +51,7 @@ Driven by an avant-garde philosophy that treats kindness as currency, I run this
     
     At random, snapshots of these starry visualizations may be transmitted into space via satellite, while my platform serves as a direct gateway to onboard participants into open astronomy projects.
 *   **CREATIVE MATHEMATICS** — The core philosophy of this archive stems from a personal journey exploring **Beal’s Conjecture**—a legendary, million-dollar math puzzle. I challenged the equation using a unique concept of "positive zero" and presented my findings at the 19th annual CMC3 conference and at MathFest in Washington, D.C., celebrating the 100th Centennial Anniversary of the Mathematical Association of America.
-*   **FOUNDER RECOGNITION** — This mathematical journey earned regional distinction and the Westfair Milli Award for Innovation, serving as the ultimate creative spark for launching my hidden waves of kindness globally.
+*   **FOUNDER RECOGNITION** — This mathematical journey earned regional distinction via the Westfair Milli Award for Innovation, serving as the ultimate creative spark for launching my hidden waves of kindness globally.
 *   **EVERYDAY FINANCIAL TRACKS** — **(NOT FINANCIAL ADVICE)** — Bridging mathematics with real-world applications, the studio highlights public informational reference material for independent study. My personal creative journey—and how automated investments can unlock the time required to pursue artistic passions—was featured in a national *New York Times* advertising campaign. 
 
     *(Note: Content strictly highlights third-party public reference media for personal informational study; not formal financial advice or professional curation).*
