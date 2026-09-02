@@ -18,7 +18,7 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 
 | | | |
 | :---: | :---: | :---: |
-| [🚀 **~1K Scientific Contributions**](https://zooniverse.org) | [🪐 **Trackable Artifacts & Space Travel**](https://geocaching.com) | [📰 **Featured in NYT T Brand Studio**](https://youtube.com) |
+| [🚀 **~1K Scientific Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Trackable Artifacts & Space Travel**](https://www.geocaching.com/track/details.aspx?tracker=TBB8P4T) | [📰 **Featured in NYT T Brand Studio**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
 
 <br />
 
