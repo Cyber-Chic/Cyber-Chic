@@ -5,9 +5,8 @@
 
 Welcome to my profile. By day, I preserve literature within a rare book library. By night, I direct **The Moore Signal Archive LLC**—a creative studio built on a community impact model. While standard editions of my work are available for purchase, the archive operates on a philosophy that treats kindness as currency, inviting participants to trade a quiet act of kindness for open access to my STEM resources, literature, and art.
 
-<p align="left">
-  <small>🛰️ <strong>SPOTLIGHT // THE NEW YORK TIMES:</strong> The personal investment framework that grants me the time to pursue this creative research was featured nationally by the New&nbsp;York&nbsp;Times.</small>
-</p>
+**SPOTLIGHT | THE NEW YORK TIMES**  
+*The personal investment framework that grants me the time to pursue this creative research was featured nationally by the New&nbsp;York&nbsp;Times.*
 
 ---
 
