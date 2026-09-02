@@ -1,8 +1,11 @@
 # Hi there! I'm an Artist & Social Entrepreneur 🌌📚
 
 **Bridging the gap between literary preservation and citizen science.**
+` Investment Philosophy ` ` Milli Award Winner ` ` Social Enterprise LLC `
 
-Welcome to my profile. By day, I preserve literature within a rare book library. By night, I direct **The Moore Signal Archive LLC**—a creative studio built on a community impact model. While standard editions of my work are available for purchase, the archive operates on a philosophy that treats kindness as currency, inviting participants to trade a quiet act of kindness for open access to my STEM resources, literature, and art.
+Welcome to my profile. By day, I preserve literature within a rare book library. By night, I direct **The Moore Signal Archive LLC**—a creative studio built on a community impact model. While standard editions of my work are available for purchase, the archive operates on a philosophy that treats kindness as currency, inviting participants to trade a quiet act of kindness for open access to my STEM resources, literature, and art. 
+
+*(Note: The personal investment framework that grants me the time to pursue this creative research was featured nationally by the New York Times).*
 
 ---
 
