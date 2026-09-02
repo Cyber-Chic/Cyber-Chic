@@ -3,7 +3,7 @@
 **Bridging the gap between literary preservation and citizen science.**
 ` Investment Philosophy ` ` Milli Award Winner ` ` Social Enterprise LLC `
 
-Welcome to my profile. By day, I preserve literature within a rare book library. By night, I direct **The Moore Signal Archive LLC**—a creative studio built on a community impact model. While standard editions of my work are available for purchase, the archive operates on a philosophy that treats kindness as currency, inviting participants to trade a quiet act of kindness for open access to my STEM resources, literature, and art. 
+Welcome to my profile. By day, I preserve literature within a rare book library. By night, I direct **The Moore Signal Archive LLC**—a creative studio built on a community impact model. While standard editions of my work are available for purchase, the archive operates on a philosophy that treats kindness as currency, inviting participants to trade a quiet act of kindness for open access to my STEM resources, literature, and art.
 
 *(Note: The personal investment framework that grants me the time to pursue this creative research was featured nationally by the New York Times).*
 
@@ -17,7 +17,7 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 
 | | | |
 | :---: | :---: | :---: |
-| [🚀 **~1K Scientific Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Trackable Artifacts & Space Travel**](https://www.geocaching.com/track/details.aspx?tracker=TBB8P4T) | [📰 **Featured in NYT T Brand Studio**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
+| [🚀 **~1K Scientific Contributions**](https://zooniverse.org) | [🪐 **Trackable Artifacts & Space Travel**](https://geocaching.com) | [📰 **Featured in NYT T Brand Studio**](https://youtube.com) |
 
 <br />
 
@@ -41,9 +41,6 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
     This initiative was launched at the Ely Center for Contemporary Art during CT Tech Week—where we celebrated an official book release on-site—is featured throughout the global Free Little Art Galleries community, and has expanded its physical footprint across domestic & international locations.
     -->
 
-
-
-
 *   **CREATIVE STEM DESIGN** — I design beginner-friendly science lessons focused on foundational physics, including a cosmic time capsule and a custom solar lightsail project. 
     
     My flagship lesson, the *10-Second Space-Only Photon Rocket*, challenges students to build active rocket models using household materials to explore the laws of light propulsion and velocity limits. 
@@ -52,16 +49,9 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
     At random, snapshots of these starry visualizations may be transmitted into space via satellite, while my platform serves as a direct gateway to onboard participants into open astronomy projects.
 *   **CREATIVE MATHEMATICS** — The core philosophy of this archive stems from a personal journey exploring **Beal’s Conjecture**—a legendary, million-dollar math puzzle. I challenged the equation using a unique concept of "positive zero" and presented my findings at the 19th annual CMC3 conference and at MathFest in Washington, D.C., celebrating the 100th Centennial Anniversary of the Mathematical Association of America.
 *   **FOUNDER RECOGNITION** — This mathematical journey earned regional distinction via the Westfair Milli Award for Innovation, serving as the ultimate creative spark for launching my hidden waves of kindness globally.
-*   **EVERYDAY FINANCIAL TRACKS** — **(NOT FINANCIAL ADVICE)** — Bridging mathematics with real-world applications, the studio highlights public informational reference material for independent study. My personal creative journey—and how automated investments can unlock the time required to pursue artistic passions—was featured in a national *New York Times* advertising campaign. 
-
-    *(Note: Content strictly highlights third-party public reference media for personal informational study; not formal financial advice or professional curation).*
+*   **EVERYDAY FINANCIAL TRACKS** — **(NOT FINANCIAL ADVICE)** — Bridging mathematics with real-world applications, this section highlights public informational materials for independent study. My personal creative journey—and how automated investments can unlock the time required to pursue artistic passions—was featured in a national *New York Times* advertising campaign. *(Note: Shared strictly as a personal case study for informational purposes; not formal financial advice).*
 </div>
 </details>
-
-
-
-
-
 
 <br />
 
