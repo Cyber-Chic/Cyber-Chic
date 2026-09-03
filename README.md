@@ -95,7 +95,7 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 | **2** | [🚀 **SCIENCE OBSERVATIONS**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | _Verified Records_ &bull; `Logs` |
 | **3** | [🚀 **BUBBLEGUM FINANCE INDEX**](https://cyber-chic.github.io/bubblegumfinance/) | _Educational Media Curation_ |
 | **4** | [🚀 **EXHIBIT RECEPTION**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr) | _CT Tech Week Evaluation_ |
-| **5** | [🚀 **AAVSO REGISTRY**](https://apps.aavso.org/v2/users/angela_moore/e) | _Observer Profile_ &bull; `MANBA` |
+| **5** | [🚀 **AAVSO REGISTRY**](https://apps.aavso.org/v2/users/angela_moore/) | _Observer Profile_ &bull; `MANBA` |
 </details>
 
 
