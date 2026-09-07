@@ -53,12 +53,11 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 
     This initiative was highlighted at the Ely Center for Contemporary Art during CT Tech Week—where we celebrated an official book release on-site—is championed by the grassroots Free Little Art Galleries community, and is expanding to fresh locations across the world.
 
-
     <!-- FUTURE MILESTONE LOG UPDATE: Once international mailings launch, swap the line above with the text below:
     This initiative was launched at the Ely Center for Contemporary Art during CT Tech Week—where we celebrated an official book release on-site—is featured throughout the global Free Little Art Galleries community, and has expanded its physical footprint across domestic & international locations.
     -->
 
-*   **CREATIVE STEM DESIGN** — I design beginner-friendly science lessons focused on foundational physics, including a cosmic time capsule and a custom solar lightsail project. 
+*   **CREATIVE STEM DESIGN** — I also design beginner-friendly science lessons focused on foundational physics, including a cosmic time capsule and a custom solar lightsail project. 
     
     My flagship lesson, the *10-Second Space-Only Photon Rocket*, challenges students to build active rocket models using household materials to explore the laws of light propulsion and velocity limits. 
 *   **3D GALAXY VISUALIZER** — For digital demonstrations, my lessons utilize a custom canvas where my poems—written about real cosmic phenomena—are procedurally mapped into a simulated celestial environment. The code generates an active backdrop of flickering stars to evoke the feeling of tracking cosmic targets. 
