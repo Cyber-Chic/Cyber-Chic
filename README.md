@@ -35,9 +35,8 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 <div align="left" style="padding: 0 15px; font-size: 14px; line-height: 1.6; border-left: 2px solid #30363d;">
 
 *   **THE MISSION** — I founded this archive to spark real-world connection through transformative projects, primarily by distributing books & other keepsakes ultimately designed to spread happiness. Some are intentionally placed in quiet corners for unexpected finders to discover, while others are available directly for traditional collectors.
-*   **COMMUNITY TREASURE HUNTS** — My signature project is a borderless treasure hunt where art, poetry, and social development comic books are creatively seeded across the earth. Select artifacts are also slated for deployment into outer space, culminating in a digital installation scheduled to document my flagship artwork floating from orbit as an **[orbital satellite](https://space.crunchlabs.com/selfie/VnpvzMO)** traverses past the Pyramids of Giza. Anyone who finds a piece is requested to pass the joy forward with a quiet act of kindness.
-    
-    This initiative was highlighted at the Ely Center for Contemporary Art during CT Tech Week—where we celebrated an official book release on-site—is championed by the grassroots Free Little Art Galleries community, and is expanding to fresh locations across the world.
+*   **COMMUNITY TREASURE HUNTS** — My signature project is a borderless treasure hunt where art, poetry, and social development comic books are creatively seeded across the earth. Select artifacts are also slated for deployment into outer space, culminating in a digital installation scheduled to document my flagship artwork floating from orbit as the **[designated satellite](https://space.crunchlabs.com/selfie/VnpvzMO)** traverses past the Pyramids of Giza. Anyone who finds a piece is requested to pass the joy forward with a quiet act of kindness.
+
     
     This initiative was highlighted at the Ely Center for Contemporary Art during CT Tech Week—where we celebrated an official book release on-site—is championed by the grassroots Free Little Art Galleries community, and is expanding to fresh locations across the world.
 
