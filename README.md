@@ -49,7 +49,7 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 </div>
 
 *   **THE MISSION** — I founded this archive to spark real-world connection through transformative projects, primarily by distributing books & other keepsakes ultimately designed to spread happiness. Some are intentionally placed in quiet corners for unexpected finders to discover, while others are available directly for traditional collectors.
-*   **COMMUNITY TREASURE HUNTS** — The studio's signature project is a borderless treasure hunt where my art, poetry, and social-development comics are creatively hidden across the earth. Select pieces are also slated for outer space, culminating in a digital exhibit that will display my artwork on a **[designated satellite](https://crunchlabs.com)** passing over the Pyramids of Giza. Anyone who finds a physical piece of the archive is requested to pass the joy forward with a quiet act of kindness.
+*   **COMMUNITY TREASURE HUNTS** — The studio's signature project is a borderless treasure hunt where my art, poetry, and social-development comics are creatively hidden across the earth. Select pieces are also slated for outer space, culminating in a digital exhibit that will display my work on a **[designated satellite](https://space.crunchlabs.com/selfie/VnpvzMO)** passing over the Pyramids of Giza. Anyone who finds a physical piece of the archive is requested to pass the joy forward with a quiet act of kindness.
 
     This initiative was highlighted at the Ely Center for Contemporary Art during CT Tech Week, where we celebrated an official on-site book release. Today, the project is championed within the grassroots Free Little Art Galleries community and continues to expand to new locations worldwide.
 
