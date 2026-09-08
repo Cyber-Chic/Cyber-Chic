@@ -49,9 +49,9 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 </div>
 
 *   **THE MISSION** — I founded this archive to spark real-world connection through transformative projects, primarily by distributing books & other keepsakes ultimately designed to spread happiness. Some are intentionally placed in quiet corners for unexpected finders to discover, while others are available directly for traditional collectors.
-*   **COMMUNITY TREASURE HUNTS** — My signature project is a borderless treasure hunt where art, poetry, and social development comic books are creatively seeded across the earth. Select artifacts are also slated for outer space, culminating in a digital installation configured to capture my artwork as a **[designated satellite](https://space.crunchlabs.com/selfie/VnpvzMO)** traverses past the Pyramids of Giza. Anyone who finds a piece of the archive is requested to pass the joy forward with a quiet act of kindness.
-
-    This initiative was highlighted at the Ely Center for Contemporary Art during CT Tech Week—where we celebrated an official book release on-site—is championed by the grassroots Free Little Art Galleries community, and is expanding to fresh locations across the world.
+*   **COMMUNITY TREASURE HUNTS** — My signature project is a borderless treasure hunt where art, poetry, and social development comics are creatively seeded across the earth. Select artifacts are also slated for outer space, culminating in a digital installation configured to capture my artwork as a **[designated satellite](https://crunchlabs.com)** traverses past the Pyramids of Giza. Anyone who finds a piece of the archive is requested to pass the joy forward with a quiet act of kindness.
+    
+    This initiative was highlighted at the Ely Center for Contemporary Art during CT Tech Week—where we celebrated an official book release on-site—is championed within the grassroots Free Little Art Galleries community, and is expanding to fresh locations across the world.
 
     <!-- FUTURE MILESTONE LOG UPDATE: Once international mailings launch, swap the line above with the text below:
     This initiative was launched at the Ely Center for Contemporary Art during CT Tech Week—where we celebrated an official book release on-site—is featured throughout the global Free Little Art Galleries community, and has expanded its physical footprint across domestic & international locations.
