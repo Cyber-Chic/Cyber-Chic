@@ -66,8 +66,9 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
     Selected snapshot iterations of these starry maps are printed as physical postcards to accompany my treasures across the Kármán line via **[commercial rocket manifests](https://clubforfuture.org)**, while this interactive map serves as a direct gateway for participants to launch their own active scientific contributions across open astronomy networks.
 *   **CREATIVE MATHEMATICS** — The core philosophy of this archive stems from a personal journey exploring **Beal’s Conjecture**—a legendary, million-dollar math puzzle. I challenged the equation using a unique concept of "positive zero" and presented my findings at the 19th annual CMC3 conference and at MathFest in Washington, D.C., celebrating the 100th Centennial Anniversary of the Mathematical Association of America.
 *   **FOUNDER RECOGNITION** — This mathematical journey earned regional distinction via the Westfair Milli Award for Innovation, serving as the ultimate creative spark for launching my hidden waves of kindness globally.
-*   **EVERYDAY FINANCIAL TRACKS** — **(NOT FINANCIAL ADVICE)** — Bridging mathematics with real-world applications, this section highlights public informational materials for independent study. My personal creative journey—and how automated investments can unlock the time required to pursue artistic passions—was featured in a national New York Times advertising campaign. *(Note: Shared strictly as a personal case study for informational purposes; not formal financial advice).*
+*   **FINANCIAL LITERACY** — **(NOT FINANCIAL ADVICE)** — Bridging mathematics with real-world applications, this section highlights public informational materials for independent study. My personal creative journey—and how automated investments can unlock the time required to pursue artistic passions—was featured in a national New York Times advertising campaign. *(Note: Shared strictly as a personal case study for informational purposes; not formal financial advice).*
 </div>
+
 </details>
 
 <br />
