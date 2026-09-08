@@ -52,7 +52,8 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 *   **COMMUNITY TREASURE HUNTS** — My signature project is a borderless treasure hunt where my art, poetry, and social-development comics are being hidden across the globe. Select artifacts are also slated for outer space, culminating in a digital installation that will display my artwork on a **[satellite screen](https://space.crunchlabs.com/selfie/VnpvzMO)** while orbiting past the Pyramids of Giza. Anyone who finds a physical piece of the archive is asked to pass the joy forward with a quiet act of kindness.
 
     
-    This initiative was highlighted at the Ely Center for Contemporary Art during CT Tech Week—where we celebrated an official book release on-site—is championed within the grassroots Free Little Art Galleries community, and is expanding to fresh locations across the world.
+    This initiative was highlighted at the Ely Center for Contemporary Art during CT Tech Week, where we celebrated an official on-site book release. Today, the project is championed within the grassroots Free Little Art Galleries community and continues to expand to new locations worldwide.
+
 
     <!-- FUTURE MILESTONE LOG UPDATE: Once international mailings launch, swap the line above with the text below:
     This initiative was launched at the Ely Center for Contemporary Art during CT Tech Week—where we celebrated an official book release on-site—is featured throughout the global Free Little Art Galleries community, and has expanded its physical footprint across domestic & international locations.
