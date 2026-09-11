@@ -102,7 +102,7 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 
 *   <sup>[\[1\]](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)</sup> **THE COLLECTION** — Standard Commercial Volumes
 *   <sup>[\[2\]](https://cyber-chic.github.io/themoorearchive/releases)</sup> **THE MOORE ARCHIVE** — Limited-Edition Archival Releases
-*   <sup>[\[3\]](https://coord.info/TBB2WKZ)</sup> **THE CELESTIAL HORIZON** — Poetry Treasures Launched Into Space
+*   <sup>[\[3\]](https://tr.ee/9DnwSyN7xp)</sup> **THE CELESTIAL HORIZON** — Poetry Treasures Launched Into Space
 
 ---
 
