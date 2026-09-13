@@ -5,7 +5,7 @@
 
 ### *Bridging the gap between literary preservation and citizen science.*
 
-> ♟️&nbsp;*Investment Philosophy* &nbsp;•&nbsp; 🏆&nbsp;*Milli Award Winner* &nbsp;•&nbsp; 🛡️&nbsp;*Social Enterprise LLC*
+> 📈&nbsp;*Investment Philosophy* &nbsp;•&nbsp; 🏆&nbsp;*Milli Award Winner* &nbsp;•&nbsp; 🛡️&nbsp;*Social Enterprise LLC*
 
 
 Welcome to my profile. By day, I preserve literature within a rare book library. By night, I direct **The Moore Signal Archive LLC**—a creative studio built on a community impact model. While standard editions of my work are available for purchase, the archive operates on a philosophy that treats kindness as currency, inviting participants to trade a quiet act of kindness for open access to my STEM resources, literature, and art.
