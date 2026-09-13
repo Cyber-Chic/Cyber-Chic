@@ -1,4 +1,4 @@
-### **THE MOORE SIGNAL ARCHIVE™**
+### <sup>**THE MOORE SIGNAL ARCHIVE™**</sup>
 
 # Hi there! I'm an Artist & Social Entrepreneur 🌌📚
 
