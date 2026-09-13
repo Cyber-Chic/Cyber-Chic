@@ -154,6 +154,14 @@ Professional exhibition bookings are managed via **The Moore Signal Archive LLC*
 *   **CONTACT:** themoorearchive@proton.me
 *   **BUREAU:** 2389 Main St, Ste 100, Glastonbury, CT 06033
 
+### 📡 SECURE INQUIRIES
+Professional exhibition bookings are managed via **The Moore Signal Archive LLC**.
+
+*   **CONTACT:** themoorearchive@proton.me
+*   **BUREAU:** 2389 Main St, Ste 100, Glastonbury, CT 06033
+
 ```text
-LOG: SECURE DISPATCH VIA PROTONMAIL // Independent research and conceptual data art.
+LOG: [CC BY 4.0] // Designed in tandem with Google Gemini intelligence.
 ```
+
+
