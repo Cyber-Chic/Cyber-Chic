@@ -1,4 +1,4 @@
-# Hi there! I'm an Artist & Social Entrepreneur ✶📚
+# Hi there! I'm an Artist & Social Entrepreneur 🌌📚
 
 ### **Bridging the gap between literary preservation and citizen science.**
 > 🪐 *Investment Philosophy* &nbsp;&bull;&nbsp; 🏆 *Milli Award Winner* &nbsp;&bull;&nbsp; 🛡️ *Social Enterprise LLC*
