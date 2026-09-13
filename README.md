@@ -1,5 +1,3 @@
-<kbd>MOORE SIGNAL™</kbd>
-
 # Hi there! I'm an Artist & Social Entrepreneur 🌌📚
 
 ### **Bridging the gap between literary preservation and citizen science.**
