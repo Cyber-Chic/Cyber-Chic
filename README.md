@@ -1,3 +1,5 @@
+`THE MOORE SIGNAL NETWORK™`
+
 # Hi there! I'm an Artist & Social Entrepreneur 🌌📚
 
 ### **Bridging the gap between literary preservation and citizen science.**
@@ -9,8 +11,8 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 
 ---
 
-
 ### 🛰️ THE STUDIO
+
 
 <div align="center">
 
