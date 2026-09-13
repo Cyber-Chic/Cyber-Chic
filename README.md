@@ -16,21 +16,15 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 
 ### 🛰️ THE STUDIO
 
-
-<div align="center">
-
-<h4>🌌 CURRENT PROJECTS & FOUNDER HIGHLIGHTS</h4>
+### **🌌 CURRENT PROJECTS & FOUNDER HIGHLIGHTS**
 
 | | | |
-| :---: | :---: | :---: |
-| [🚀 **~2K Scientific Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Trackable Artifacts & Space Travel**](https://linktr.ee/themooresignal) | [📰 **Featured in NYT T Brand Studio**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
+| :--- | :--- | :--- |
+| [🚀 **~2K Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Trackable Artifacts**](https://linktr.ee/themooresignal) | [📰 **NYT Brand Feature**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
 
 <br />
 
-  <p style="margin: 0; max-width: 650px; font-size: 14px; line-height: 1.6;">
-    <strong>Inside the Archive:</strong> The links above provide a direct look into my favorite snapshots. You can explore the open science projects I contribute to, track my traveling art pieces & watch my national MINI-DOC feature. Below you can access additional archival resources!
-  </p>
-</div>
+> **Inside the Archive:** The links above provide a direct look into my favorite snapshots. You can explore the open science projects I contribute to, track my traveling art pieces & watch my national MINI-DOC feature. Below you can access additional archival resources!
 
 <br />
 
@@ -54,14 +48,10 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 </div>
 
 *   **THE MISSION** — I founded this archive to spark real-world connection through transformative projects, primarily by distributing books & other keepsakes ultimately designed to spread happiness. Some are intentionally placed in quiet corners for unexpected finders to discover, while others are available directly for traditional collectors.
+
 *   **COMMUNITY TREASURE HUNTS** — The studio's signature project is a borderless treasure hunt where my art, poetry, and social-development comics are creatively hidden across the earth. Select pieces are also slated for outer space, culminating in a digital exhibit that will display my work on a **[designated satellite](https://tr.ee/P8Bv63Qkk6)** passing over the Pyramids of Giza. Anyone who finds a physical piece of the archive is requested to pass the joy forward with a quiet act of kindness.
 
     This initiative was highlighted at the Ely Center for Contemporary Art during CT Tech Week, where we celebrated an official on-site book release. Today, the project is championed within the grassroots Free Little Art Galleries community and continues to expand to new locations worldwide.
-
-
-    <!-- FUTURE MILESTONE LOG UPDATE: Once international mailings launch, swap the line above with the text below:
-    This initiative was launched at the Ely Center for Contemporary Art during CT Tech Week—where we celebrated an official book release on-site—is featured throughout the global Free Little Art Galleries community, and has expanded its physical footprint across domestic & international locations.
-    -->
 
 *   **CREATIVE STEM DESIGN** — I also design beginner-friendly science lessons focused on foundational physics, including a cosmic time capsule and a custom solar lightsail project. 
     
@@ -91,7 +81,9 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
    
 *   **FOUNDER RECOGNITION** — This mathematical journey earned regional distinction via the Westfair Milli Award for Innovation, serving as the ultimate creative spark for launching my hidden waves of kindness globally.
     
-*   **FINANCIAL LITERACY** — **(NOT FINANCIAL ADVICE)** — Bridging mathematics with real-world applications, this section highlights public informational materials for independent study. My personal creative journey—and how automated investments can unlock the time required to pursue artistic passions—was featured in a national New York Times advertising campaign. *(Note: Shared strictly as a personal case study for informational purposes; not formal financial advice).*
+*   **FINANCIAL LITERACY** — **(NOT FINANCIAL ADVICE)** — Bridging mathematics with real-world applications, this section highlights public informational materials for independent study. My personal creative journey—and how automated investments can unlock the time required to pursue artistic passions—was featured in a national New York Times advertising campaign.
+
+*   *(Note: Shared strictly as a personal case study for informational purposes; not formal financial advice).*
 </div>
 
 </details>
