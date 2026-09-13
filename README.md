@@ -1,6 +1,8 @@
-`THE MOORE SIGNAL NETWORK™`
+**T H E &nbsp; M O O R E &nbsp; S I G N A L &nbsp; N E T W O R K ™**
+<hr>
 
 # Hi there! I'm an Artist & Social Entrepreneur 🌌📚
+
 
 ### **Bridging the gap between literary preservation and citizen science.**
 > 🪐 *Investment Philosophy* &nbsp;&bull;&nbsp; 🏆 *Milli Award Winner* &nbsp;&bull;&nbsp; 🛡️ *Social Enterprise LLC*
