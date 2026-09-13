@@ -1,5 +1,3 @@
-> **Archival Overview:** This repository serves as an official documentation network for the artistic, literary, and scientific initiatives of The Moore Signal Archive LLC. Primary source materials, aerospace registries, and community research data are organized below for public verification.
-
 # Hi there! I'm an Artist & Social Entrepreneur ✶📚
 
 ### **Bridging the gap between literary preservation and citizen science.**
