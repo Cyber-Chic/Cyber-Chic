@@ -1,4 +1,4 @@
-<kbd>A GLOBAL CANVAS & SPACE PLATFORM | THE MOORE SIGNAL NETWORK™</kbd>
+<kbd>A SPACE & ART ARCHIVE | THE MOORE SIGNAL NETWORK™</kbd>
 
 # Hi there! I'm an Artist & Social Entrepreneur 🌌📚
 
