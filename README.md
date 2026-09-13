@@ -1,4 +1,4 @@
-<kbd>THE MOORE SIGNAL NETWORK™</kbd>
+<kbd>THE MOORE SIGNAL ARCHIVE™</kbd>
 
 # Hi there! I'm an Artist & Social Entrepreneur 🌌📚
 
