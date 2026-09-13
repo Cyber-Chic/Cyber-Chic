@@ -1,9 +1,9 @@
 ### **THE MOORE SIGNAL ARCHIVE™**
 ---
 
-# Artist & Social Entrepreneur&nbsp;&nbsp;🌌📚
+# Artist & Social Entrepreneur&nbsp;🌠
 
-### *Bridging the gap between literary preservation and citizen science.*
+### *Bridging the gap between 📚&nbsp;literary preservation and citizen science.*
 
 > ⚓&nbsp;*Investment Philosophy* &nbsp;•&nbsp; 🏆&nbsp;*Milli Award Winner* &nbsp;•&nbsp; 🛡️&nbsp;*Social Enterprise LLC*
 
