@@ -81,7 +81,7 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
    
 *   **FOUNDER RECOGNITION** — This ambitious mathematical pursuit—and the raw creative drive behind tackling one of the world's most difficult mathematical challenges—earned regional distinction via the Westfair Milli Award for Innovation. This milestone served as the ultimate spark for transforming a philosophical concept of invisible action into a quiet ideology of kindness to be shared across the globe.
     
-*   **FINANCIAL LITERACY** — **(NOT FINANCIAL ADVICE)** — Bridging mathematics with real-world applications, this section highlights public informational **[materials](https://cyber-chic.github.io/bubblegumfinance/)** for independent study. My personal creative journey—and how automated investments can unlock the time required to pursue artistic passions—was featured in a national New York Times advertising campaign.
+*   **FINANCIAL LITERACY** — Bridging mathematics with real-world applications, this section highlights public informational materials for **[independent study](https://cyber-chic.github.io/bubblegumfinance/)**. My personal creative journey—and how automated investments can unlock the time required to pursue artistic passions—was featured in a national New York Times advertising campaign.
 
 *   *(Note: Shared strictly as a personal case study for informational purposes; not formal financial advice).*
 </div>
