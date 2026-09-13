@@ -1,6 +1,3 @@
-### **THE MOORE SIGNAL ARCHIVE™**
----
-
 # Artist & Social Entrepreneur&nbsp;🌌📕
 
 ### *Bridging the gap between literary preservation and citizen science.*
