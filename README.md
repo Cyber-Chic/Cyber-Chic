@@ -1,4 +1,4 @@
-*A Space & Art Initiative by* **THE MOORE SIGNAL ARCHIVE™**
+*An Initiative by* **THE MOORE SIGNAL ARCHIVE™**
 
 # Hi there! I'm an Artist & Social Entrepreneur 🌌📚
 
