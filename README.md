@@ -1,4 +1,4 @@
-<kbd>THE MOORE SIGNAL™ | SPACE & ART ARCHIVES</kbd>
+<kbd>SPACE & ART ARCHIVES | THE MOORE SIGNAL™</kbd>
 
 # Hi there! I'm an Artist & Social Entrepreneur 🌌📚
 
