@@ -77,9 +77,9 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
   <br />
 </div>
 
-*   **CREATIVE MATHEMATICS** — The core philosophy of this archive stems from a personal journey exploring **Beal’s Conjecture**—a legendary, million-dollar math puzzle. I challenged the equation using a unique concept of "positive zero" and presented my findings at the 19th annual CMC3 conference and at MathFest in Washington, D.C., celebrating the 100th Centennial Anniversary of the Mathematical Association of America.
+*   **CREATIVE MATHEMATICS** — The core philosophy of this archive stems from a personal journey exploring **Beal’s Conjecture**—a legendary, million-dollar math puzzle. I challenged the equation using a unique concept of "positive zero" and presented my findings at the 19th annual **[CMC3](https://www.cmc3.org/conferences/past/2015/spring/presentations/angela_moore_paper.pdf)** conference and at **[MathFest](https://maa.org/wp-content/uploads/2025/02/MF15-Abstracts.pdf#page=153&view=FitH,700)** in Washington, D.C., celebrating the 100th Centennial Anniversary of the Mathematical Association of America.
    
-*   **FOUNDER RECOGNITION** — This mathematical journey earned regional distinction via the Westfair Milli Award for Innovation, serving as the ultimate creative spark for launching my hidden waves of kindness globally.
+*   **FOUNDER RECOGNITION** — This mathematical journey—and the unique concept of "positive zero" that defined it—earned regional distinction via the Westfair Milli Award for Innovation. This served as the ultimate creative spark, transforming an abstract philosophy into a borderless, real-world mission of hidden kindness.
     
 *   **FINANCIAL LITERACY** — **(NOT FINANCIAL ADVICE)** — Bridging mathematics with real-world applications, this section highlights public informational materials for independent study. My personal creative journey—and how automated investments can unlock the time required to pursue artistic passions—was featured in a national New York Times advertising campaign.
 
