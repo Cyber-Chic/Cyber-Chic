@@ -66,10 +66,13 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 *   **CREATIVE STEM DESIGN** — I also design beginner-friendly science lessons focused on foundational physics, including a cosmic time capsule and a custom solar lightsail project. 
     
     My flagship lesson, the *10-Second Space-Only Photon Rocket*, challenges students to build active rocket models using household materials to explore the laws of light propulsion and velocity limits. 
+
 *   **3D GALAXY VISUALIZER** — For digital demonstrations, my lessons utilize a custom canvas where my poems—written about real cosmic phenomena—are procedurally mapped into a simulated celestial environment. The code generates an active backdrop of flickering stars to evoke the feeling of tracking cosmic targets. 
     
-    Selected snapshot iterations of these starry maps are printed as physical postcards to accompany my treasures across the Kármán line via **[commercial rocket manifests](https://www.clubforfuture.org/postcards)**, while this interactive map serves as a direct gateway for participants to launch their own active scientific contributions across open astronomy networks.
+    This interactive engine serves as a direct launchpad for participants to submit their own active scientific contributions across open astronomy networks. Selected snapshot iterations of these starry maps are printed as physical postcards to accompany my treasures across the Kármán line on **[official space missions](https://www.clubforfuture.org/postcards)**.
+
 <br>
+
 <div align="center">
   <table>
     <tr>
