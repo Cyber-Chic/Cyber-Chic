@@ -64,7 +64,7 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 *   **3D GALAXY VISUALIZER** — For digital demonstrations, my lessons utilize a custom canvas where my poems—written about real cosmic phenomena—are procedurally mapped into a simulated celestial environment. The code generates an active backdrop of flickering stars to evoke the feeling of tracking cosmic targets. 
     
     Selected snapshot iterations of these starry maps are printed as physical postcards to accompany my treasures across the Kármán line via **[commercial rocket manifests](https://www.clubforfuture.org/postcards)**, while this interactive map serves as a direct gateway for participants to launch their own active scientific contributions across open astronomy networks.
-
+<br>
 <div align="center">
   <table>
     <tr>
