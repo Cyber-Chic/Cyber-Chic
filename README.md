@@ -79,7 +79,9 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 
 *   **CREATIVE MATHEMATICS** — The core philosophy of this archive stems from a personal journey exploring **Beal’s Conjecture**—a legendary, million-dollar math puzzle. I challenged the equation using a unique concept of "positive zero" and presented my findings at the 19th annual **[CMC3](https://www.cmc3.org/conferences/past/2015/spring/presentations/angela_moore_paper.pdf)** conference and at **[MathFest (p. 153)](https://maa.org/wp-content/uploads/2025/02/MF15-Abstracts.pdf#page=153&view=FitH,700)** in Washington, D.C., celebrating the 100th Centennial Anniversary of the Mathematical Association of America.
    
-*   **FOUNDER RECOGNITION** — This ambitious mathematical pursuit—and the raw creative drive behind tackling one of the world's most difficult mathematical challenges—earned regional distinction via the Westfair Milli Award for Innovation. This milestone served as the ultimate spark for transforming a philosophical concept of invisible action into a quiet ideology of kindness to be shared across the globe.
+*   **FOUNDER RECOGNITION** — This ambitious pursuit of one of the world's most difficult mathematical challenges earned regional distinction via the Westfair Milli Award for Innovation. Rooted in an academic background honored by induction into the Phi Sigma Tau international philosophy society, this milestone sparked a global mission—transforming a **[theoretical](https://www.researchgate.net/publication/400971211_The_Moore_Archive_An_Inquiry_into_Invisible_Action_and_the_Resonance_of_Kindness)** concept of invisible action into waves of kindness projected across the earth and into outer space.
+
+
     
 *   **FINANCIAL LITERACY** — Bridging mathematics with real-world applications, this section highlights public informational materials for **[independent study](https://cyber-chic.github.io/bubblegumfinance/)**. My personal creative journey—and how automated investments can unlock the time required to pursue artistic passions—was featured in a national New York Times advertising campaign.
 
