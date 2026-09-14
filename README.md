@@ -134,22 +134,7 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 | **5** | [🚀 **AAVSO REGISTRY**](https://apps.aavso.org/v2/users/angela_moore/) | _Observer Profile_ &bull; `MANBA` |
 </details>
 
-
----
-
-### 🔭 DIRECTORY HIGHLIGHTS
-
-*   <sup>[\[10\]](https://emaze.me/prettycoinz)</sup> **PRETTY COINZ** — Currency Based Study on Aesthetic Value
-*   <sup>[\[11\]](https://angies.poetry.blog)</sup> **LITERARY PORTFOLIO** — Creative Hub & Published Pieces
-*   <sup>[\[12\]](https://bio.site/mooresignal)</sup> **EXHIBITION INTAKE** — Unified Gateway & Booking Portal
-
 ***
-
-### 📡 SECURE INQUIRIES
-Professional exhibition bookings are managed via **The Moore Signal Archive LLC**.
-
-*   **CONTACT:** themoorearchive@proton.me
-*   **BUREAU:** 2389 Main St, Ste 100, Glastonbury, CT 06033
 
 ### 📡 SECURE INQUIRIES
 Professional exhibition bookings are managed via **The Moore Signal Archive LLC**.
