@@ -34,13 +34,16 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 <div align="left" style="padding: 0 15px; font-size: 14px; line-height: 1.6; border-left: 2px solid #30363d;">
 
 <div align="center">
+  <br />
   <table>
     <tr>
-      <td align="center">
+      <td>
         <img src="https://github.com/Cyber-Chic/cosmos/raw/main/images.css/IMG_9495.jpeg" alt="Flagship Mixed-Media Artifact" width="480" />
         <br />
-        <br />
-        <sup><i>Archival Artifacts (Full Composition)<br />Scheduled for an orbital display passing over the Pyramids of Giza.</i></sup>
+        <hr />
+        <p align="center" width="450">
+          <sup><i>Archival Artifacts (Full Composition)<br />Scheduled for an orbital display passing over the Pyramids of Giza.</i></sup>
+        </p>
       </td>
     </tr>
   </table>
