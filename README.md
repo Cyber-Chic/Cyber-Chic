@@ -25,7 +25,7 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 
 <br />
 
-> **Inside the Archive:** The links above provide a direct look into my favorite snapshots. You can explore the open science projects I contribute to, track my traveling art pieces & watch my national MINI-DOC feature. Below you can access additional archival resources!
+> **Inside the Archive:** The links above provide a direct look into my favorite snapshots. You can explore the open science projects I contribute to, watch my national MINI-DOC feature & track my traveling art pieces. Below you can access additional archival resources!
 
 <br />
 
