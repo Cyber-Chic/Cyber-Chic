@@ -12,22 +12,20 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 
 &mdash; *The personal investment framework that grants me the time to pursue this creative initiative was featured nationally by The New&nbsp;York&nbsp;Times.*
 
----
-
 ### 🛰️ THE STUDIO
 
 ### **🌌 CURRENT PROJECTS & FOUNDER HIGHLIGHTS**
 
 | | | |
 | :--- | :--- | :--- |
-| [🚀 **~2K Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [📰 **NYT • T Brand Feature**](https://www.youtube.com/watch?v=3yS19NcRQt8) | [🪐 **Trackable Artifacts**](https://linktr.ee/themooresignal) |
+| [🪐 **Track Artifacts**](https://linktr.ee/themooresignal) | [🚀 **~2K Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [📰 **NYT • T Brand Feature**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
 
+<br />
+
+> **Inside the Archive:** The links above provide a direct look into my favorite snapshots. You can track my traveling art pieces, explore the open science projects I contribute to & watch my national MINI-DOC feature. Below you can access additional archival resources!
 
 <br />
 
-> **Inside the Archive:** The links above provide a direct look into my favorite snapshots. You can explore the open science projects I contribute to, watch my national MINI-DOC feature & track my traveling art pieces. Below you can access additional archival resources!
-
-<br />
 
 <details>
 <summary><b>📖 FRAMEWORK: THE STORIES BEHIND THE ARCHIVE (Click to expand)</b></summary>
