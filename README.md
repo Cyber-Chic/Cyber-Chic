@@ -20,7 +20,7 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 
 | | | |
 | :--- | :--- | :--- |
-| [🪐 **Trackable Artifacts**](https://linktr.ee/themooresignal) | [🚀 **~2K Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [📰 **NYT • T Brand Feature**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
+| [🚀 **~2K Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [📰 **NYT • T Brand Feature**](https://www.youtube.com/watch?v=3yS19NcRQt8) | [🪐 **Trackable Artifacts**](https://linktr.ee/themooresignal) |
 
 
 <br />
