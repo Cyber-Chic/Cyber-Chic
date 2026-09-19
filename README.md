@@ -109,39 +109,40 @@ My personal journey navigating financial literacy—and how it can establish mor
 
 ---
 
-### 🌌 LITERARY RELEASES
-
-*   <sup>[\[1\]](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)</sup> **THE COLLECTION** — Standard Commercial Volumes
-*   <sup>[\[2\]](https://cyber-chic.github.io/themoorearchive/releases)</sup> **THE MOORE ARCHIVE** — Limited-Edition Archival Releases
-*   <sup>[\[3\]](https://tr.ee/9DnwSyN7xp)</sup> **THE CELESTIAL HORIZON** — Poetry Treasures Launched Into Space
-
----
-
-### 🏛️ RECOGNITION
-
-*   <sup>[\[4\]](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup> **MILLI AWARD** — Conferred for Creative Innovation
-*   <sup>[\[5\]](https://www.youtube.com/watch?v=3yS19NcRQt8)</sup> **NYT • T BRAND STUDIO** — National Ad Campaign Feature
-*   <sup>[\[6\]](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup> **ARCHIVE PROFILE** — Free Little Art Galleries Spotlight
-
----
-
-### 🪐 AEROSPACE
-
-*   <sup>[\[7\]](https://cyber-chic.github.io/cosmos/universe)</sup> **3D GALAXY VISUALIZER** — Stylized Universe & Cosmic Poems
-*   <sup>[\[8\]](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)</sup> **PHOTON ENGINES** — STEM Space Lessons on Light Propulsion
-*   <sup>[\[9\]](https://luma.com/q0lm15pz)</sup> **CT TECH WEEK** — Exhibition @ Ely Center for Contemporary Art
+### 🌌 ARCHIVAL DIRECTORIES
 
 <details>
-<summary><b>🛠️ THE DIRECTORY (Click to Expand)</b></summary>
+<summary><b>🛠️ ENTER PROJECT REGISTRY (Click to Expand)</b></summary>
 <br>
 
-| 📊 | Archival Documentation & Resources | Summary / Context |
+#### 📚 LITERARY & VISUAL ARCHIVE
+
+| 📊 | 📂 ARCHIVAL RECORD | 📡 SUMMARY / SCOPE |
 | :---: | :--- | :--- |
-| **1** | [🚀 **MOORE SIGNAL REPOSITORY**](https://github.com/Cyber-Chic/cosmos) | _Open-Science Astro-Hub_ |
-| **2** | [🚀 **BUBBLEGUM FINANCE INDEX**](https://cyber-chic.github.io/bubblegumfinance/) | _Educational Media Curation_ |
-| **3** | [🚀 **EXECUTIVE ENDORSEMENT**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-ugcPost-7468021297931825152-XZgR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAYfOpcBrnwtnS9rgebG859ruEu2Hp25ylk) | _CT Tech Week Evaluation_ |
+| 🪐 | [**THE CELESTIAL HORIZON**](https://tr.ee/9DnwSyN7xp) | _Poetry Treasures Launched Into Space_ |
+| 📂 | [**THE MOORE STUDIO ARCHIVE**](https://cyber-chic.github.io/themoorearchive/releases) | _Limited-Edition Archival Releases_ |
+| 📚 | [**LITERARY PORTFOLIO**](https://angies.poetry.blog) | _Creative Hub & Published Pieces_ |
+| 📖 | [**THE BOOK COLLECTION**](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks) | _Standard Commercial Volumes_ |
+
+<br>
+
+#### 🏛️ RECOGNITION & STEM PROJECTS
+
+| 📊 | 📂 ARCHIVAL RECORD | 📡 SUMMARY / SCOPE |
+| :---: | :--- | :--- |
+| 📅 | [**ELY CENTER TECH WEEK POP-UP**](https://luma.com/q0lm15pz) | _Contemporary Art Exhibition Context_ |
+| 🚀 | [**PHOTON ROCKETS & TUTORIALS**](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md) | _STEM Space Lessons on Light Propulsion_ |
+| 💼 | [**EXECUTIVE ENDORSEMENT**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-ugcPost-7468021297931825152-XZgR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAYfOpcBrnwtnS9rgebG859ruEu2Hp25ylk) | _CT Tech Week Participant Evaluation_ |
+| 📉 | [**BUBBLEGUM FINANCE ARCHIVE**](https://cyber-chic.github.io/bubblegumfinance/) | Educational Financial Literacy Index |
+| 🖼️ | [**FEATURED STUDIO PROFILE**](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/) | _Free Little Art Galleries Spotlight_ |
+| 🏆 | [**WESTFAIR MILLI AWARD**](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/m) | _Conferred for Creative Innovation_ |
+| 🌌 | [**3D GALAXY VISUALIZER**](https://cyber-chic.github.io/cosmos/universe) | _Stylized Universe & Cosmic Poems_ |
+| 📰 | [**NYT • T BRAND STUDIO**](https://www.youtube.com/watch?v=3yS19NcRQt8) | _National Ad Campaign Feature_ |
+| 🪙 | [**PRETTY COINZ INDEX**](https://emaze.me/prettycoinz) | _Currency Based Study on Aesthetic Value_ |
 
 </details>
+
+
 
 ***
 
@@ -154,5 +155,4 @@ Professional exhibition bookings are managed via **The Moore Signal Archive LLC*
 ```text
 LOG: [CC BY 4.0] // Designed in tandem with Google Gemini intelligence.
 ```
-
 
