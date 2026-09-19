@@ -2,7 +2,11 @@
 
 # Artist & Social Entrepreneur 🌌📕
 
-**[ 🛰️ THE STUDIO PORTAL ](https://bio.site/mooresignal)** | **[ 📊 RESEARCH & IMPACT ](https://github.com/Cyber-Chic/cosmos/blob/main/README.md)** | **[ 🪐 COSMIC REGISTRY ](https://github.com/Cyber-Chic/cosmos/blob/main/COIN_LEDGER.md)**
+<p align="left">
+  <a href="https://bio.site"><b>[ 🛰️ THE STUDIO PORTAL ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; 
+  <a href="https://github.com"><b>[ 📊 RESEARCH & IMPACT ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; 
+  <a href="https://github.com"><b>[ 🪐 COSMIC REGISTRY ]</b></a>
+</p>
 
 ---
 
@@ -21,15 +25,13 @@ My personal journey navigating financial literacy—and how it can establish mor
 
 ---
 
-
-
 ### 🛰️ THE STUDIO
 
 ### **🌌 CURRENT PROJECTS & FOUNDER HIGHLIGHTS**
 
 | | | |
 | :--- | :--- | :--- |
-| [🚀 **2K Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Track Artifacts**](https://linktr.ee/themooresignal) | [📰 **NYT • T Brand**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
+| [🚀 **2K Contributions**](https://zooniverse.org) | [🪐 **Track Artifacts**](https://linktr.ee) | [📰 **NYT • T Brand**](https://youtube.com) |
 
 <br />
 
