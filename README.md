@@ -92,7 +92,7 @@ My personal journey navigating financial literacy—and how it can establish mor
    
 *   **FOUNDER RECOGNITION** — This ambitious pursuit of one of the world's most difficult mathematical challenges earned regional distinction via the Westfair Milli Award for Innovation. Rooted in an academic background honored by induction into the Phi Sigma Tau international philosophy society, this milestone sparked a global mission—transforming a **[theoretical](https://www.researchgate.net/publication/400971211_The_Moore_Archive_An_Inquiry_into_Invisible_Action_and_the_Resonance_of_Kindness)** concept of invisible action into waves of kindness projected across the earth and into outer space.
     
-*   **FINANCIAL LITERACY** — Bridging mathematics with real-world applications, this section highlights public informational materials for **[independent study](https://cyber-chic.github.io/bubblegumfinance/)**. My personal creative journey—and how automated investments can unlock the time required to pursue artistic passions—was featured in a national New York Times advertising campaign.
+*   **FINANCIAL LITERACY** — Bridging mathematics with real-world applications, this section highlights public informational materials for **[independent study](https://cyber-chic.github.io/bubblegumfinance/)**. My personal creative journey—and how it can establish more time to pursue creative passions, ultimately allowing me to build this independent archive—was featured nationally within a **New York Times** advertising campaign.
 
 *   *(Note: Shared strictly as a personal case study for informational purposes; not formal financial advice).*
 </div>
@@ -110,7 +110,6 @@ My personal journey navigating financial literacy—and how it can establish mor
 
 ### 🌌 LITERARY RELEASES
 
-
 *   <sup>[\[1\]](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)</sup> **THE COLLECTION** — Standard Commercial Volumes
 *   <sup>[\[2\]](https://cyber-chic.github.io/themoorearchive/releases)</sup> **THE MOORE ARCHIVE** — Limited-Edition Archival Releases
 *   <sup>[\[3\]](https://tr.ee/9DnwSyN7xp)</sup> **THE CELESTIAL HORIZON** — Poetry Treasures Launched Into Space
@@ -119,12 +118,11 @@ My personal journey navigating financial literacy—and how it can establish mor
 
 ### 🏛️ RECOGNITION
 
-*   <sup>[\[4\]](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup> **MILLI AWARD** — Conferred for Conceptual Innovation
+*   <sup>[\[4\]](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)</sup> **MILLI AWARD** — Conferred for Creative Innovation
 *   <sup>[\[5\]](https://www.youtube.com/watch?v=3yS19NcRQt8)</sup> **NYT • T BRAND STUDIO** — National Ad Campaign Feature
 *   <sup>[\[6\]](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)</sup> **ARCHIVE PROFILE** — Free Little Art Galleries Spotlight
 
 ---
-
 
 ### 🪐 AEROSPACE
 
@@ -133,15 +131,15 @@ My personal journey navigating financial literacy—and how it can establish mor
 *   <sup>[\[9\]](https://luma.com/q0lm15pz)</sup> **CT TECH WEEK** — Exhibition @ Ely Center for Contemporary Art
 
 <details>
-<summary><b>📡 MISSION CONTROL </b></summary>
+<summary><b>🛠️ THE DIRECTORY (Click to Expand)</b></summary>
+<br>
 
-| 🛰️ | Operational System Track | Project Status |
+| 📊 | Archival Documentation & Resources | Summary / Context |
 | :---: | :--- | :--- |
-| **1** | [🚀 **MOORE SIGNAL RESEARCH**](https://github.com/Cyber-Chic/cosmos) | _Astrophysics Data Hub_ |
-| **2** | [🚀 **SCIENCE OBSERVATIONS**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | _Verified Records_ &bull; `Logs` |
-| **3** | [🚀 **BUBBLEGUM FINANCE INDEX**](https://cyber-chic.github.io/bubblegumfinance/) | _Educational Media Curation_ |
-| **4** | [🚀 **EXHIBIT RECEPTION**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr) | _CT Tech Week Evaluation_ |
-| **5** | [🚀 **AAVSO REGISTRY**](https://apps.aavso.org/v2/users/angela_moore/) | _Observer Profile_ &bull; `MANBA` |
+| **1** | [🚀 **MOORE SIGNAL REPOSITORY**](https://github.com/Cyber-Chic/cosmos) | _Open-Science Astro-Hub_ |
+| **2** | [🚀 **BUBBLEGUM FINANCE INDEX**](https://cyber-chic.github.io/bubblegumfinance/) | _Educational Media Curation_ |
+| **3** | [🚀 **EXECUTIVE ENDORSEMENT**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-ugcPost-7468021297931825152-XZgR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAYfOpcBrnwtnS9rgebG859ruEu2Hp25ylk) | _CT Tech Week Evaluation_ |
+
 </details>
 
 ***
