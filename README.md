@@ -2,7 +2,7 @@
 
 # Artist & Social Entrepreneur 🌌📕
 
-**[ 🛰️ THE STUDIO PORTAL ](https://bio.site/mooresignal)** | **[ 📊 RESEARCH & IMPACT ](https://github.com/Cyber-Chic/cosmos/blob/main/README.md)** | **[ 🪐 COSMIC REGISTRY ](https://tr.ee/9DnwSyN7xpl)**
+**[ 🛰️ THE STUDIO PORTAL ](https://bio.site/mooresignal)** | **[ 📊 RESEARCH & IMPACT ](https://github.com/Cyber-Chic/cosmos/blob/main/README.md)** | **[ 🪐 COSMIC REGISTRY ](https://tr.ee/9DnwSyN7xp)**
 
 ---
 
