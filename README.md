@@ -2,7 +2,21 @@
 
 # Artist & Social Entrepreneur 🌌📕
 
-[ `🛰️ THE STUDIO PORTAL` ](https://bio.site/mooresignal) &nbsp;&bull;&nbsp; [ `📊 RESEARCH & IMPACT` ](https://github.com/Cyber-Chic/cosmos/blob/main/README.md) &nbsp;&bull;&nbsp; [ `🪐 COSMIC REGISTRY` ](https://tr.ee/9DnwSyN7xp)
+<div align="left">
+  <table style="border: none; border-collapse: collapse; background: transparent; width: 100%; max-width: 580px; margin-left: 0;">
+    <tr style="border: none;">
+      <td align="left" style="border: none; padding: 6px 4px 6px 0; white-space: nowrap;">
+        <a href="https://bio.site/mooresignal" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🛰️ THE STUDIO PORTAL</b></a>
+      </td>
+      <td align="left" style="border: none; padding: 6px 4px; white-space: nowrap;">
+        <a href="https://github.com/Cyber-Chic/cosmos/blob/main/README.md" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">📊 RESEARCH & IMPACT</b></a>
+      </td>
+      <td align="left" style="border: none; padding: 6px 4px; white-space: nowrap;">
+        <a href="https://tr.ee/9DnwSyN7xp" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🪐 COSMIC REGISTRY</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -10,6 +24,11 @@
 > I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots, community-centered model. By day, I preserve history within a rare book library. By night, I independently develop multidisciplinary art portfolios, original literature, and open STEM resources. I operate on an alternative framework that treats kindness as currency. My borderless initiatives invite participants to trade quiet acts of goodwill for open access to my educational and artistic ecosystem.
 
 ---
+
+
+
+
+
 
 ### 💎 Executive Summary & Philosophy
 🏆 **Milli Award Winner** for Creative Innovation  
