@@ -12,9 +12,9 @@
 ---
 
 ### 💎 Executive Summary & Philosophy
-• 🏆 **Milli Award Winner** for Creative Innovation  
-• 🛡️ **Social Enterprise & Art Studio** (Glastonbury, CT)  
-• 🌐 **Project Director** — Space Initiatives & Global Outreach  
+🏆 **Milli Award Winner** for Creative Innovation  
+🛡️ **Social Enterprise & Art Studio** (Glastonbury, CT)  
+🌐 **Project Director** — Space Initiatives & Global Outreach  
 
 ### 📡 The Mission In Practice
 My personal journey navigating financial literacy—and how it can establish more time to pursue creative passions, ultimately allowing me to build this independent archive—was featured nationally within a **New York Times** advertising campaign. Grounded in an academic background honored by induction into the **Phi Sigma Tau** international philosophy honor society, this project transforms theoretical concepts of aesthetic and community value into real-world waves of global goodwill.
