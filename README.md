@@ -27,7 +27,7 @@
 
 ### 💎 Executive Summary & Philosophy
 🛡️ **Social Enterprise & Art Studio** (CT)  
-🏆 **Milli Award Winner** for Creative Innovation  
+🏆 **Milli Award Winner** for Innovation  
 🌐 **Project Director** — Space Initiatives & Global Outreach  
 
 ### 📡 The Mission In Practice
