@@ -1,16 +1,25 @@
 ### **THE MOORE SIGNAL ARCHIVE™**
+
+# Artist & Social Entrepreneur 🌌📕
+
+**[ 🛰️ THE STUDIO PORTAL ](https://github.io)** | **[ 📊 RESEARCH & IMPACT ](https://github.com/Cyber-Chic/cosmos/blob/main/README.md)** | **[ 🪐 COSMIC REGISTRY ](https://bio.site/mooresignal)**
+
 ---
 
-# Artist & Social Entrepreneur&nbsp;🌌📕
+> ### **Bridging the gap between literary preservation, visual art, and citizen science.**
+> I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots, community-centered model. By day, I preserve history within a rare book library. By night, I independently develop multidisciplinary art portfolios, original literature, and open STEM resources. I operate on an alternative framework that treats kindness as currency. My borderless initiatives invite participants to trade quiet acts of goodwill for open access to my educational and artistic ecosystem.
 
-### *Bridging the gap between literary preservation and citizen science.*
+---
 
-> 💎&nbsp;*Investment Philosophy* &nbsp;•&nbsp; 🏆&nbsp;*Milli Award Winner* &nbsp;•&nbsp; 🛡️&nbsp;*Social Enterprise LLC*
+### 💎 Executive Summary & Philosophy
+• 🏆 **Milli Award Winner** for Creative Innovation  
+• 🛡️ **Social Enterprise & Art Studio** (Glastonbury, CT)  
+• 🌐 **Space Mission & Global Project Director**  
 
+### 📡 The Mission In Practice
+My personal journey navigating financial literacy—and how it can establish more time to pursue creative passions, ultimately allowing me to build this independent archive—was featured nationally within a **New York Times** advertising campaign. Grounded in an academic background honored by induction into the **Phi Sigma Tau** international philosophy honor society, this project transforms theoretical concepts of aesthetic and community value into real-world waves of global goodwill.
 
-Welcome to my profile. By day, I preserve literature within a rare book library. By night, I direct **The Moore Signal Archive LLC**—a creative studio built on a community impact model. While standard editions of my work are available for purchase, the archive operates on a philosophy that treats kindness as currency, inviting participants to trade a quiet act of kindness for open access to my STEM resources, literature, and art.
-
-&mdash; *The personal investment framework that grants me the time to pursue this creative initiative was featured nationally by The New&nbsp;York&nbsp;Times.*
+---
 
 ### 🛰️ THE STUDIO
 
@@ -25,7 +34,6 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 > **Inside the Archive:** The links above provide a direct look into my favorite snapshots. You can explore the open science projects I contribute to, track my traveling art pieces & watch my national MINI-DOC feature. Below you can access additional archival resources!
 
 <br />
-
 
 
 <details>
@@ -83,8 +91,6 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 *   **CREATIVE MATHEMATICS** — The core philosophy of this archive stems from a personal journey exploring **Beal’s Conjecture**—a legendary, million-dollar math puzzle. I challenged the equation using a unique concept of "positive zero" and presented my findings at the 19th annual **[CMC3](https://www.cmc3.org/conferences/past/2015/spring/presentations/angela_moore_paper.pdf)** conference and at **[MathFest (p. 153)](https://maa.org/wp-content/uploads/2025/02/MF15-Abstracts.pdf#page=153&view=FitH,700)** in Washington, D.C., celebrating the 100th Centennial Anniversary of the Mathematical Association of America.
    
 *   **FOUNDER RECOGNITION** — This ambitious pursuit of one of the world's most difficult mathematical challenges earned regional distinction via the Westfair Milli Award for Innovation. Rooted in an academic background honored by induction into the Phi Sigma Tau international philosophy society, this milestone sparked a global mission—transforming a **[theoretical](https://www.researchgate.net/publication/400971211_The_Moore_Archive_An_Inquiry_into_Invisible_Action_and_the_Resonance_of_Kindness)** concept of invisible action into waves of kindness projected across the earth and into outer space.
-
-
     
 *   **FINANCIAL LITERACY** — Bridging mathematics with real-world applications, this section highlights public informational materials for **[independent study](https://cyber-chic.github.io/bubblegumfinance/)**. My personal creative journey—and how automated investments can unlock the time required to pursue artistic passions—was featured in a national New York Times advertising campaign.
 
@@ -95,7 +101,6 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 
 <br />
 
-
 <!-- Native Minimalist Visual Framing -->
 <div align="center">
   <img src="https://angies.poetry.blog/wp-content/uploads/2022/08/image.png" alt="The Moore iArchive Comics" width="100%" max-width="800" />
@@ -104,6 +109,7 @@ Welcome to my profile. By day, I preserve literature within a rare book library.
 ---
 
 ### 🌌 LITERARY RELEASES
+
 
 *   <sup>[\[1\]](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)</sup> **THE COLLECTION** — Standard Commercial Volumes
 *   <sup>[\[2\]](https://cyber-chic.github.io/themoorearchive/releases)</sup> **THE MOORE ARCHIVE** — Limited-Edition Archival Releases
