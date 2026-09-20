@@ -21,7 +21,7 @@
 ---
 
 > ### **Bridging the gap between literary preservation, visual art, and citizen science.**
-> I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots, community-centered model. By day, I preserve history within a rare book library. By night, I independently develop multidisciplinary art portfolios, original literature, and open STEM resources. While standard editions of my **[work](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)** are available for purchase, the archive operates on a philosophy that treats kindness as currency, inviting participants to trade quiet acts of goodwill in exchange for open access to my ecosystem.
+> I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots, community-centered model. By day, I preserve history within a rare book library. By night, I develop multidisciplinary art portfolios, original literature, and open STEM resources. While standard editions of my **[work](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)** are available for purchase, the archive operates on a philosophy that treats kindness as currency, inviting participants to trade quiet acts of goodwill in exchange for open access to my ecosystem.
 
 ---
 
