@@ -21,17 +21,18 @@
 ---
 
 > ### **Bridging the gap between literary preservation, visual art, and citizen science.**
-> I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots, community-centered model. By day, I preserve history within a rare book library. By night, I independently develop multidisciplinary art portfolios, original literature, and open STEM resources. I operate on an alternative framework that treats kindness as currency. My borderless initiatives invite participants to trade quiet acts of goodwill for open access to my educational and artistic ecosystem.
+> I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots, community-centered model. By day, I preserve history within a rare book library. By night, I independently develop multidisciplinary art portfolios, original literature, and open STEM resources. While standard editions of my **[work](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)** are available for purchase, the archive operates on a philosophy that treats kindness as currency, inviting participants to trade quiet acts of goodwill in exchange for open access to my ecosystem.
 
 ---
 
-### 🎓 Executive Summary & Philosophy
+### 👑 Executive Summary & Philosophy
 🛡️ **Social Enterprise & Art Studio** (CT)  
 🏆 **Milli Award Winner** for Innovation  
 🌐 **Project Director** — Space Initiatives & Global Outreach  
 
 ### 📡 The Mission In Practice
 My personal journey navigating financial literacy—and how it can establish more time to pursue creative passions, ultimately allowing me to build this independent archive—was featured nationally within a **New York Times** advertising campaign. Grounded in an academic background honored by induction into the **Phi Sigma Tau** international philosophy honor society, this project transforms theoretical concepts of aesthetic and community value into real-world waves of global goodwill.
+
 
 
 ---
