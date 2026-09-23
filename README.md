@@ -33,9 +33,10 @@
 ### 📡 The Mission In Practice
 My personal journey navigating financial literacy—and how it can establish more time to pursue creative passions, ultimately allowing me to build this independent archive—was featured nationally within a **New York Times** advertising campaign. Grounded in an academic background honored by induction into the **Phi Sigma Tau** international philosophy honor society, this project transforms theoretical concepts of aesthetic and community value into real-world waves of global goodwill.
 
-> *Coinciding with a worldwide treasure hunt, my upcoming exhibition will beam original artwork directly over the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)** via satellite, debuting alongside limited-edition physical prints launching into space via **[Blue Origin](https://www.clubforfuture.org/postcards)**.*
+> *Coinciding with a worldwide treasure hunt, my flagship exhibition is beaming original artwork directly over the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)** via satellite, showcased alongside limited-edition physical prints launching into space via **[Blue Origin](https://www.clubforfuture.org/postcards)**.*
 
 ---
+
 
 ### 🛰️ THE STUDIO
 
@@ -92,18 +93,22 @@ My personal journey navigating financial literacy—and how it can establish mor
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Cyber-Chic/cosmos/refs/heads/main/images.css/deep-space-capture.jpg" alt="Galaxy Map Visual Capture" width="380" />
+  <table style="border: none; border-collapse: collapse; background: transparent;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 0;">
+        <img src="https://raw.githubusercontent.com/Cyber-Chic/cosmos/refs/heads/main/images.css/deep-space-capture.jpg" alt="Galaxy Map Visual Capture" width="380" style="border-radius: 6px; border: 1px solid #30363d;" />
         <br />
         <br />
-        <sup><i>Generative engine snapshot: custom verse juxtaposed<br />against a randomly cycled celestial abstraction.</i></sup>
+        <p align="center" style="margin: 0; max-width: 380px; line-height: 1.4;">
+          <sup><i>Generative engine snapshot: original verse mapped<br />over a procedural deep sky environment.</i></sup>
+        </p>
       </td>
     </tr>
   </table>
   <br />
 </div>
+
+
 
 *   **CREATIVE MATHEMATICS** — The core philosophy of this archive stems from a personal journey exploring **Beal’s Conjecture**—a legendary, million-dollar math puzzle. I challenged the equation using a unique concept of "positive zero" and presented my findings at the 19th annual **[CMC3](https://www.cmc3.org/conferences/past/2015/spring/presentations/angela_moore_paper.pdf)** conference and at **[MathFest (p. 153)](https://maa.org/wp-content/uploads/2025/02/MF15-Abstracts.pdf#page=153&view=FitH,700)** in Washington, D.C., celebrating the 100th Centennial Anniversary of the Mathematical Association of America.
    
