@@ -44,7 +44,7 @@ My personal journey navigating financial literacy—and how it can establish mor
 
 | | | |
 | :--- | :--- | :--- |
-| [🚀 **2K Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Track Artifacts**](https://linktr.ee/themooresignal) | [📰 **NYT • T Brand**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
+| [🚀 **2K Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Track Artifacts**](https://linktr.ee/themooresignal) | [📈 **NYT • T Brand**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
 
 <br />
 
