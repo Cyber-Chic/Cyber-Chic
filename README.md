@@ -33,11 +33,9 @@
 ### 📡 The Mission In Practice
 My personal journey navigating financial literacy—and how it can establish more time to pursue creative passions, ultimately allowing me to build this independent archive—was featured nationally within a **New York Times** advertising campaign. Grounded in an academic background honored by induction into the **Phi Sigma Tau** international philosophy honor society, this project transforms theoretical concepts of aesthetic and community value into real-world waves of global goodwill.
 
-
+> *Coinciding with a worldwide treasure hunt, my upcoming exhibition will beam original artwork directly over the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)** via satellite, debuting alongside limited-edition physical prints launching into space via **[Blue Origin](https://www.clubforfuture.org/postcards)**.*
 
 ---
-
-
 
 ### 🛰️ THE STUDIO
 
@@ -52,6 +50,7 @@ My personal journey navigating financial literacy—and how it can establish mor
 > **Inside the Archive:** The links above provide a direct look into my favorite snapshots. You can explore the open science projects I contribute to, track my traveling art pieces & watch my national MINI-DOC feature. Below you can access additional archival resources!
 
 <br />
+
 
 
 <details>
