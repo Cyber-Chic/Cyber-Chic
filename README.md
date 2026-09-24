@@ -62,13 +62,13 @@ My personal journey navigating financial literacy—and how it can establish mor
 
 <div align="center">
   <br />
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/Cyber-Chic/cosmos/raw/main/images.css/IMG_9495.jpeg" alt="Flagship Mixed-Media Artifact" width="480" />
+  <table style="border: none; border-collapse: collapse; background: transparent;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 0;">
+        <img src="https://github.com/Cyber-Chic/cosmos/raw/main/images.css/IMG_9495.jpeg" alt="Flagship Mixed-Media Artifact" width="480" style="border-radius: 6px; border: 1px solid #30363d;" />
         <br />
-        <hr />
-        <p align="center" width="450">
+        <br />
+        <p align="center" style="margin: 0; max-width: 480px; line-height: 1.4;">
           <sup><i>Archival Artifacts (Full Composition)<br />Scheduled for an orbital display passing over the Pyramids of Giza.</i></sup>
         </p>
       </td>
@@ -77,21 +77,17 @@ My personal journey navigating financial literacy—and how it can establish mor
   <br />
 </div>
 
-*   **THE MISSION** — I founded this archive to spark real-world connection through transformative projects, primarily by distributing books & other keepsakes ultimately designed to spread happiness. Some are intentionally placed in quiet corners for unexpected finders to discover, while others are available directly for traditional collectors.
+*   **THE MISSION** — I founded this archive to spark real-world connection. By distributing custom keepsakes, the archive treats kindness as currency. Some gems are intentionally placed in quiet corners for unexpected finders to discover, while others remain available for traditional collectors.
 
-*   **COMMUNITY TREASURE HUNTS** — The studio's signature project is a borderless treasure hunt where my art, poetry, and social-development comics are creatively hidden across the earth. Select pieces are also slated for outer space, culminating in a digital exhibit that will display my work on a **[designated satellite](https://tr.ee/P8Bv63Qkk6)** passing over the Pyramids of Giza. Anyone who finds a physical piece of the archive is requested to pass the joy forward with a quiet act of kindness.
+*   **COMMUNITY TREASURE HUNTS** — The studio's signature project is a borderless treasure hunt where my art, poetry, and social-development comics are creatively hidden across the earth. Select pieces are also slated for outer space, culminating in a digital exhibit that will display original work on a **[designated satellite](https://tr.ee/P8Bv63Qkk6)** passing over the Pyramids of Giza. Anyone who finds a physical piece of the archive is requested to pass the joy forward with a quiet act of kindness.
 
     This initiative was highlighted at the Ely Center for Contemporary Art during CT Tech Week, where we celebrated an official on-site book release. Today, the project is championed within the grassroots Free Little Art Galleries community and continues to expand to new locations worldwide.
 
-*   **CREATIVE STEM DESIGN** — I also design beginner-friendly science lessons focused on foundational physics, including a cosmic time capsule and a custom solar lightsail project. 
-    
-    My flagship lesson, the *10-Second Space-Only Photon Rocket*, challenges students to build active rocket models using household materials to explore the laws of light propulsion and velocity limits. 
+*   **CREATIVE STEM DESIGN** — I also design beginner-friendly science lessons focused on foundational physics, including a cosmic time capsule and a custom solar lightsail project. My flagship open-source curriculum challenges students to build active rocket models using household materials, translating advanced topics on light propulsion and velocity limits into accessible, hands-on discoveries. 
 
-*   **3D GALAXY VISUALIZER** — For digital demonstrations, my lessons utilize a custom canvas where my poems—written about real cosmic phenomena—are procedurally mapped into a simulated celestial environment. The code generates an active backdrop of flickering stars to evoke the feeling of tracking cosmic targets. 
-    
-    This interactive engine serves as a direct launchpad for participants to submit their own active scientific contributions across open astronomy networks. Selected snapshot iterations of these starry maps are printed as physical postcards to accompany my treasures across the Kármán line on **[official space missions](https://www.clubforfuture.org/postcards)**.
+*   **3D GALAXY VISUALIZER** — For digital demonstrations, I utilize a custom canvas where my poems—written about real cosmic phenomena—are procedurally mapped into a simulated celestial environment. The code generates an active backdrop of flickering stars to evoke the feeling of tracking cosmic targets. This interactive engine serves as a direct launchpad for participants to submit active scientific contributions across open astronomy networks. Select captures of these starry maps are transformed into stylized prints destined for spacebound missions via **[Blue Origin](https://www.clubforfuture.org/postcards)**.
 
-<br>
+<br />
 
 <div align="center">
   <table style="border: none; border-collapse: collapse; background: transparent;">
@@ -109,13 +105,11 @@ My personal journey navigating financial literacy—and how it can establish mor
   <br />
 </div>
 
-
-
-*   **CREATIVE MATHEMATICS** — The core philosophy of this archive stems from a personal journey exploring **Beal’s Conjecture**—a legendary, million-dollar math puzzle. I challenged the equation using a unique concept of "positive zero" and presented my findings at the 19th annual **[CMC3](https://www.cmc3.org/conferences/past/2015/spring/presentations/angela_moore_paper.pdf)** conference and at **[MathFest (p. 153)](https://maa.org/wp-content/uploads/2025/02/MF15-Abstracts.pdf#page=153&view=FitH,700)** in Washington, D.C., celebrating the 100th Centennial Anniversary of the Mathematical Association of America.
+*   **CREATIVE MATHEMATICS** — The core philosophy of this archive stems from an original inquiry into **Beal’s Conjecture**—a legendary, million-dollar math puzzle. I challenged the equation using a unique concept of "positive zero" and presented my findings at the 19th annual **[CMC3](https://www.cmc3.org/conferences/past/2015/spring/presentations/angela_moore_paper.pdf)** conference and at **[MathFest (p. 153)](https://maa.org/wp-content/uploads/2025/02/MF15-Abstracts.pdf#page=153&view=FitH,700)**, celebrating the 100th Centennial Anniversary of the Mathematical Association of America.
    
-*   **FOUNDER RECOGNITION** — This ambitious pursuit of one of the world's most difficult mathematical challenges earned regional distinction via the Westfair Milli Award for Innovation. Rooted in an academic background honored by induction into the Phi Sigma Tau international philosophy society, this milestone sparked a global mission—transforming a **[theoretical](https://www.researchgate.net/publication/400971211_The_Moore_Archive_An_Inquiry_into_Invisible_Action_and_the_Resonance_of_Kindness)** concept of invisible action into waves of kindness projected across the earth and into outer space.
+*   **FOUNDER RECOGNITION** — This ambitious pursuit of one of the world's most difficult mathematical challenges earned regional distinction via the Westfair Milli Award for Innovation. Grounded by my induction into **Phi Sigma Tau**, the international honor society for philosophy, this endeavor evolved into a borderless creative mission — translating a **[theoretical](https://www.researchgate.net/publication/400971211_The_Moore_Archive_An_Inquiry_into_Invisible_Action_and_the_Resonance_of_Kindness)** philosophy of quiet action into physical waves of kindness across the globe and into the cosmos.
     
-*   **FINANCIAL LITERACY** — Bridging mathematics with real-world applications, this section highlights public informational materials for **[independent study](https://cyber-chic.github.io/bubblegumfinance/)**. My personal creative journey—and how it can establish more time to pursue creative passions, ultimately allowing me to build this independent archive—was featured nationally within a **New York Times** advertising campaign.
+*   **FINANCIAL LITERACY** — Bridging mathematics with real-world applications, this section highlights public informational materials for **[independent study](https://cyber-chic.github.io/bubblegumfinance/)**. My personal creative journey—and how saving for the future can establish more time to pursue creative passions—was featured nationally within a **New York Times** ad campaign, empowering creators to support their own independent passions.
 
 *   *(Note: Shared strictly as a personal case study for informational purposes; not formal financial advice).*
 </div>
