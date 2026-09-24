@@ -31,7 +31,7 @@
 🌐 **Project Director** — Space Initiatives & Global Outreach  
 
 ### 📡 The Mission In Practice
-My personal journey navigating financial literacy—and how it can establish more time to pursue creative passions, ultimately allowing me to build this independent archive—was featured within a national **New York Times** ad campaign. Grounded in my induction into **Phi Sigma Tau**, the international honor society for philosophy, this project translates a theoretical construct of quiet action into waves of kindness around the globe.
+My personal journey navigating financial literacy—and how it can establish more time to pursue creative passions, ultimately allowing me to build this independent archive—was featured within a national **New York Times** ad campaign. Grounded in my induction into **Phi Sigma Tau**, the international honor society for philosophy, this project translates a framework of quiet action into waves of kindness around the globe.
 
 > *Coinciding with a worldwide treasure hunt, my flagship exhibition is beaming original artwork directly over the **[Pyramids of Giza](https://space.crunchlabs.com/selfie/VnpvzMO)** via satellite, showcased alongside limited-edition physical prints launching into space via **[Blue Origin](https://www.clubforfuture.org/postcards)**.*
 
