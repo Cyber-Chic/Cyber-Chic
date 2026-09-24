@@ -109,7 +109,7 @@ My personal journey navigating financial literacy—and how it can establish mor
    
 *   **FOUNDER RECOGNITION** — This ambitious pursuit of one of the world's most difficult mathematical challenges earned regional distinction via the Westfair Milli Award for Innovation. Grounded by my induction into **Phi Sigma Tau**, the international honor society for philosophy, this endeavor evolved into a borderless creative mission — translating a **[theoretical](https://www.researchgate.net/publication/400971211_The_Moore_Archive_An_Inquiry_into_Invisible_Action_and_the_Resonance_of_Kindness)** philosophy of quiet action into physical waves of kindness across the globe and into the cosmos.
     
-*   **FINANCIAL LITERACY** — Bridging mathematics with real-world applications, this section highlights public informational materials for **[independent study](https://cyber-chic.github.io/bubblegumfinance/)**. My personal creative journey—and how saving for the future can establish more time to pursue creative passions—was featured nationally within a **New York Times** ad campaign, empowering creators to support their own independent passions.
+*   **FINANCIAL LITERACY** — Bridging mathematics with real-world applications, this section highlights public informational materials for **[independent study](https://cyber-chic.github.io/bubblegumfinance/)**. My personal creative journey—and how saving for the future can unlock time for independent passions—was featured nationally within a **New York Times** ad campaign, proving one doesn't need to choose between a secure future and their artistic vision.
 
 *   *(Note: Shared strictly as a personal case study for informational purposes; not formal financial advice).*
 </div>
