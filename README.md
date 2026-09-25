@@ -21,24 +21,21 @@
 ---
 
 > ### **Bridging the gap between literary preservation, visual art, and citizen science.**
-> I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots model. I develop free a host of free resources and projects for the community. While standard editions of my **[work](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)** are available for purchase, the archive treats kindness as currency, inviting participants to trade quiet acts of goodwill for access to this ecosystem.
+> I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots, community-centered model. While standard editions of my **[work](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)** are available for purchase, this platform operates on a philosophy that treats kindness as currency, inviting participants to trade quiet acts of goodwill for open access to the ecosystem.
 
 ---
 
 ### 👑 Studio Highlights
 🛡️ **Art & Social Enterprise** — Glastonbury, CT  
 🏆 **Milli Award Winner** — For Creative Innovation  
-🌐 **Archive Director** — Global & Spacebound Projects  
+🌐 **Archive Director** — Global & Spacebound Initiatives  
 
-### 📡 The Project Framework
-Featured in a national **New York Times** ad campaign, I created original artwork on camera and shared passions that laid the foundation for this studio. Today, the archive releases art collections across the earth and into the cosmos.
+### 📡 The Mission In Practice
+My personal journey navigating financial literacy—and how it can establish a path towards creative freedom, ultimately allowing me to build this archive—was featured within a national **New York Times** ad campaign. Grounded in my induction into **Phi Sigma Tau**, the international honor society for philosophy, this project examines the beauty and impact of quiet acts of kindness.
 
-> *Our flagship artwork is broadcasting over the **[Pyramids of Giza](https://space.crunchlabs.com/selfie/VnpvzMO)** via satellite, alongside fine-art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.*
+> *Coinciding with an official treasure hunt, my flagship exhibition is slated to beam original work directly over the **[Pyramids of Giza](https://space.crunchlabs.com/selfie/VnpvzMO)** via satellite, showcased alongside original 4x6 art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.*
 
 ---
-
-
-
 
 ### 🛰️ THE STUDIO
 
