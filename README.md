@@ -38,6 +38,7 @@ Featured in a national **New York Times** ad campaign, I painted an original pie
 ---
 
 
+
 ### 🛰️ THE STUDIO
 
 ### **🌌 CURRENT PROJECTS & FOUNDER HIGHLIGHTS**
