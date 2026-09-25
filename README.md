@@ -33,7 +33,7 @@
 ### 📡 The Project Framework
 Featured in a national **New York Times** ad campaign, I painted an original piece on camera and shared my journey cultivating the foundation that inspired this studio. Today, the archive releases art collections across the earth and into the cosmos.
 
-> *Our flagship artwork is broadcasting over the **[Pyramids of Giza](https://crunchlabs.com)** via satellite, alongside fine-art prints launching into space via **[Blue Origin](https://clubforfuture.org)**.*
+> *Our flagship artwork is broadcasting over the **[Pyramids of Giza](https://space.crunchlabs.com/selfie/VnpvzMO)** via satellite, alongside fine-art prints launching into space via **[Blue Origin](https://www.clubforfuture.org/postcards)**.*
 
 ---
 
