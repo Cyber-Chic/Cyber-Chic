@@ -33,13 +33,9 @@
 ### 📡 The Project Framework
 Featured in a national **New York Times** ad campaign, I painted an original piece on camera and shared my journey cultivating the foundation that inspired this studio. Today, the archive releases art collections across the earth and into the cosmos.
 
-> **Digital Satellite Transmission** | Original studio artwork broadcasting directly over the **[Pyramids of Giza](https://space.crunchlabs.com/selfie/VnpvzMO)**.  
-> **Physical Spacebound Manifest** | Select fine-art prints launching into outer space via **[Blue&nbsp;Origin](https://space.crunchlabs.com/selfie/VnpvzMO)**.
+> *Our flagship artwork is broadcasting over the **[Pyramids of Giza](https://crunchlabs.com)** via satellite, alongside fine-art prints launching into space via <span style="white-space: nowrap;">**[Blue Origin](https://clubforfuture.org)**</span>.*
 
 ---
-
-
-
 
 
 ### 🛰️ THE STUDIO
