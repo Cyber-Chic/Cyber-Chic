@@ -21,7 +21,7 @@
 ---
 
 > ### **Bridging the gap between literary preservation, visual art, and citizen science.**
-> I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots model. To foster growth, I develop open-access projects and resources. While standard editions of my **[work](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)** are available for purchase, the archive treats kindness as currency, inviting participants to trade quiet acts of goodwill for access to this ecosystem.
+> I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots model. I develop free a host of free resources and projects for the community. While standard editions of my **[work](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)** are available for purchase, the archive treats kindness as currency, inviting participants to trade quiet acts of goodwill for access to this ecosystem.
 
 ---
 
@@ -31,7 +31,7 @@
 🌐 **Archive Director** — Global & Spacebound Projects  
 
 ### 📡 The Project Framework
-Featured in a national **New York Times** ad campaign, I painted an original piece on camera and shared my journey cultivating the foundation that inspired this studio. Today, the archive releases art collections across the earth and into the cosmos.
+Featured in a national **New York Times** ad campaign, I created original artwork on camera and shared passions that laid the foundation for this studio. Today, the archive releases art collections across the earth and into the cosmos.
 
 > *Our flagship artwork is broadcasting over the **[Pyramids of Giza](https://space.crunchlabs.com/selfie/VnpvzMO)** via satellite, alongside fine-art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.*
 
