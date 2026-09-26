@@ -33,9 +33,10 @@
 ### 📡 The Mission In Practice
 My personal journey navigating financial literacy—and how it can establish a path towards creative freedom, ultimately allowing me to build this archive—was featured within a national **New York Times** ad campaign. Grounded in my induction into **Phi Sigma Tau**, the international honor society for philosophy, this project examines the beauty and impact of quiet acts of kindness.
 
-> *Coinciding with an official treasure hunt, my flagship exhibition is slated to beam original work directly over the **[Pyramids of Giza](https://space.crunchlabs.com/selfie/VnpvzMO)** via satellite, showcased alongside original 4x6 art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.*
+> ***POSITIVE SIGNALS:** Coinciding with a worldwide treasure hunt, my flagship exhibition is slated to beam original work directly over the **[Pyramids of Giza](https://space.crunchlabs.com/selfie/VnpvzMO)** via satellite, showcased alongside original 4x6 art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.*
 
 ---
+
 
 
 ### 🛰️ THE STUDIO
