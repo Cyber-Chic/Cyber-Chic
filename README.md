@@ -1,3 +1,12 @@
+<pre align="center">
+.           *              •               .           *
+     ⭐            .               🛰️               .
+✨ ─────── ● ─────── ✦ ─────── 🌀 ─────── ✦ ─────── ● ─────── ✨
+   L I T E R A R Y   │   V I S U A L   │   C I T I Z E N
+ P R E S E R V A T I O N │   A R T S   │   S C I E N C E
+───────────────────────────────────────────────────────────────
+</pre>
+
 ### **THE MOORE SIGNAL ARCHIVE™**
 
 # Artist & Social Entrepreneur 🌌📕
