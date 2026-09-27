@@ -20,22 +20,24 @@
 
 ---
 
-> ### **Bridging the gap between literary preservation, visual art, and citizen science.**
-> I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots, community-centered model. While standard editions of my **[work](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)** are available for purchase, this platform treats kindness as a form of currency, inviting participants to trade quiet acts of goodwill for open access to the ecosystem.
+### 🛰️ Bridging the gap between literary preservation, visual art, and citizen science.
+
+I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots, social enterprise model. While standard editions of my **[work](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)** are available for purchase, this platform treats kindness as currency, inviting participants to trade quiet acts of goodwill for open ecosystem access.
 
 ---
 
 ### 👑 Studio Highlights
-🛡️ **Art & Social Enterprise** — Glastonbury, CT  
-🏆 **Milli Award Winner** — For Creative Innovation  
-🌐 **Archive Director** — Global & Spacebound Initiatives  
+* 🛡️ **Art & Social Enterprise** — Glastonbury, CT  
+* 🏆 **Milli Award Winner** — Conferred for Creative Innovation  
+* 🌐 **Archive Director** — Global & Spacebound Initiatives  
 
 ### 📡 The Mission In Practice
-My personal journey navigating financial literacy—and how it can establish a path towards creative freedom, ultimately allowing me to build this archive—was featured within a national **New York Times** ad campaign. Grounded in my induction into **Phi Sigma Tau**, the international honor society for philosophy, this project examines the beauty and impact of quiet acts of kindness.
+My journey navigating financial literacy—and how saving for the future can unlock a path toward absolute creative freedom—was featured within a national **New York Times** ad campaign. Grounded in my induction into **Phi Sigma Tau** (the international honor society for philosophy), this project translates a theoretical construct of quiet action into waves of goodwill launched across the globe and into the cosmos.
 
-> ***POSITIVE SIGNALS:** Coinciding with a worldwide treasure hunt, my flagship exhibition is slated to beam original work directly over the **[Pyramids of Giza](https://space.crunchlabs.com/selfie/VnpvzMO)** via satellite, showcased alongside original 4x6 art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.*
+> **🪐 POSITIVE SIGNALS:** Coinciding with a worldwide treasure hunt, my flagship exhibition is slated to beam original work directly over the **[Pyramids of Giza](https://space.crunchlabs.com/selfie/VnpvzMO)** via satellite, showcased alongside original 4x6 art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
 
 ---
+
 
 
 
