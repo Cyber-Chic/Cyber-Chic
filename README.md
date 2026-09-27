@@ -6,13 +6,13 @@
   <table style="border: none; border-collapse: collapse; background: transparent; width: 100%; max-width: 580px; margin-left: 0;">
     <tr style="border: none;">
       <td align="left" style="border: none; padding: 6px 4px 6px 0; white-space: nowrap;">
-        <a href="https://bio.site" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🛰️ THE STUDIO PORTAL</b></a>
+        <a href="https://bio.site/mooresignal" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🛰️ THE STUDIO PORTAL</b></a>
       </td>
       <td align="left" style="border: none; padding: 6px 4px; white-space: nowrap;">
-        <a href="https://github.com" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">📊 RESEARCH & IMPACT</b></a>
+        <a href="https://github.com/Cyber-Chic/cosmos/blob/main/README.md" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">📊 RESEARCH & IMPACT</b></a>
       </td>
       <td align="left" style="border: none; padding: 6px 4px; white-space: nowrap;">
-        <a href="https://tr.ee" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🪐 COSMIC REGISTRY</b></a>
+        <a href="https://tr.ee/9DnwSyN7xp" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🪐 COSMIC REGISTRY</b></a>
       </td>
     </tr>
   </table>
