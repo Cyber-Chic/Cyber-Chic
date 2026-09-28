@@ -36,7 +36,7 @@ I direct **The Moore Signal Archive LLC**—an independent creative studio opera
 ---
 
 ### 👑 Studio Highlights
-* 🛡️ **Art & Social Enterprise** — Glastonbury, CT  
+* 🛡️ **Purpose-First Entity** — Glastonbury, CT  
 * 🏆 **Milli Award Winner** — Conferred for Creative Innovation  
 * 🌐 **Archive Director** — Global & Spacebound Initiatives  
 
