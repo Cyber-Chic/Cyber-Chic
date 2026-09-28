@@ -1,11 +1,11 @@
-<pre align="center">
+<pre align="center" style="font-family: 'SF Mono', Monaco, Consolas, monospace; font-size: 11px; background: transparent; border: none; color: #8aa1b5; line-height: 1.4; letter-spacing: 0.05em; margin-bottom: 25px; white-space: pre-wrap; word-wrap: break-word;">
 .           *              •               .           *
      ⭐            .               🛰️               .
 ✨ ─────── ● ─────── ✦ ─────── 🌀 ─────── ✦ ─────── ● ─────── ✨
-   L I T E R A R Y   │   V I S U A L   │   C I T I Z E N
- P R E S E R V A T I O N │   A R T S   │   S C I E N C E
+ L I T E R A T U R E  │   A R T S     │   S C I E N C E
 ───────────────────────────────────────────────────────────────
 </pre>
+
 
 ### **THE MOORE SIGNAL ARCHIVE™**
 
