@@ -153,7 +153,7 @@ My journey navigating financial literacy—and how saving for the future can unl
 | 📊 | 📂 ARCHIVAL RECORD | 📡 SUMMARY / SCOPE |
 | :---: | :--- | :--- |
 | 🪐 | [**THE CELESTIAL HORIZON**](https://tr.ee/9DnwSyN7xp) | _Poetry Treasures Launched Into Space_ |
-| 📂 | [**THE MOORE STUDIO ARCHIVE**](https://cyber-chic.github.io/themoorearchive/releases) | _Limited-Edition Archival Releases_ |
+| 📂 | [**THE MOORE STUDIO ARCHIVE**](https://cyber-chic.github.io/themoorearchive/releases) | _Special-Edition Archival Releases_ |
 | 📚 | [**LITERARY PORTFOLIO**](https://angies.poetry.blog) | _Creative Hub & Published Pieces_ |
 | 📖 | [**THE BOOK COLLECTION**](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks) | _Standard Commercial Volumes_ |
 
