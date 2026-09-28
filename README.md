@@ -43,7 +43,7 @@ I direct **The Moore Signal Archive LLC**—an independent creative studio opera
 ### 📡 The Mission In Practice
 My journey navigating financial literacy—and how saving for the future can unlock a path toward absolute creative freedom—was featured within a national **New York Times** ad campaign. Grounded in my induction into **Phi Sigma Tau** (the international honor society for philosophy), this project translates a theoretical construct of quiet action into waves of goodwill launched across the globe and into the cosmos.
 
-> **🪐 POSITIVE SIGNALS:** Coinciding with a worldwide treasure hunt, my flagship exhibition is slated to beam original work directly over the **[Pyramids of Giza](https://space.crunchlabs.com/selfie/VnpvzMO)** via satellite, showcased alongside original 4x6 art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
+> **🪐 POSITIVE SIGNALS:** Coinciding with a worldwide treasure hunt, my flagship exhibition is slated to beam original work directly over the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)** via satellite, showcased alongside original 4x6 art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
 
 <!-- Native Minimalist Visual Framing // Verified Flight Manifest Asset -->
 <div align="center" style="margin: 25px 0;">
