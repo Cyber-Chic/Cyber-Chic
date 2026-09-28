@@ -36,9 +36,9 @@ I direct **The Moore Signal Archive LLC**—an independent creative studio opera
 ---
 
 ### 👑 Studio Highlights
-* 🛡️ **Purpose-First Entity** — Glastonbury, CT  
+* 🛡️ **Private Archive** — Glastonbury, CT  
 * 🏆 **Milli Award Winner** — Conferred for Creative Innovation  
-* 🌐 **Archive Director** — Global & Spacebound Initiatives  
+* 🌐 **Project Director** — Global & Spacebound Initiatives  
 
 ### 📡 The Mission In Practice
 My journey navigating financial literacy—and how saving for the future can unlock a path toward absolute creative freedom—was featured within a national **New York Times** ad campaign. Grounded in my induction into **Phi Sigma Tau** (the international honor society for philosophy), this project translates a theoretical construct of quiet action into waves of goodwill launched across the globe and into the cosmos.
