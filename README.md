@@ -45,6 +45,15 @@ My journey navigating financial literacy—and how saving for the future can unl
 
 > **🪐 POSITIVE SIGNALS:** Coinciding with a worldwide treasure hunt, my flagship exhibition is slated to beam original work directly over the **[Pyramids of Giza](https://space.crunchlabs.com/selfie/VnpvzMO)** via satellite, showcased alongside original 4x6 art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
 
+<!-- Native Minimalist Visual Framing // Verified Flight Manifest Asset -->
+<div align="center" style="margin: 25px 0;">
+  <img src="https://media.wired.com/photos/59273b98ac01987bf0138e30/master/pass/launch1.jpg" alt="Blue Origin New Shepard Rocket Launch Trajectory" width="100%" style="max-width: 580px; border-radius: 8px; border: 1px solid #30363d;" />
+  <p align="center" style="font-family: 'SF Mono', Monaco, Consolas, monospace; font-size: 10px; color: #8aa1b5; margin-top: 8px; text-transform: uppercase; letter-spacing: 0.05em;">
+    <sup><i>Flight Manifest Record — Blue Origin New Shepard Rocket Propulsion // Image Credit: WIRED / Blue Origin</i></sup>
+  </p>
+</div>
+
+
 ---
 
 
@@ -71,30 +80,14 @@ My journey navigating financial literacy—and how saving for the future can unl
 <br />
 <div align="left" style="padding: 0 15px; font-size: 14px; line-height: 1.6; border-left: 2px solid #30363d;">
 
-<div align="center">
-  <br />
-  <table style="border: none; border-collapse: collapse; background: transparent;">
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 0;">
-        <img src="https://github.com/Cyber-Chic/cosmos/raw/main/images.css/IMG_9495.jpeg" alt="Flagship Mixed-Media Artifact" width="480" style="border-radius: 6px; border: 1px solid #30363d;" />
-        <br />
-        <br />
-        <p align="center" style="margin: 0; max-width: 480px; line-height: 1.4;">
-          <sup><i>Archival Artifacts (Full Composition)<br />Scheduled for an orbital display passing over the Pyramids of Giza.</i></sup>
-        </p>
-      </td>
-    </tr>
-  </table>
-  <br />
-</div>
 
 *   **THE MISSION** — I founded this archive to spark real-world connection. By distributing custom keepsakes, the archive treats kindness as currency. Some gems are intentionally placed in quiet corners for unexpected finders to discover, while others remain available for traditional collectors.
 
-*   **COMMUNITY TREASURE HUNTS** — The studio's signature project is a borderless treasure hunt where my art, poetry, and social-development comics are creatively hidden across the earth. Select pieces are also slated for outer space, culminating in a digital exhibit that will display original work on a **[designated satellite](https://tr.ee/P8Bv63Qkk6)** passing over the Pyramids of Giza. Anyone who finds a physical piece of the archive is requested to pass the joy forward with a quiet act of kindness.
+*   **COMMUNITY TREASURE HUNTS** — The studio's signature project is a borderless treasure hunt where my art, poetry, and social-development comics are creatively hidden across the earth. Select pieces are also slated for outer space, culminating in a digital exhibit that will display original work on a **[designated satellite](https://tr.ee/P8Bv63Qkk6)** passing over the Pyramids of Giza. Anyone who finds a physical piece of the archive is requested to pass the joy forward with a quiet act of goodwill.
 
-    This initiative was highlighted at the Ely Center for Contemporary Art during CT Tech Week, where we celebrated an official on-site book release. Today, the project is championed within the grassroots Free Little Art Galleries community and continues to expand to new locations worldwide.
+    This project debuted at the Ely Center for Contemporary Art during CT Tech Week, celebrating an official on-site book release. Today, the work is championed within the grassroots Free Little Art Galleries community and continues to expand to new locations worldwide.
 
-*   **CREATIVE STEM DESIGN** — I also design beginner-friendly science lessons focused on foundational physics, including a cosmic time capsule and a custom solar lightsail project. My flagship open-source curriculum challenges students to build active rocket models using household materials, translating advanced topics on light propulsion and velocity limits into accessible, hands-on discoveries. 
+*   **CREATIVE STEM DESIGN** — I also design beginner-friendly science lessons focused on foundational physics, including a cosmic time capsule and a custom solar lightsail layout. My flagship open-source curriculum challenges students to build active rocket models using household materials, translating advanced topics on light propulsion and velocity limits into accessible, hands-on discoveries. 
 
 *   **3D GALAXY VISUALIZER** — For digital demonstrations, I utilize a custom canvas where my poems—written about real cosmic phenomena—are procedurally mapped into a simulated celestial environment. The code generates an active backdrop of flickering stars to evoke the feeling of tracking cosmic targets. This interactive engine serves as a direct launchpad for participants to submit active scientific contributions across open astronomy networks. Select captures of these starry maps are transformed into stylized prints destined for spacebound missions via **[Blue Origin](https://www.clubforfuture.org/postcards)**.
 
@@ -118,7 +111,7 @@ My journey navigating financial literacy—and how saving for the future can unl
 
 *   **CREATIVE MATHEMATICS** — The core philosophy of this archive stems from an original inquiry into **Beal’s Conjecture**—a legendary, million-dollar math puzzle. I challenged the equation using a unique concept of "positive zero" and presented my findings at the 19th annual **[CMC3](https://www.cmc3.org/conferences/past/2015/spring/presentations/angela_moore_paper.pdf)** conference and at **[MathFest (p. 153)](https://maa.org/wp-content/uploads/2025/02/MF15-Abstracts.pdf#page=153&view=FitH,700)**, celebrating the 100th Centennial Anniversary of the Mathematical Association of America.
    
-*   **FOUNDER RECOGNITION** — This ambitious pursuit of one of the world's most difficult mathematical challenges earned regional distinction via the Westfair Milli Award for Innovation. Grounded by my induction into **Phi Sigma Tau**, the international honor society for philosophy, this endeavor evolved into a borderless creative mission — translating a **[theoretical](https://www.researchgate.net/publication/400971211_The_Moore_Archive_An_Inquiry_into_Invisible_Action_and_the_Resonance_of_Kindness)** construct of quiet action into waves of kindness launched across the globe and into the cosmos.
+*   **FOUNDER RECOGNITION** — This ambitious pursuit of one of the world's most difficult mathematical challenges earned regional distinction via the Westfair Milli Award for Innovation. Grounded by my induction into **Phi Sigma Tau**, the international honor society for philosophy, this endeavor evolved into a borderless creative mission — translating a **[theoretical](https://www.researchgate.net/publication/400971211_The_Moore_Archive_An_Inquiry_into_Invisible_Action_and_the_Resonance_of_Kindness)** framework of quiet action into waves of kindness launched across the globe and into the cosmos.
     
 *   **FINANCIAL LITERACY** — Bridging mathematics with real-world applications, this section highlights public informational materials for **[independent study](https://cyber-chic.github.io/bubblegumfinance/)**. My personal creative journey—and how saving for the future can unlock time for independent passions—was featured nationally within a **New York Times** ad campaign, proving one doesn't need to choose between a secure future and their artistic vision.
 
@@ -127,11 +120,24 @@ My journey navigating financial literacy—and how saving for the future can unl
 
 </details>
 
+
 <br />
 
-<!-- Native Minimalist Visual Framing -->
 <div align="center">
-  <img src="https://angies.poetry.blog/wp-content/uploads/2022/08/image.png" alt="The Moore iArchive Comics" width="100%" max-width="800" />
+  <br />
+  <table style="border: none; border-collapse: collapse; background: transparent;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 0;">
+        <img src="https://github.com/Cyber-Chic/cosmos/raw/main/images.css/IMG_9495.jpeg" alt="Flagship Mixed-Media Artifact" width="480" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <br />
+        <br />
+        <p align="center" style="margin: 0; max-width: 480px; line-height: 1.4;">
+          <sup><i>Archival Artifacts (Full Composition)<br />Scheduled for an orbital display passing over the Pyramids of Giza.</i></sup>
+        </p>
+      </td>
+    </tr>
+  </table>
+  <br />
 </div>
 
 ---
