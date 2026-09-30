@@ -49,8 +49,8 @@ My journey navigating financial literacy—and how saving for the future can unl
 <div align="center" style="margin: 25px 0;">
   <img src="https://media.wired.com/photos/59273b98ac01987bf0138e30/master/pass/launch1.jpg" alt="Blue Origin New Shepard Rocket Launch Trajectory" width="100%" style="max-width: 580px; border-radius: 8px; border: 1px solid #30363d;" />
   <p align="center" style="font-family: 'SF Mono', Monaco, Consolas, monospace; font-size: 10px; color: #8aa1b5; margin-top: 8px; text-transform: uppercase; letter-spacing: 0.05em;">
-    <sup><i>Flight Manifest Record — Blue Origin New Shepard Rocket Propulsion // Image Credit: WIRED / Blue Origin</i></sup>
-  </p>
+  <sup><i>Exhibition Asset Record — Blue Origin Flight Into Outer Space // Published Documentation via WIRED Archive</i></sup>
+</p>
 </div>
 
 
