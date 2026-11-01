@@ -63,7 +63,7 @@ My journey navigating financial literacy—and how saving for the future can unl
 
 | | | |
 | :--- | :--- | :--- |
-| [🚀 **3K Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Track Artifacts**](https://github.com/Cyber-Chic/cosmos/blob/main/portfolio.md) | [📈 **NYT • T Brand**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
+| [🚀 **4K Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Track Artifacts**](https://github.com/Cyber-Chic/cosmos/blob/main/portfolio.md) | [📈 **NYT • T Brand**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
 
 <br />
 
