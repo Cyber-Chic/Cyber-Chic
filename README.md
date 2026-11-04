@@ -70,12 +70,13 @@ My journey navigating financial literacy—and how saving for the future can unl
 
 <br />
 
-> **Inside the Archive:** Explore a student-friendly spacecraft tutorial, revisit our live data-art exhibition debut, or watch the national feature showcasing Angela’s artistic philosophy on creative freedom. Expand the directory below to dive deeper.
+> **Inside the Archive:** Explore a student-friendly spacecraft tutorial, revisit our live data-art exhibition debut, or watch the national feature showcasing Angela’s philosophies on financial peace and creative freedom. Expand the directory below to dive deeper.
 
 <br />
 
 <details>
 <summary><b>📖 FRAMEWORK: THE STORIES BEHIND THE ARCHIVE (Click to expand)</b></summary>
+
 
 
 
