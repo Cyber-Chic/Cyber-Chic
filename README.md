@@ -53,8 +53,8 @@ My journey navigating early financial literacy—and how responsible planning ca
 
 | | | |
 | :--- | :--- | :--- |
-| [🚀 **The Photon Rocket Lab**](https://cyber-chic.github.io/cosmos/rockets) | [🎨 **CT Tech Week Exhibition**](https://luma.com/q0lm15pz) | [📈 **New York Times • T Brand Studio**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
-| *A beginner-friendly, hands-on guide to building your own light-powered spacecraft.* | *A cosmic data-art showcase that originally debuted live at the Ely Center of Contemporary Art.* | *A mini-documentary & featured ad campaign spotlighting my creative journey.* |
+| [🚀 **Photon Rocket Lab**](https://cyber-chic.github.io/cosmos/rockets) | [🎨 **CT Tech Week Spotlight**](https://luma.com/q0lm15pz) | [📈 **NYT • T Brand Studio**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
+| *A Fun Educational Tutorial* | *Exhibition @ The Ely Center* | *New York Times Ad Campaign* |
 
 <br />
 
