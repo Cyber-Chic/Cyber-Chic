@@ -7,7 +7,7 @@
 </pre>
 
 ### **THE MOORE SIGNAL ARCHIVE™**
-### *Independent Creative Studio & Private Imprint*
+### *Independent Creative Studio & Editorial Label*
 #### **Debuted at the Ely Center for Contemporary Art**
 
 **[ 🛰️ THE ARTIFACT QUEST ](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)**  
@@ -16,10 +16,11 @@
 ---
 
 <div align="left" style="max-width: 580px; line-height: 1.55; letter-spacing: 0.01em; color: #c9d1d9; margin-bottom: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-  I direct <b>The Moore Signal Archive LLC</b>—an independent creative studio and private imprint built on a grassroots, community-impact model. While standard editions of my publications are available for purchase, this platform treats kindness as currency—inviting participants to trade a single quiet act of real-world goodwill for open access to my collection of open-source STEM resources, literature, and contemporary artwork.
+  I direct <b>The Moore Signal Archive LLC</b>—an independent creative studio and boutique press publisher built on a grassroots, community-impact model. While standard editions of my publications are available for purchase, this platform treats kindness as currency—inviting participants to trade a single quiet act of real-world goodwill for open access to my collection of open-source STEM resources, literature, and contemporary artwork.
 </div>
 
 ---
+
 
 
 ### 👑 Studio Highlights
