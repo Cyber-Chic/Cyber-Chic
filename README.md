@@ -66,21 +66,16 @@ My journey navigating financial literacy—and how saving for the future can unl
 | | | |
 | :--- | :--- | :--- |
 | [🚀 **The Photon Rocket Lab**](https://cyber-chic.github.io/cosmos/rockets) | [🎨 **CT Tech Week Exhibition**](https://luma.com/q0lm15pz) | [📈 **New York Times • T Brand Studio**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
-| *A beginner-friendly, hands-on guide to building your own light-powered spacecraft.* | *A cosmic data-art showcase that originally debuted live at the Ely Center of Contemporary Art.* | *A mini-documentary & featured ad campaign spotlighting Angela’s creative journey.* |
+| *A beginner-friendly, hands-on guide to building your own light-powered spacecraft.* | *A cosmic data-art showcase that originally debuted live at the Ely Center of Contemporary Art.* | *A mini-documentary & featured ad campaign spotlighting my creative journey.* |
 
 <br />
 
-> **Inside the Archive:** Explore a student-friendly spacecraft tutorial, revisit our live data-art exhibition debut, or watch the national feature showcasing Angela’s philosophies on financial peace and creative freedom. Expand the directory below to dive deeper.
+> **Inside the Archive:** Explore a student-friendly spacecraft tutorial, revisit my live data-art exhibition and premier studio debut, or watch the national feature showcasing my philosophies on financial peace and creative freedom. Expand the directory below to dive deeper.
 
 <br />
 
 <details>
 <summary><b>📖 FRAMEWORK: THE STORIES BEHIND THE ARCHIVE (Click to expand)</b></summary>
-
-
-
-
-
 <br />
 <div align="left" style="padding: 0 15px; font-size: 14px; line-height: 1.6; border-left: 2px solid #30363d;">
 
