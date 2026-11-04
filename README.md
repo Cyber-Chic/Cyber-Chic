@@ -6,34 +6,15 @@
 ───────────────────────────────────────────────────────────────
 </pre>
 
-
 ### **THE MOORE SIGNAL ARCHIVE™**
+### *Independent Creative Studio & Private Imprint*
+#### **Debuted at the Ely Center for Contemporary Art**
 
-# Artist & Social Entrepreneur 🌌📕
-
-<div align="left">
-  <table style="border: none; border-collapse: collapse; background: transparent; width: 100%; max-width: 580px; margin-left: 0;">
-    <tr style="border: none;">
-      <td align="left" style="border: none; padding: 6px 4px 6px 0; white-space: nowrap;">
-        <a href="https://bio.site/mooresignal" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🛰️ STUDIO PORTAL</b></a>
-      </td>
-      <td align="left" style="border: none; padding: 6px 4px; white-space: nowrap;">
-        <a href="https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🎨 TREASURE HUNT</b></a>
-      </td>
-      <td align="left" style="border: none; padding: 6px 4px; white-space: nowrap;">
-        <a href="https://www.zooniverse.org/groups/2959875?start_date=2026-08-16" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🔬 4K RESEARCH LOGS</b></a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
+[ **[THE ARTIFACT QUEST]** ](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/) // [ **[LITERARY PORTFOLIO]** ](https://angies.poetry.blog/)
 
 ---
 
-### 🛰️ Bridging the gap between literary preservation, visual art, and citizen science.
-
-I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots, social enterprise model. While standard editions of my **[work](https://cyber-chic.github.io/themoorearchive/hub)** are available for purchase, this platform treats kindness as currency, inviting participants to trade quiet acts of goodwill for open ecosystem access.
+I direct **The Moore Signal Archive LLC**—an independent creative studio and private imprint built on a community-impact model. While standard editions of my publications are available for purchase, this platform treats kindness as currency—inviting you to trade a single quiet act of real-world goodwill for open access to my collection of open-source STEM resources, literature, and contemporary artwork.
 
 ---
 
@@ -43,9 +24,11 @@ I direct **The Moore Signal Archive LLC**—an independent creative studio opera
 * 🌐 **Project Director** — Global & Spacebound Initiatives  
 
 ### 📡 The Mission In Practice
-My journey navigating financial literacy—and how saving for the future can unlock a path toward absolute creative freedom—was featured within a national **New York Times** ad campaign. Grounded in my induction into **Phi Sigma Tau** (the international honor society for philosophy), this project translates a theoretical construct of quiet action into waves of goodwill launched across the globe and into the cosmos.
 
-> **🪐 POSITIVE SIGNALS:** Coinciding with a worldwide treasure hunt, my flagship exhibition is slated to beam original work directly over the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)** via satellite, showcased alongside original 4x6 art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
+My journey navigating early financial literacy—and how responsible planning can unlock absolute creative freedom—was featured nationally within a **New York Times** ad campaign. Grounded in **Phi Sigma Tau** (the international philosophy honor society), this archive translates quiet action into global waves of goodwill.
+
+> **🪐 Positive Signals:** Leveraging this independence, my flagship exhibition is slated to beam original work directly over the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)** via satellite, showcased alongside original 4x6 art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
+
 
 <!-- Native Minimalist Visual Framing // Verified Flight Manifest Asset -->
 <div align="center" style="margin: 25px 0;">
