@@ -65,7 +65,7 @@ My journey navigating financial literacy—and how saving for the future can unl
 
 | | | |
 | :--- | :--- | :--- |
-| [🚀 **The Photon Rocket Lab**]([https://cyber-chic.github.io/cosmos/rockets]) | [🎨 **CT Tech Week Exhibition**]([https://luma.com/q0lm15pz]) | [📈 **New York Times • T Studio**]([https://www.youtube.com/watch?v=3yS19NcRQt8]) |
+| [🚀 **The Photon Rocket Lab**](https://cyber-chic.github.io/cosmos/rockets) | [🎨 **CT Tech Week Exhibition**](https://luma.com/q0lm15pz) | [📈 **New York Times • T Studio**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
 | *A beginner-friendly, hands-on guide to building your own light-powered spacecraft.* | *A cosmic data-art showcase that originally debuted live at the Ely Center of Contemporary Art.* | *A mini-documentary & featured ad campaign spotlighting Angela’s creative journey.* |
 
 <br />
