@@ -15,17 +15,19 @@
   <table style="border: none; border-collapse: collapse; background: transparent; width: 100%; max-width: 580px; margin-left: 0;">
     <tr style="border: none;">
       <td align="left" style="border: none; padding: 6px 4px 6px 0; white-space: nowrap;">
-        <a href="https://bio.site/mooresignal" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🛰️ THE STUDIO PORTAL</b></a>
+        <a href="https://bio.site/mooresignal" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🛰️ STUDIO PORTAL</b></a>
       </td>
       <td align="left" style="border: none; padding: 6px 4px; white-space: nowrap;">
-        <a href="https://github.com/Cyber-Chic/cosmos/blob/main/README.md" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">📊 RESEARCH & IMPACT</b></a>
+        <a href="https://www.zooniverse.org/groups/2959875?start_date=2026-08-16" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🎨 TREASURE HUNT</b></a>
       </td>
       <td align="left" style="border: none; padding: 6px 4px; white-space: nowrap;">
-        <a href="https://github.com/Cyber-Chic/cosmos/blob/main/COIN_LEDGER.md" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🪐 COSMIC REGISTRY</b></a>
+        <a href="https://www.zooniverse.org/groups/2959875?start_date=2026-08-16" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🔬 4K RESEARCH LOGS</b></a>
       </td>
     </tr>
   </table>
 </div>
+
+
 
 ---
 
