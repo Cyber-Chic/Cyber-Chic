@@ -14,7 +14,9 @@
 
 ---
 
-I direct **The Moore Signal Archive LLC**—an independent creative studio and private imprint built on a community-impact model. While standard editions of my publications are available for purchase, this platform treats kindness as currency—inviting you to trade a single quiet act of real-world goodwill for open access to my collection of open-source STEM resources, literature, and contemporary artwork.
+<div align="left" style="max-width: 580px; line-height: 1.5; letter-spacing: 0.01em; color: #c9d1d9; margin-bottom: 20px;">
+  I direct <b>The Moore Signal Archive LLC</b>—an independent creative studio and private imprint built on a grassroots, community-impact model. While standard editions of my publications are available for purchase, this platform treats kindness as currency—inviting participants to trade a single quiet act of real-world goodwill for open access to my collection of open-source STEM resources, literature, and contemporary artwork.
+</div>
 
 ---
 
