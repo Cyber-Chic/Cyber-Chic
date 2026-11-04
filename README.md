@@ -18,7 +18,7 @@
         <a href="https://bio.site/mooresignal" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🛰️ STUDIO PORTAL</b></a>
       </td>
       <td align="left" style="border: none; padding: 6px 4px; white-space: nowrap;">
-        <a href="https://www.zooniverse.org/groups/2959875?start_date=2026-08-16" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🎨 TREASURE HUNT</b></a>
+        <a href="https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🎨 TREASURE HUNT</b></a>
       </td>
       <td align="left" style="border: none; padding: 6px 4px; white-space: nowrap;">
         <a href="https://www.zooniverse.org/groups/2959875?start_date=2026-08-16" style="text-decoration: none;"><b style="padding: 8px 14px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; font-size: 14px; display: inline-block;">🔬 4K RESEARCH LOGS</b></a>
