@@ -33,7 +33,7 @@
 
 ### 🛰️ Bridging the gap between literary preservation, visual art, and citizen science.
 
-I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots, social enterprise model. While standard editions of my **[work](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)** are available for purchase, this platform treats kindness as currency, inviting participants to trade quiet acts of goodwill for open ecosystem access.
+I direct **The Moore Signal Archive LLC**—an independent creative studio operating on a grassroots, social enterprise model. While standard editions of my **[work](https://cyber-chic.github.io/themoorearchive/hub)** are available for purchase, this platform treats kindness as currency, inviting participants to trade quiet acts of goodwill for open ecosystem access.
 
 ---
 
@@ -61,22 +61,24 @@ My journey navigating financial literacy—and how saving for the future can unl
 
 ### 🛰️ THE STUDIO
 
-### **🌌 CURRENT PROJECTS & FOUNDER HIGHLIGHTS**
+### **🌌 CREATIVE PROJECTS & FOUNDER HIGHLIGHTS**
 
 | | | |
 | :--- | :--- | :--- |
-| [🚀 **4K Contributions**](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) | [🪐 **Track Artifacts**](https://github.com/Cyber-Chic/cosmos/blob/main/portfolio.md) | [📈 **NYT • T Brand**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
+| [🚀 **The Photon Rocket Lab**]([https://cyber-chic.github.io/cosmos/rockets]) | [🎨 **CT Tech Week Exhibition**]([https://luma.com/q0lm15pz]) | [📈 **New York Times • T Studio**]([https://www.youtube.com/watch?v=3yS19NcRQt8]) |
+| *A beginner-friendly, hands-on guide to building your own light-powered spacecraft.* | *A cosmic data-art showcase that originally debuted live at the Ely Center of Contemporary Art.* | *A mini-documentary & featured ad campaign spotlighting Angela’s creative journey.* |
 
 <br />
 
-> **Inside the Archive:** The links above provide a direct look into my favorite snapshots. You can explore the open science projects I contribute to, track my traveling art pieces & watch my national MINI-DOC feature. Below you can access additional archival resources!
+> **Inside the Archive:** Explore a student-friendly spacecraft tutorial, revisit our live data-art exhibition debut, or watch the national feature showcasing Angela’s artistic philosophy on creative freedom. Expand the directory below to dive deeper.
 
 <br />
-
-
 
 <details>
 <summary><b>📖 FRAMEWORK: THE STORIES BEHIND THE ARCHIVE (Click to expand)</b></summary>
+
+
+
 <br />
 <div align="left" style="padding: 0 15px; font-size: 14px; line-height: 1.6; border-left: 2px solid #30363d;">
 
