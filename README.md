@@ -11,7 +11,7 @@
 #### **Debuted at the Ely Center for Contemporary Art**
 
 **[ 🛰️ THE ARTIFACT QUEST ](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)**  
-**[ 📖 LITERARY PORTFOLIO ](https://angies.poetry.blog/)**
+**[ 📖 STUDIO HUB & PORTFOLIO ](https://cyber-chic.github.io/themoorearchive/hub)**
 
 ---
 
