@@ -10,8 +10,8 @@
 ### *Independent Creative Studio & Boutique Press*
 #### **Debuted at the Ely Center for Contemporary Art**
 
-**[ 🛰️ THE ARTIFACT QUEST ](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)** │ **[ 📖 LITERARY PORTFOLIO ](https://angies.poetry.blog/)**
-
+**[ 🛰️ THE ARTIFACT QUEST ](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)**  
+**[ 📖 LITERARY PORTFOLIO ](https://angies.poetry.blog/)**
 
 ---
 
