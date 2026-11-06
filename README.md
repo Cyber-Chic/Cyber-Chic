@@ -51,10 +51,28 @@ My journey navigating early financial literacy—and how responsible planning ca
 
 ### **🌌 CREATIVE PROJECTS & FOUNDER HIGHLIGHTS**
 
-| | | |
-| :--- | :--- | :--- |
-| [🚀 **Photon Rocket Lab**](https://cyber-chic.github.io/cosmos/rockets) | [🎨 **CT Tech Week Event**](https://luma.com/q0lm15pz) | [📈 **NYT • T Brand Studio**](https://www.youtube.com/watch?v=3yS19NcRQt8) |
-| *A Fun Educational Tutorial* | *Exhibition @ The Ely Center* | *New York Times Ad Campaign* |
+<div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 20px 0;">
+  
+  <!-- Column 1: Rocket -->
+  <div style="flex: 1; min-width: 160px; padding: 12px; border: 1px solid #30363d; border-radius: 6px; background: rgba(110, 118, 129, 0.05);">
+    <a href="https://cyber-chic.github.io/cosmos/rockets">🚀 <b>Photon Rocket Lab</b></a>
+    <p style="font-size: 12px; color: #8aa1b5; margin: 4px 0 0 0;"><i>A Fun Educational Tutorial</i></p>
+  </div>
+
+  <!-- Column 2: CT Tech Week -->
+  <div style="flex: 1; min-width: 160px; padding: 12px; border: 1px solid #30363d; border-radius: 6px; background: rgba(110, 118, 129, 0.05);">
+    <a href="https://luma.com/q0lm15pz">🎨 <b>CT Tech Week Event</b></a>
+    <p style="font-size: 12px; color: #8aa1b5; margin: 4px 0 0 0;"><i>Exhibition @ The Ely Center</i></p>
+  </div>
+
+  <!-- Column 3: NYT Feature -->
+  <div style="flex: 1; min-width: 160px; padding: 12px; border: 1px solid #30363d; border-radius: 6px; background: rgba(110, 118, 129, 0.05);">
+    <a href="https://www.youtube.com/watch?v=3yS19NcRQt8">📈 <b>NYT • T Brand Studio</b></a>
+    <p style="font-size: 12px; color: #8aa1b5; margin: 4px 0 0 0;"><i>New York Times Ad Campaign</i></p>
+  </div>
+
+</div>
+
 
 <br />
 
