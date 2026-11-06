@@ -21,8 +21,6 @@
 
 ---
 
-
-
 ### 👑 Studio Highlights
 * 🛡️ **Private Institution** — Glastonbury, CT  
 * 🏆 **Milli Award Winner** — Conceptual Innovation  
@@ -34,7 +32,6 @@ My journey navigating early financial literacy—and how responsible planning ca
 
 > **🪐 Positive Signals:** Leveraging this independence, my flagship exhibition is slated to beam original work directly over the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)** via satellite, showcased alongside original 4x6 art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
 
-
 <!-- Native Minimalist Visual Framing // Verified Flight Manifest Asset -->
 <div align="center" style="margin: 25px 0;">
   <img src="https://media.wired.com/photos/59273b98ac01987bf0138e30/master/pass/launch1.jpg" alt="Blue Origin New Shepard Rocket Launch Trajectory" width="100%" style="max-width: 580px; border-radius: 8px; border: 1px solid #30363d;" />
@@ -43,9 +40,12 @@ My journey navigating early financial literacy—and how responsible planning ca
 </p>
 </div>
 
-
 ---
 
+<!-- Everything below this point is tucked neatly under the master toggle -->
+<details>
+<summary><b>🛰️ ENTER & EXPLORE THE ARCHIVE (Click to Expand)</b></summary>
+<br />
 
 ### 🛰️ THE STUDIO
 
