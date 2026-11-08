@@ -27,7 +27,7 @@ I direct **The Moore Signal Archive LLC**, an independent creative studio and bo
 
 My journey navigating early financial literacy—and how responsible planning can unlock absolute creative freedom—was featured nationally within a **New York Times** ad campaign. Grounded in **Phi Sigma Tau** (the international philosophy honor society), this archive translates quiet action into global waves of goodwill.
 
-> **🪐 Positive Signals:** Leveraging this independence, my flagship exhibition is slated to beam original work directly over the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)** via satellite, showcased alongside original 4x6 art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
+> **🪐 Positive Signals:** Leveraging this independence, my **[flagship exhibition](https://github.com/Cyber-Chic/cosmos/blob/main/manifest.md)** is slated to beam original work directly over the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)** via satellite, showcased alongside original 4x6 art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
 
 <!-- Native Minimalist Visual Framing // Verified Flight Manifest Asset -->
 <div align="center" style="margin: 25px 0;">
@@ -36,6 +36,7 @@ My journey navigating early financial literacy—and how responsible planning ca
   <sup><i>IMAGE SOURCE - Blue Origin Flight Into Outer Space // Published via WIRED Archive</i></sup>
 </p>
 </div>
+
 
 ---
 
