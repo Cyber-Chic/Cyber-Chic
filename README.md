@@ -10,14 +10,11 @@
 ### *Independent Creative Studio & Boutique Press*
 #### **Debuted at the Ely Center for Contemporary Art**
 
-**[ 🛰️ THE ARTIFACT QUEST ](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)**  
-**[ 📖 STUDIO HUB & PORTFOLIO ](https://cyber-chic.github.io/themoorearchive/hub)**
+**[ 🛰️ THE ARTIFACT QUEST ](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)** │ **[ 📖 STUDIO HUB & PORTFOLIO ](https://cyber-chic.github.io/themoorearchive/hub)**
 
 ---
 
-<div align="left" style="max-width: 580px; line-height: 1.55; letter-spacing: 0.01em; color: #c9d1d9; margin-bottom: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-  I direct <b>The Moore Signal Archive LLC</b>—an independent creative studio and boutique press publisher built on a grassroots, community-impact model. While standard editions of my publications are available for purchase, this platform treats kindness as currency—inviting participants to trade a single quiet act of real-world goodwill for open access to my collection of open-source STEM resources, literature, and contemporary artwork.
-</div>
+I direct **The Moore Signal Archive LLC**, an independent creative studio and boutique press. The studio operates as an open-source literary art collective bridging physical and digital environments—seeding authentic mixed-media artifacts across independent art spaces while mapping their corresponding haiku onto an interactive <a href="https://cyber-chic.github.io/cosmos/universe" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">3D cosmic canvas</a>. Grounded in a community-impact model, participants are invited to trade a single act of real-world goodwill for open access to this rotating multidisciplinary library of poetry editions, art tracking registries, and beginner-friendly STEM resources.
 
 ---
 
