@@ -14,7 +14,8 @@
 
 ---
 
-I direct **The Moore Signal Archive LLC**, an independent creative studio and boutique press. The studio operates as an open-source literary art collective bridging physical and digital environments—seeding authentic mixed-media artifacts across independent art spaces while mapping select corresponding haiku poems onto an interactive <a href="https://cyber-chic.github.io/cosmos/universe" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">3D cosmic canvas</a>. Grounded in a community-impact model, participants are invited to trade a single act of real-world goodwill for open access to this rotating multidisciplinary library of poetry editions, art tracking registries, and beginner-friendly STEM resources.
+I direct **The Moore Signal Archive LLC**, an independent creative studio bridging physical and digital environments. We seed <a href="https://bio.site/mooresignal" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">mixed-media artifacts</a> into independent art spaces while mapping related poetry onto an interactive <a href="https://github.io" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">3D cosmic canvas</a>, trading real-world acts of goodwill for access to a multidisciplinary library and community resources.
+
 
 ---
 
