@@ -14,8 +14,7 @@
 
 ---
 
-I direct **The Moore Signal Archive LLC**, an independent creative studio bridging physical and digital environments. We seed <a href="https://bio.site/mooresignal" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">mixed-media artifacts</a> into independent art spaces while mapping related poetry onto an interactive <a href="https://github.io" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">3D cosmic canvas</a>, trading real-world acts of goodwill for access to a multidisciplinary library and community resources.
-
+I direct **The Moore Signal Archive LLC**, an independent creative studio and boutique press publishing an interdisciplinary spectrum of books, contemporary literature, fine art, and open-source STEM resources. Our flagship publication is an interactive 3D cosmic visualizer—a living digital anthology that maps original poetry onto celestial targets inspired by real citizen science observations. By seeding physical mixed-media artifacts across global art spaces as gateways to this network, the studio operates on a community-impact model, inviting explorers to trade a single, quiet act of real-world goodwill for open access to our rotating archive.
 
 ---
 
