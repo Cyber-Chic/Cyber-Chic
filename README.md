@@ -23,27 +23,33 @@ By seeding these tokens and other <a href="https://bio.site/mooresignal" style="
 
 ---
 
-### 👑 Studio Highlights
-* 🛡️ **Private Institution** — Glastonbury, CT  
-* 🏆 **Milli Award Winner** — Conceptual Innovation  
-* 🌐 **Project Director** — Global & Spacebound Initiatives  
+### 👑 Studio Overview
+* 🛡️ **Boutique Press Headquarters** — Glastonbury, CT  
+* 🏆 **The Milli Award** — Excellence in Conceptual Innovation  
+* 🌐 **Project Direction** — Global Curation & Spacebound Initiatives  
 
 ### 📡 The Mission In Practice
 
-My journey navigating early financial literacy—and how responsible planning can unlock absolute creative freedom—was featured nationally within a **New York Times** ad campaign. Grounded in **Phi Sigma Tau** (the international philosophy honor society), this archive translates quiet action into global waves of goodwill.
+A personal dedication to early financial literacy and strategic resource planning—the very tools that unlocked absolute creative freedom for this press—was featured nationally within a **New York Times** campaign. Rooted in the philosophical framework of **Phi Sigma Tau** (the international philosophy honor society), the archive operates on a singular premise: transforming quiet, everyday actions into global waves of goodwill.
 
-> **🪐 Positive Signals:** Leveraging this independence, my **[flagship exhibition](https://github.com/Cyber-Chic/cosmos/blob/main/manifest.md)** is slated to beam original work directly over the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)** via satellite, showcased alongside original 4x6 art prints launching into space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
+> **🪐 Archival Spotlight:** Leveraging this artistic autonomy, our signature exhibition piece is slated to broadcast via satellite over the **[Pyramids of Giza](https://tr.ee)**. This cosmic artwork is paired with physical counterparts on Earth and in the atmosphere—ranging from our cosmic tokens to bespoke art print editions destined for outer space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
 
 <!-- Native Minimalist Visual Framing // Verified Flight Manifest Asset -->
-<div align="center" style="margin: 25px 0;">
-  <img src="https://media.wired.com/photos/59273b98ac01987bf0138e30/master/pass/launch1.jpg" alt="Blue Origin New Shepard Rocket Launch Trajectory" width="100%" style="max-width: 580px; border-radius: 8px; border: 1px solid #30363d;" />
-  <p align="center" style="font-family: 'SF Mono', Monaco, Consolas, monospace; font-size: 10px; color: #8aa1b5; margin-top: 8px; text-transform: uppercase; letter-spacing: 0.05em;">
-  <sup><i>IMAGE SOURCE - Blue Origin Flight Into Outer Space // Published via WIRED Archive</i></sup>
-</p>
+<div align="center" style="margin: 30px 0 15px 0;">
+  <img src="https://media.wired.com/photos/59273b98ac01987bf0138e30/master/pass/launch1.jpg" alt="Blue Origin New Shepard Rocket Launch Trajectory" width="100%" style="max-width: 580px; border-radius: 6px; border: 1px solid #30363d;" />
+  <p align="center" style="font-family: 'SF Mono', Monaco, Consolas, monospace; font-size: 10px; color: #8aa1b5; margin-top: 10px; text-transform: uppercase; letter-spacing: 0.05em;">
+    <sup><i>IMAGE LOG: Blue Origin Flight Into Outer Space // Published via WIRED Archive</i></sup>
+  </p>
 </div>
 
+<br />
+<hr style="border: 0; border-top: 1px dashed #30363d; margin: 35px 0;" />
 
----
+<!-- Everything below this point is tucked neatly under the master toggle -->
+<details style="margin-top: 20px;">
+<summary style="cursor: pointer; font-family: 'SF Mono', Monaco, Consolas, monospace; font-size: 12px; color: #f0f6fc; letter-spacing: 0.05em;"><b>🛰️ ENTER & EXPLORE THE ARCHIVE (Exhibits, Video & Token Registry)</b></summary>
+<br />
+
 
 <!-- Everything below this point is tucked neatly under the master toggle -->
 <details>
