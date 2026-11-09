@@ -47,14 +47,9 @@ A personal dedication to early financial literacy and strategic resource plannin
 
 <!-- Everything below this point is tucked neatly under the master toggle -->
 <details style="margin-top: 20px;">
-<summary style="cursor: pointer; font-family: 'SF Mono', Monaco, Consolas, monospace; font-size: 12px; color: #f0f6fc; letter-spacing: 0.05em;"><b>🛰️ ENTER & EXPLORE THE ARCHIVE (Exhibits, Video & Token Registry)</b></summary>
+<summary style="cursor: pointer; font-family: 'SF Mono', Monaco, Consolas, monospace; font-size: 12px; color: #f0f6fc; letter-spacing: 0.05em;"><b>🛰️ ENTER & EXPLORE THE ARCHIVE (Click to Expand)</b></summary>
 <br />
 
-
-<!-- Everything below this point is tucked neatly under the master toggle -->
-<details>
-<summary><b>🛰️ ENTER & EXPLORE THE ARCHIVE (Click to Expand)</b></summary>
-<br />
 
 ### 🛰️ THE STUDIO
 
