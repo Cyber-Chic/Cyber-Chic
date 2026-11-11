@@ -18,8 +18,7 @@ I direct **The Moore Signal Archive LLC**, an independent creative studio and bo
 
 This core work extends into tangible micro-editions, featuring hand-inked collectibles from our borderless <a href="https://github.com/Cyber-Chic/cosmos/blob/main/COIN_LEDGER.md" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">Token Treasure Hunt</a> series. Each unique coin is marked with a fragmented poetry verse, serving as an interactive waypoint that guides finders back to our archival registry to read the complete poem and explore the deep-space phenomena behind it.
 
-By seeding these tokens and other <a href="https://cyber-chic.github.io/poetry-through-play/" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">contemporary works</a> across independent art spaces as gateways to <a href="https://bio.site/mooresignal" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">this network</a>, the studio operates on a community-impact model, inviting explorers to trade a single, quiet act of real-world goodwill for open access to our rotating archive.
-
+By seeding these tokens and other <a href="https://github.io" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">contemporary works</a> across independent art spaces as gateways to this <a href="https://bio.site" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">network</a>, the studio operates on a community-impact model, inviting explorers to trade a single, quiet act of real-world goodwill for open access to our rotating archive.
 
 ---
 
