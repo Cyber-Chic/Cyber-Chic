@@ -26,7 +26,7 @@ By seeding these tokens and other <a href="https://cyber-chic.github.io/poetry-t
 * 🛡️ **Boutique Press Headquarters** — Glastonbury, CT  
 * 🏆 **The Milli Award** — Excellence in Conceptual Innovation  
 * 🌐 **Project Direction** — Global Curation & Spacebound Initiatives  
-* 🔭 **Research-Driven Publishing™** — [4K+ Classifications Fueling Sirius Editions](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16)  
+* 🔭 **Research-Driven Publishing™** — **[4K+ Classifications Fueling Sirius Editions](https://zooniverse.org)**
 
 ### 📡 The Mission In Practice
 
