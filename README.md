@@ -22,7 +22,7 @@ By seeding these tokens and other <a href="https://cyber-chic.github.io/poetry-t
 
 ---
 
-### 👑 Studio Overview
+### 👑 Studio & Founder Overview
 * 🛡️ **Boutique Press Headquarters** — Glastonbury, CT  
 * 🏆 **The Milli Award** — Excellence in Conceptual Innovation  
 * 🌐 **Project Direction** — Global Curation & Spacebound Initiatives  
