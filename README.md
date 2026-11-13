@@ -30,7 +30,8 @@ By seeding these coins and [contemporary works](https://cyber-chic.github.io/poe
 
 ### 📡 The Mission In Practice
 
-A personal dedication to early financial literacy and strategic resource planning—the very tools that unlocked absolute creative freedom for this press—was featured nationally within a **New York Times** campaign. Rooted in the philosophical framework of **Phi Sigma Tau** (the international philosophy honor society), the archive operates on a singular premise: transforming quiet, everyday actions into global waves of goodwill.
+A personal dedication to early financial literacy—the very tool that provides absolute creative freedom for this press—was featured nationally within a **New York Times** campaign. Rooted in the philosophical framework of **Phi Sigma Tau** (the international philosophy honor society), the archive operates on a singular premise: transforming quiet, everyday actions into global waves of goodwill.
+
 
 > **🪐 Archival Spotlight:** Leveraging this artistic autonomy, our signature exhibition piece is slated to broadcast via satellite over the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)**. This cosmic artwork is paired with physical counterparts on Earth and in the atmosphere—ranging from our cosmic tokens to bespoke art print editions destined for outer space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
 
