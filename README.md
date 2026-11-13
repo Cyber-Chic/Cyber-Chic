@@ -22,9 +22,6 @@ By seeding these coins and [contemporary works](https://cyber-chic.github.io/poe
 
 ---
 
-
-
-
 ### 👑 Studio & Founder Overview
 * 🛡️ **Boutique Press Headquarters** — Glastonbury, CT  
 * 🏆 **The Milli Award** — Excellence in Conceptual Innovation  
@@ -37,21 +34,19 @@ A personal dedication to early financial literacy and strategic resource plannin
 
 > **🪐 Archival Spotlight:** Leveraging this artistic autonomy, our signature exhibition piece is slated to broadcast via satellite over the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)**. This cosmic artwork is paired with physical counterparts on Earth and in the atmosphere—ranging from our cosmic tokens to bespoke art print editions destined for outer space via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
 
-<!-- Native Minimalist Visual Framing // Verified Flight Manifest Asset -->
-<div align="center" style="margin: 30px 0 15px 0;">
-  <img src="https://media.wired.com/photos/59273b98ac01987bf0138e30/master/pass/launch1.jpg" alt="Blue Origin New Shepard Rocket Launch Trajectory" width="100%" style="max-width: 580px; border-radius: 6px; border: 1px solid #30363d;" />
-  <p align="center" style="font-family: 'SF Mono', Monaco, Consolas, monospace; font-size: 10px; color: #8aa1b5; margin-top: 10px; text-transform: uppercase; letter-spacing: 0.05em;">
+<div align="center">
+  <img src="https://media.wired.com/photos/59273b98ac01987bf0138e30/master/pass/launch1.jpg" alt="Blue Origin New Shepard Rocket Launch Trajectory" width="580" />
+  <p align="center">
     <sup><i>IMAGE LOG: Blue Origin Flight Into Outer Space // Published via WIRED Archive</i></sup>
   </p>
 </div>
 
-<br />
-<hr style="border: 0; border-top: 1px dashed #30363d; margin: 35px 0;" />
+---
 
-<!-- Everything below this point is tucked neatly under the master toggle -->
-<details style="margin-top: 20px;">
-<summary style="cursor: pointer; font-family: 'SF Mono', Monaco, Consolas, monospace; font-size: 12px; color: #f0f6fc; letter-spacing: 0.05em;"><b>🛰️ ENTER & EXPLORE THE ARCHIVE (Click to Expand)</b></summary>
+<details>
+<summary><b>🛰️ ENTER & EXPLORE THE ARCHIVE (Click to Expand)</b></summary>
 <br />
+
 
 
 ### 🛰️ THE STUDIO
