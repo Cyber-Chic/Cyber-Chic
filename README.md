@@ -24,7 +24,7 @@ By seeding these coins and [contemporary works](https://cyber-chic.github.io/poe
 
 ### 👑 Studio & Founder Overview
 * 🛡️ **Boutique Press Headquarters** — Glastonbury, CT  
-* 🏆 **The Milli Award** — Excellence in Conceptual Innovation  
+* 🏆 **The Milli Award** — Honored for Excellence in Innovation  
 * 🌐 **Project Direction** — Global Curation & Spacebound Initiatives  
 * 🔭 **Archival Imprints™** — Fueling *Sirius Editions* via [4K+ Observations](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16)  
 
