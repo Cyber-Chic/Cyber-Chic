@@ -14,11 +14,11 @@
 
 ---
 
-I direct **The Moore Signal Archive LLC**, an independent [creative studio](https://bio.site/mooresignal) and boutique press publishing literature, fine art, and open-source STEM resources. Our flagship publication is [From Sirius to the Sun™](https://cyber-chic.github.io/cosmos/universe), an interactive digital anthology pairing original haiku with a rotating 3D starfield inspired by 4,000+ citizen-science observations.
+I direct **The Moore Signal Archive LLC**, an independent creative studio and boutique press publishing literature, fine art, and open-source STEM resources. Our flagship publication is [From Sirius to the Sun™](https://cyber-chic.github.io/cosmos/universe), an interactive digital anthology pairing original haiku with a rotating 3D starfield inspired by 4,000+ citizen-science observations.
 
 This digital world extends onto Earth through hand-inked collectibles in our borderless [Token Treasure Hunt](https://github.com/Cyber-Chic/cosmos/blob/main/COIN_LEDGER.md). Each coin carries a fragmented verse that guides finders back to our archival registry to unveil the full poem and explore the cosmic phenomena behind it.
 
-By seeding these coins and [contemporary works](https://cyber-chic.github.io/poetry-through-play/) inside independent art spaces worldwide, we treat kindness as currency—inviting explorers to trade one quiet act of real-world goodwill for open access to our rotating archive.
+By seeding these coins and [contemporary works](https://cyber-chic.github.io/poetry-through-play/) inside independent art spaces worldwide, we treat kindness as currency—inviting explorers to trade one quiet act of real-world goodwill for open access to our rotating [archive.](https://bio.site/mooresignal)
 
 ---
 
