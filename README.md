@@ -197,3 +197,17 @@ Professional exhibition bookings are managed via **The Moore Signal Archive LLC*
 LOG: [CC BY 4.0] // Designed in tandem with Google Gemini intelligence.
 ```
 
+***
+
+<details>
+<summary>⚖️ <b>Studio Disclaimers, Safety & Archival Disclosures</b></summary>
+<br />
+
+* **Artistic & Scientific Scope:** *The Moore Signal Archive LLC* is an independent creative studio and boutique press. All 3D starfields, visualizations, and poetic works are conceptual artistic interpretations inspired by open citizen-science initiatives and are not affiliated with, funded by, or endorsed by NASA, Zooniverse, AAVSO, or any government space agency.
+* **Spaceflight & Exhibition Timelines:** References to spacebound postcards, commercial launches, or satellite broadcasts reflect active submissions and scheduled third-party flight manifests. Launch windows and orbital schedules are managed entirely by external aerospace providers and remain subject to change.
+* **Educational & Personal Storytelling Only:** Any content, media features, or projects touching on personal saving, budgeting, or financial literacy reflect personal experience and creative storytelling only. Nothing published by the studio constitutes licensed financial, investment, tax, or legal advice.
+* **Physical Artifacts, DIY Projects & Hunt Safety:** Custom coins, pins, and DIY electronics tutorials (including small parts and button-cell batteries) are intended strictly for adult collectors and supervised youth explorers. Keep small components away from infants, toddlers, and pets (choking/ingestion hazard). When participating in outdoor treasure hunts or visiting neighborhood art galleries, please stay in safe, public areas, obey all local laws, and participate at your own risk.
+
+<br />
+
+</details>
