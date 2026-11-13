@@ -6,7 +6,6 @@
 ───────────────────────────────────────
 </pre>
 
-
 ### **THE MOORE SIGNAL ARCHIVE™**
 ### *Independent Creative Studio & Boutique Press*
 #### **Debuted at the Ely Center for Contemporary Art**
@@ -15,13 +14,16 @@
 
 ---
 
-I direct **The Moore Signal Archive LLC**, an independent <a href="https://bio.site/mooresignal" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">creative studio</a> and boutique press publishing an interdisciplinary spectrum of literature, fine art, and open-source STEM resources. Our flagship publication is <a href="https://cyber-chic.github.io/cosmos/universe" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">From Sirius to the Sun™</a>, an interactive digital anthology that maps original poetry onto cosmic targets inspired by real citizen science observations.
+I direct **The Moore Signal Archive LLC**, an independent [creative studio](https://bio.site/mooresignal) and boutique press publishing literature, fine art, and open-source STEM resources. Our flagship publication is [From Sirius to the Sun™](https://cyber-chic.github.io/cosmos/universe), an interactive digital anthology pairing original haiku with a rotating 3D starfield inspired by 4,000+ citizen-science observations.
 
-This core work extends into tangible micro-editions, featuring hand-inked collectibles from our borderless <a href="https://github.com/Cyber-Chic/cosmos/blob/main/COIN_LEDGER.md" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">Token Treasure Hunt</a> series. Each unique coin is marked with a fragmented poetry verse, serving as an interactive waypoint that guides finders back to our archival registry to read the complete poem and explore the deep-space phenomena behind it.
+This digital world extends onto Earth through hand-inked collectibles in our borderless [Token Treasure Hunt](https://github.com/Cyber-Chic/cosmos/blob/main/COIN_LEDGER.md). Each coin carries a fragmented verse that guides finders back to our archival registry to unveil the full poem and explore the cosmic phenomena behind it.
 
-By seeding these tokens and other <a href="https://cyber-chic.github.io/poetry-through-play/" style="color: #8aa1b5; text-decoration: none; border-bottom: 1px dashed #8aa1b5;">contemporary works</a> across independent art spaces as gateways to this network, the studio operates on a community-impact model, inviting explorers to trade a single, quiet act of real-world goodwill for open access to our rotating archive.
+By seeding these coins and [contemporary works](https://cyber-chic.github.io/poetry-through-play/) inside independent art spaces worldwide, we treat kindness as currency—inviting explorers to trade one quiet act of real-world goodwill for open access to our rotating archive.
 
 ---
+
+
+
 
 ### 👑 Studio & Founder Overview
 * 🛡️ **Boutique Press Headquarters** — Glastonbury, CT  
