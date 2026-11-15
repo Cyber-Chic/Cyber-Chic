@@ -18,7 +18,7 @@ I direct **The Moore Signal Archive LLC**, an independent creative studio and bo
 
 This digital world extends onto Earth through hand-inked collectibles in our borderless [Token Treasure Hunt](https://github.com/Cyber-Chic/cosmos/blob/main/COIN_LEDGER.md). Each coin carries a fragmented verse that guides finders back to our archival registry to unveil the full poem and explore the cosmic phenomena behind it.
 
-By seeding these coins and [contemporary works](https://cyber-chic.github.io/poetry-through-play/) inside independent art spaces worldwide, we treat kindness as currency—inviting explorers to trade one quiet act of real-world goodwill for open access to our [rotating archive.](https://bio.site/mooresignal)
+By seeding these coins and [contemporary works](https://cyber-chic.github.io/poetry-through-play/) inside independent art spaces worldwide, we treat kindness as currency—inviting explorers to trade one quiet act of real-world goodwill for open access to our rotating archive.
 
 ---
 
@@ -27,6 +27,9 @@ By seeding these coins and [contemporary works](https://cyber-chic.github.io/poe
 * 🏆 **The Milli Award** — Honored for Excellence in Innovation  
 * 🌐 **Project Direction** — Global Curation & Spacebound Initiatives  
 * 🔭 **Archival Imprints™** — Fueling *Sirius Editions* via [4K+ Observations](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16)  
+* 🌀 **Rotating Archive** — Explore the studio website at [bio.site/mooresignal](https://bio.site/mooresignal)
+
+
 
 ### 📡 The Mission In Practice
 
