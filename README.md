@@ -54,13 +54,13 @@ A personal dedication to early financial literacy—the very tool that underwrit
 
 ### ✦ Selected Works & Showcase
 
-| **[Space STEM Labs](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)** | **[CT Tech Week Debut](https://luma.com/q0lm15pz)** | **[NYT • T Brand Studio](https://www.youtube.com/watch?v=3yS19NcRQt8)** |
+| **[Layers of the Heart](https://cyber-chic.github.io/poetry-through-play/)** | **[Space STEM Labs](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)** | **[Mini-Doc • T Brand Studio](https://www.youtube.com/watch?v=3yS19NcRQt8)** |
 | :---: | :---: | :---: |
-| *Fun Educational Tutorials* | *Exhibition at the Ely Center* | *New York Times Ad Campaign* |
+| *Poetry Soundscape Anthology* | *Fun Educational Tutorials* | *New York Times Ad Campaign* |
 
 <br />
 
-> **Inside the Archive:** Explore beginner-friendly spacecraft tutorials, revisit our premier studio debut & exhibition, or hear the founder's philosophy on financial peace and creative freedom. Expand the directory below to browse the full registry.
+> **Inside the Archive:** From ambient soundscapes and DIY space science to the founder's profile on how early financial planning unlocked creative freedom—explore these highlights above or expand the directory below for the full registry.
 
 ### ✦ ARCHIVAL DIRECTORIES
 
