@@ -29,7 +29,7 @@ By seeding these coins and **[interdisciplinary works](https://cyber-chic.github
 * **Headquarters** — Glastonbury, Connecticut  
 * **Distinction** — Westfair Milli Award for Excellence in Innovation  
 * **Curation & Flight** — Global Exhibitions & Commercial Spacebound Initiatives  
-* **Archival Imprints™** — *Sirius Editions*, informed by [4,000+ Deep-Sky Observations](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16)  
+* **Archival Imprints™** — *Sirius Editions*, inspired by [4,000+ Deep-Sky Observations](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16)  
 * **Digital Index** — [bio.site/mooresignal](https://bio.site/mooresignal)
 
 ### ✦ The Mission in Practice
