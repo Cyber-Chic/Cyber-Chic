@@ -19,7 +19,7 @@
 
 I direct **The Moore Signal Archive LLC**, an independent creative studio and boutique press publishing literature, fine art, and open-source STEM resources. Our flagship edition, **[From Sirius to the Sun™](https://cyber-chic.github.io/cosmos/universe)**, is an interactive digital anthology pairing original haiku with a rotating 3D starfield inspired by over 4,000 citizen-science observations.
 
-This cosmic series extends onto Earth through hand-inked collectibles as part of our borderless **[Treasure Hunt](https://github.com/Cyber-Chic/cosmos/blob/main/COIN_LEDGER.md)**. Each coin carries a fragmented verse that guides finders back to our central registry to uncover the complete poem and explore the cosmic phenomena behind it.
+This cosmic series extends onto Earth through hand-inked collectibles as part of our borderless treasure hunt. Each **[coin](https://github.com/Cyber-Chic/cosmos/blob/main/COIN_LEDGER.md)** carries a fragmented verse that guides finders back to our central registry to uncover the complete poem and explore the cosmic phenomena behind it.
 
 By seeding these coins and interdisciplinary works inside independent art spaces worldwide, we treat kindness as currency—inviting explorers to exchange a quiet act of real-world goodwill for open access to our **[rotating archive](https://bio.site/mooresignal)**.
 
@@ -60,40 +60,8 @@ A personal dedication to early financial literacy—the very tool that underwrit
 
 <br />
 
-> **Inside the Archive:** From ambient soundscapes and DIY space science to the founder's profile on how early financial planning unlocked creative freedom—explore these highlights above or expand the directory below for the full registry.
+> **Inside the Archive:** From ambient soundscapes and DIY space science to the founder's profile on how early financial planning unlocked creative freedom—explore these highlights above.
 
-### ✦ ARCHIVAL DIRECTORIES
-
-<details>
-<summary><b>▸ ENTER PROJECT REGISTRY (Click to Expand)</b></summary>
-<br />
-
-#### LITERARY & VISUAL ARCHIVE
-
-| TYPE | ARCHIVAL RECORD | SUMMARY / SCOPE |
-| :---: | :--- | :--- |
-| 🪐 | [**THE CELESTIAL HORIZON**](https://cyber-chic.github.io/cosmos/COIN_LEDGER.html) | _Poetry Treasures Launching Into Space_ |
-| 📂 | [**THE MOORE STUDIO ARCHIVE**](https://bio.site/mooresignal) | _Special-Edition Archival Releases_ |
-| 📚 | [**LITERARY PORTFOLIO**](https://angies.poetry.blog) | _Creative Hub & Published Pieces_ |
-| 📖 | [**THE BOOK COLLECTION**](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks) | _Standard Commercial Volumes_ |
-
-<br />
-
-#### RECOGNITION & STEM PROJECTS
-
-| TYPE | ARCHIVAL RECORD | SUMMARY / SCOPE |
-| :---: | :--- | :--- |
-| 📅 | [**ELY CENTER TECH WEEK POP-UP**](https://luma.com/q0lm15pz) | _Contemporary Art Exhibition Context_ |
-| 🚀 | [**PHOTON & SPACE STEM LABS**](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md) | _DIY Rocket, Lightsail & Time Capsule Guides_ |
-| 💼 | [**EXECUTIVE ENDORSEMENT**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-ugcPost-7468021297931825152-XZgR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAYfOpcBrnwtnS9rgebG859ruEu2Hp25ylk) | _CT Tech Week Participant Evaluation_ |
-| 📉 | [**BUBBLEGUM FINANCE ARCHIVE**](https://cyber-chic.github.io/bubblegumfinance/) | _Educational Financial Literacy Index_ |
-| 🖼️ | [**FEATURED STUDIO PROFILE**](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/) | _Free Little Art Galleries Spotlight_ |
-| 🏆 | [**WESTFAIR MILLI AWARD**](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/m) | _Honored for Excellence in Innovation_ |
-| 🌌 | [**3D GALAXY VISUALIZER**](https://cyber-chic.github.io/cosmos/universe) | _Stylized Universe & Cosmic Poems_ |
-| 📰 | [**NYT • T BRAND STUDIO**](https://www.youtube.com/watch?v=3yS19NcRQt8) | _National Ad Campaign Feature_ |
-| 🪙 | [**PRETTY COINZ INDEX**](https://emaze.me/prettycoinz) | _Currency-Based Study on Aesthetic Value_ |
-
-</details>
 
 </details>
 
