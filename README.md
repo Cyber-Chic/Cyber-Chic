@@ -27,9 +27,9 @@ By seeding these coins and interdisciplinary works inside independent art spaces
 
 ### ✦ Studio & Founder Profile
 * **Headquarters** — Glastonbury, Connecticut  
-* **Distinction** — [Westfair Milli Award](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/) for Excellence in Innovation  
-* **Social Enterprise** — Grassroots Model & [Commercial Publishing Initiatives](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)  
-* **Archival Imprints™** — *Sirius Editions*, inspired by [4,000+ Deep-Sky Observations](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16)  
+* **Distinction** — Westfair [Milli Award](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/) for Excellence in Innovation  
+* **Social Enterprise** — Grassroots Model & [Published Catalog](https://www.amazon.com/stores/author/B0GHSYZ1FL)  
+* **Archival Imprints™** — *Sirius Editions*, inspired by [4,000+ Observations](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16)  
 * **Historical Debut** — [CT Tech Week @ Ely Center](https://luma.com/q0lm15pz)
 
 
