@@ -11,7 +11,7 @@
 ## **THE MOORE SIGNAL ARCHIVE™**
 *Debuted at the Ely Center for Contemporary Art • CT Tech Week*
 
-**[ THE ARTIFACT QUEST ](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)** │ **[ STUDIO HUB & PORTFOLIO ](https://bio.site/mooresignal)**
+**[ THE ARTIFACT QUEST ](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)** │ **[ STUDIO HUB & PORTFOLIO ](https://cyber-chic.github.io/themoorearchive/hub)**
 
 </div>
 
@@ -19,18 +19,20 @@
 
 I direct **The Moore Signal Archive LLC**, an independent creative studio and boutique press publishing literature, fine art, and open-source STEM resources. Our flagship edition, **[From Sirius to the Sun™](https://cyber-chic.github.io/cosmos/universe)**, is an interactive digital anthology pairing original haiku with a rotating 3D starfield inspired by over 4,000 citizen-science observations.
 
-This cosmic series extends onto Earth through hand-inked collectibles distributed across our borderless **[Artifact Ledger](https://github.com/Cyber-Chic/cosmos/blob/main/COIN_LEDGER.md)**. Each coin carries a fragmented verse that guides finders back to our central registry to uncover the complete poem and explore the cosmic phenomena behind it.
+This cosmic series extends onto Earth through hand-inked collectibles as part of our borderless **[Treasure Hunt](https://github.com/Cyber-Chic/cosmos/blob/main/COIN_LEDGER.md)**. Each coin carries a fragmented verse that guides finders back to our central registry to uncover the complete poem and explore the cosmic phenomena behind it.
 
-By seeding these coins and **[interdisciplinary works](https://cyber-chic.github.io/themoorearchive/hub)** inside independent art spaces worldwide, we treat kindness as currency—inviting explorers to exchange a quiet act of real-world goodwill for open access to our rotating archive.
+By seeding these coins and interdisciplinary works inside independent art spaces worldwide, we treat kindness as currency—inviting explorers to exchange a quiet act of real-world goodwill for open access to our **[rotating archive](https://bio.site/mooresignal)**.
 
 ---
 
 ### ✦ Studio & Founder Profile
 * **Headquarters** — Glastonbury, Connecticut  
-* **Distinction** — Westfair Milli Award for Excellence in Innovation  
-* **Social Enterprise** — Grassroots Model & Commercial Publishing Initiatives  
+* **Distinction** — [Westfair Milli Award](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/) for Excellence in Innovation  
+* **Social Enterprise** — Grassroots Model & [Commercial Publishing Initiatives](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)  
 * **Archival Imprints™** — *Sirius Editions*, inspired by [4,000+ Deep-Sky Observations](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16)  
 * **Historical Debut** — [CT Tech Week @ Ely Center](https://luma.com/q0lm15pz)
+
+
 
 ### ✦ The Mission in Practice
 
