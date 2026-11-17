@@ -9,7 +9,7 @@
 <div align="center">
 
 ## **THE MOORE SIGNAL ARCHIVE™**
-*Independent Creative Studio & Boutique Press • Debuted at the Ely Center for Contemporary Art*
+*Debuted at the Ely Center for Contemporary Art • CT Tech Week*
 
 **[ THE ARTIFACT QUEST ](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)** │ **[ STUDIO HUB & PORTFOLIO ](https://cyber-chic.github.io/themoorearchive/hub)**
 
