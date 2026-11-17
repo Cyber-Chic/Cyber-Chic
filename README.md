@@ -3,7 +3,7 @@
     ✦       .       •       .
 ─── ● ─── ✦ ─── • ─── ✦ ─── ● ───
  L I T E R A T U R E │ A R T S │ S C I E N C E
-───────────────────────────────────────
+───────────────────────────────────
 </pre>
 
 <div align="center">
@@ -11,7 +11,7 @@
 ## **THE MOORE SIGNAL ARCHIVE™**
 *Debuted at the Ely Center for Contemporary Art • CT Tech Week*
 
-**[ THE ARTIFACT QUEST ](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)** │ **[ STUDIO HUB & PORTFOLIO ](https://bio.site/mooresignal)**
+**[ THE ARTIFACT QUEST ](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)** │ **[ STUDIO PORTAL ](https://bio.site/mooresignal)**
 
 </div>
 
@@ -21,16 +21,17 @@ I direct **The Moore Signal Archive LLC**, an independent creative studio and bo
 
 This cosmic series extends onto Earth through hand-inked collectibles as part of our borderless treasure hunt. Each **[coin](https://github.com/Cyber-Chic/cosmos/blob/main/COIN_LEDGER.md)** carries a fragmented verse that guides finders back to our central registry to uncover the complete poem and explore the cosmic phenomena behind it.
 
-By seeding these coins and interdisciplinary works inside independent art spaces worldwide, we treat kindness as currency—inviting explorers to exchange a quiet act of real-world goodwill for open access to our rotating archive.
+By seeding these coins and interdisciplinary works inside independent art spaces worldwide, we treat kindness as currency—inviting explorers to exchange a quiet act of real-world goodwill for open access to our **[rotating archive](https://bio.site/mooresignal)**.
 
 ---
 
 ### ✦ Studio & Founder Profile
-* **Leadership** — Angela N. Moore, Director [[About](https://cyber-chic.github.io/themoorearchive/hub)] 
+* **Leadership** — Angela N. Moore, Director [[Hub](https://cyber-chic.github.io/themoorearchive/hub)]  
 * **Distinction** — Westfair Milli Award for Excellence in Innovation [[Press](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)]  
 * **Social Enterprise** — Grassroots Model & Commercial Publishing [[Books](https://www.amazon.com/stores/author/B0GHSYZ1FL/allbooks)]  
 * **Archival Imprints™** — *Sirius Editions*, inspired by 4,000+ Observations [[Data](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16)]  
 * **Historical Debut** — CT Tech Week @ Ely Center [[Event](https://luma.com/q0lm15pz)]
+
 
 
 ### ✦ The Mission in Practice
