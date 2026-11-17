@@ -47,14 +47,6 @@ Profiled in a national **New York Times** campaign, my early commitment to finan
   </p>
 </div>
 
-
-<div align="center">
-  <img src="https://media.wired.com/photos/59273b98ac01987bf0138e30/master/pass/launch1.jpg" alt="Blue Origin New Shepard Rocket Launch Trajectory" width="580" />
-  <p align="center">
-    <sup><i>IMAGE LOG: Blue Origin Flight Into Outer Space // Published via WIRED Archive</i></sup>
-  </p>
-</div>
-
 ---
 
 <details>
