@@ -38,7 +38,7 @@ By seeding these coins and interdisciplinary works inside independent art spaces
 
 Profiled in a national **New York Times** campaign, my early commitment to financial literacy underwrites this studio's complete artistic independence. As an inductee of **Phi Sigma Tau** (the international philosophy honor society), I built the archive to turn quiet, intentional ideas into real-world creative action. [[Studio Fellowship](https://cyber-chic.github.io/themoorearchive/fellowship.html)]
 
-> **Archival Spotlight:** This creative autonomy powers our two flagship space initiatives—an upcoming satellite broadcast of our signature mixed-media work above the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)**, paired with bespoke archival prints scheduled for spaceflight aboard **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
+> **Archival Spotlight:** This creative autonomy powers our **[two flagship space initiatives](https://github.com/Cyber-Chic/cosmos/blob/main/manifest.md)**—an upcoming satellite broadcast of our signature mixed-media work above the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)**, paired with bespoke archival prints scheduled for spaceflight aboard **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
 
 <div align="center">
   <img src="https://media.wired.com/photos/59273b98ac01987bf0138e30/master/pass/launch1.jpg" alt="Blue Origin New Shepard Rocket Launch Trajectory" width="580" />
