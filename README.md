@@ -19,7 +19,7 @@
 
 I direct **The Moore Signal Archive LLC**, an independent creative studio and boutique press publishing literature, fine art, and open-source STEM resources. Our flagship edition, **[From Sirius to the Sun™](https://cyber-chic.github.io/cosmos/universe)**, is an interactive digital anthology pairing original haiku with a rotating 3D starfield inspired by over 4,000 citizen-science observations.
 
-This digital world extends onto Earth through hand-inked collectibles distributed across our borderless **[Artifact Ledger](https://github.com/Cyber-Chic/cosmos/blob/main/COIN_LEDGER.md)**. Each coin carries a fragmented verse that guides finders back to our central registry to uncover the complete poem and explore the cosmic phenomena behind it.
+This cosmic series extends onto Earth through hand-inked collectibles distributed across our borderless **[Artifact Ledger](https://github.com/Cyber-Chic/cosmos/blob/main/COIN_LEDGER.md)**. Each coin carries a fragmented verse that guides finders back to our central registry to uncover the complete poem and explore the cosmic phenomena behind it.
 
 By seeding these coins and **[interdisciplinary works](https://cyber-chic.github.io/poetry-through-play/)** inside independent art spaces worldwide, we treat kindness as currency—inviting explorers to exchange a quiet act of real-world goodwill for open access to our rotating archive.
 
@@ -34,9 +34,9 @@ By seeding these coins and **[interdisciplinary works](https://cyber-chic.github
 
 ### ✦ The Mission in Practice
 
-A personal dedication to early financial literacy—the very tool that underwrites this studio's complete artistic autonomy—was profiled nationally in a **New York Times** campaign. Grounded in the philosophical tradition of **Phi Sigma Tau**, the archive operates on a singular premise: transforming quiet, everyday actions into enduring waves of goodwill.
+A personal dedication to early financial literacy—the very tool that underwrites this studio's complete artistic autonomy—was profiled nationally in a **New York Times** campaign. Grounded in the principles of **Phi Sigma Tau** (the international philosophy honor society), the archive operates on a simple premise: transforming quiet, everyday actions into enduring waves of goodwill.
 
-> **Archival Spotlight:** Supported by this creative independence, our signature mixed-media work is queued for orbital satellite broadcast over the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)**. This transmission is paired with terrestrial artifacts and bespoke archival prints scheduled for spaceflight via **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
+> **Archival Spotlight:** Supported by this creative independence, our signature mixed-media artwork is scheduled to broadcast from a satellite in orbit directly above the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)**. Alongside this space transmission, we hide art coins on Earth and destine bespoke archival prints for outer space aboard **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
 
 <div align="center">
   <img src="https://media.wired.com/photos/59273b98ac01987bf0138e30/master/pass/launch1.jpg" alt="Blue Origin New Shepard Rocket Launch Trajectory" width="580" />
@@ -53,13 +53,13 @@ A personal dedication to early financial literacy—the very tool that underwrit
 
 ### ✦ Selected Works & Showcase
 
-| **[Photon Rocket Labs](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)** | **[CT Tech Week Debut](https://luma.com/q0lm15pz)** | **[NYT • T Brand Studio](https://www.youtube.com/watch?v=3yS19NcRQt8)** |
+| **[Space STEM Labs](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md)** | **[CT Tech Week Debut](https://luma.com/q0lm15pz)** | **[NYT • T Brand Studio](https://www.youtube.com/watch?v=3yS19NcRQt8)** |
 | :---: | :---: | :---: |
-| *Fun Educational Tutorials* | *Exhibition at the Ely Center* | *National Documentary Feature* |
+| *Fun Educational Tutorials* | *Exhibition at the Ely Center* | *New York Times Ad Campaign* |
 
 <br />
 
-> **Inside the Archive:** Explore beginner-friendly science tutorials, revisit our premier studio debut & exhibition, or hear the founders philosophy on financial peace and creative freedom. Expand the directory below to browse the full registry.
+> **Inside the Archive:** Explore beginner-friendly spacecraft tutorials, revisit our premier studio debut & exhibition, or hear the founder's philosophy on financial peace and creative freedom. Expand the directory below to browse the full registry.
 
 ### ✦ ARCHIVAL DIRECTORIES
 
@@ -83,7 +83,7 @@ A personal dedication to early financial literacy—the very tool that underwrit
 | TYPE | ARCHIVAL RECORD | SUMMARY / SCOPE |
 | :---: | :--- | :--- |
 | 📅 | [**ELY CENTER TECH WEEK POP-UP**](https://luma.com/q0lm15pz) | _Contemporary Art Exhibition Context_ |
-| 🚀 | [**PHOTON ROCKETS & TUTORIALS**](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md) | _STEM Space Lessons on Light Propulsion_ |
+| 🚀 | [**PHOTON & SPACE STEM LABS**](https://github.com/Cyber-Chic/cosmos/blob/main/photon_engines.md) | _DIY Rocket, Lightsail & Time Capsule Guides_ |
 | 💼 | [**EXECUTIVE ENDORSEMENT**](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-ugcPost-7468021297931825152-XZgR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAYfOpcBrnwtnS9rgebG859ruEu2Hp25ylk) | _CT Tech Week Participant Evaluation_ |
 | 📉 | [**BUBBLEGUM FINANCE ARCHIVE**](https://cyber-chic.github.io/bubblegumfinance/) | _Educational Financial Literacy Index_ |
 | 🖼️ | [**FEATURED STUDIO PROFILE**](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/) | _Free Little Art Galleries Spotlight_ |
@@ -104,7 +104,7 @@ A personal dedication to early financial literacy—the very tool that underwrit
       <td align="center">
         <img src="https://github.com/Cyber-Chic/cosmos/raw/main/images.css/IMG_9495.jpeg" alt="Flagship Mixed-Media Artifact" width="480" />
         <br /><br />
-        <sup><i>Archival Artifacts (Full Composition)<br />Scheduled for an orbital display passing over the Pyramids of Giza.</i></sup>
+        <sup><i>Archival Artifacts (Full Composition)<br />Scheduled for a satellite broadcast in orbit above the Pyramids of Giza.</i></sup>
       </td>
     </tr>
   </table>
