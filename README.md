@@ -41,7 +41,7 @@ Profiled in a national **New York Times** campaign, my early commitment to finan
 > **Archival Spotlight:** This creative autonomy powers our **[two flagship space initiatives](https://github.com/Cyber-Chic/cosmos/blob/main/manifest.md)**—an upcoming satellite broadcast of our signature mixed-media work above the **[Pyramids of Giza](https://tr.ee/P8Bv63Qkk6)**, paired with bespoke archival prints scheduled for spaceflight aboard **[Blue&nbsp;Origin](https://www.clubforfuture.org/postcards)**.
 
 <div align="center">
-  <img src="https://media.wired.com/photos/59273b98ac01987bf0138e30/master/pass/launch1.jpg" alt="Blue Origin New Shepard Rocket Launch Trajectory" width="580" />
+  <img src="https://raw.githubusercontent.com/Cyber-Chic/themoorearchive/refs/heads/main/img/launch1.jpg" alt="Blue Origin New Shepard Rocket Launch Trajectory" width="580" />
   <p align="center">
     <sup><i>IMAGE LOG: Blue Origin Flight Into Outer Space // Published via WIRED Archive</i></sup>
   </p>
